@@ -27,8 +27,8 @@
 
 **Mean Square Error**: is the average squared loss per example over the whole dataset. To calculate MSE, sum up all the squared losses for individual examples and then divide by the number of examples  
 
-![MSE](resources/mse.png "MSE formula")
+![MSE](../resources/mse.png "MSE formula")
 
 When training a model we want to minimize the loss as much as possible to make the model more accurate.
 
-[Go Back](README.md)
+[Go Back](../README.md)
