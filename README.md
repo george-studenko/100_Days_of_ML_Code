@@ -20,4 +20,6 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
   
 **Thoughts** : This is a good beginners course, useful to refresh some concepts and get to practice tensorflow.
 
-**Link to work:** [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) | [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)
+**Link to course:** [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+**Link to work:** [Intro to Pandas Lab](code/Intro_to_pandas.ipynb) | [Finding Edges and Custom Kernels](code/cv/Finding%20Edges%20and%20Custom%20Kernels.ipynb)
