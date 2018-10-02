@@ -22,4 +22,12 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Link to course:** [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-**Link to work:** [Intro to Pandas Lab](code/Intro_to_pandas.ipynb) | [Finding Edges and Custom Kernels](code/cv/Finding%20Edges%20and%20Custom%20Kernels.ipynb)
+**Link to work:** [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)
+
+## Day 2 : Oct 1, 2018
+
+**Today's Progress** : Finished the lessons: Image Representation and Classification, Convolutional Filters and Edge Detection from the computer Vision Nanodegree, only 3 lessons to go to start with the first project: Facial Keypoint Detection.
+
+**Thoughts** : Edge detection can be quite useful to detect images, Hough transformations are also quite useful to detect lines that correspond to the same object, lots of parameters to adjust and tune. Bluring images before applying Canny edge detection is quite useful to get rid of unwanted noise in images.
+
+**Link to work:** [Finding Edges and Custom Kernels](code/cv/Finding%20Edges%20and%20Custom%20Kernels.ipynb) | [Hough Lines](code/cv/Hough_lines.ipynb) | [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)
