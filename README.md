@@ -10,7 +10,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Thoughts** : Looks like detecting corners is a quite useful technque in Computer Vision, also image contouring seems to be a great way to detect images. K-means clustering can group part of the image together to help with image segmentation! I have learned about high features in Tensorflow, I'm not sure if those are new features or I just didn't get the chance to use them before.
 
-**Link to work:** [Day 3 Notes](content/Day-3.md) | [Contour detection and features](code/cv/Contour detection and features.ipynb)
+**Link to work:** [Day 3 Notes](content/Day-3.md) | [Contour detection and features](https://github.com/george-studenko/100_Days_of_ML_Code/blob/master/code/cv/Contour%20detection%20and%20features.ipynb)
 
 
 ## Day 2 : Oct 1, 2018
