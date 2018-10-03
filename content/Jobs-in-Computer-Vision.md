@@ -16,7 +16,7 @@ So be creative, see on what fields computer vision can be applied, cross check y
 
 While searching for "Computer Vision jobs" might give some results, chances are there are a lot more offers that you won't find with these keywords. 
 
-You should also try other keywords like for example: Image processing, Image Analysis or Image processing, or search for skills instead of job titles, like image feature extration, or more technical keywords like Simultaneous Location and Mapping (SLAM), HOG, ORB and so on, be creative!
+You should also try other keywords like for example: Machine Vision, robotics vision, Image processing, Image Analysis or Image processing, or search for skills instead of job titles, like image feature extration, or more technical keywords like Simultaneous Location and Mapping (SLAM), HOG, ORB and so on, be creative!
 
 ## Computer Vision applications
 
@@ -29,3 +29,18 @@ There other known applications like text translation or image recognition, from 
 Other interesting fields like hand recognition to translate hand language or detecting emotions and so on, I'm sure there are so many more application and future applications to come in the near future.
 
 This is a very fast changing field, with new algorithms and papers being published every day, so make sure to stay up to date by reading what is going on in the field in a daily basis.
+
+## Where to start looking for a Computer Vision job?
+
+Here are some basic links where you can start, but don't forget to do some more google searches for computer vision jobs!
+
+[LinkedIn Jobs Search](https://www.linkedin.com/jobs/search/?keywords=computer%20vision&location=Worldwide&locationId=OTHERS.worldwide)
+
+[Glassdoor Job Search](https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=computer+vision&sc.keyword=computer+vision&locT=&locId=&jobType=)
+
+[indeed Job Search](https://www.indeed.com/q-Computer-Vision-jobs.html)
+
+[Pilot.AI Jobs](https://pilotai.workable.com/)
+
+[stackoverflow Jobs Search](https://stackoverflow.com/jobs/developer-jobs-using-computer-vision)
+
