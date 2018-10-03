@@ -6,6 +6,12 @@ Work on your own Computer vision projects, the best way to show your expertise i
 
 You can work on projects with gadgets like the AWS Deeplens or if you are into hardware why not try something with the Goole AIY Vision Kit. Maybe buy a Raspbery Pi and some servos and do your own miniature Self-driving car!, document the process and share it online!
 
+Attend to events like meetups, conferences or study groups related to Computer Vision, Deep Learning and related fields, good old in-person networking will definitely increase your chances or getting a job in the industry!
+
+I have also saw mobile developers who are working with computer vision optimized for mobiles (iOS/Android), which means the algorithms used must be really optimized to run fast on mobilde devices and avoid draining the battery.
+
+So be creative, see on what fields computer vision can be applied, cross check your current skills with computer vision and see if you can find a good match.
+
 ## How do I search for computer vision jobs?
 
 While searching for "Computer Vision jobs" might give some results, chances are there are a lot more offers that you won't find with these keywords. 
