@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 4 : Oct 3, 2018
+
+**Today's Progress** : I decided to go a bit less technical today and research about computer vision jobs, it is a very interesting field of study and it can be applied to so many things. 
+
+**Thoughts** : From medicine to self-driving cars, it is just amazing and inspiring at the same time the things that can be accomplished with computer vision.
+
+**Link to work:** [Jobs in Computer Vision](content/Jobs-in-Computer-Vision.md)
+
 ## Day 3 : Oct 2, 2018
 
 **Today's Progress** : I finished the Types of Features and Image Segmentation material of the Computer Vision Nanodegree and going back to Tensorflow after many months with the Google ML Crash course
