@@ -10,7 +10,8 @@ To define a network in PyTorch you create a class:
 
 Define the layers on the __init__ function
 
-```def __init__(self, n_classes):
+```
+def __init__(self, n_classes):
   super(Net,self).__init__()
   # 1 input channel (grayscale image), 32 outputs or feature maps, 5x5 conv. kernel
   self.conv1 = nn.Conv2d(1,32,5) 
