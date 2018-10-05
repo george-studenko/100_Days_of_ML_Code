@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 6 : Oct 5, 2018
+
+**Today's Progress** : learning about CNNs types of layers and how to define the network and feedforward with PyTorch
+
+**Thoughts** : Still a bit confused when it comes to define the actual size (shape) of the network after a couple of layers.
+
+**Link to work:** [Day 6 notes](content/Day-6.md)
+
 ## Day 5 : Oct 4, 2018
 
 **Today's Progress** : Progress on the Computer Vision ND, learning about ORB and HOG algorithms, and starting with Convolutional Neural Networks
