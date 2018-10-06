@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 7 : Oct 6, 2018
+
+**Today's Progress** : Working on the Fast.AI Deeplearning course on data augmentation and ways to find the best learning rate
+
+**Thoughts** : It's interesting to realize that data augmentation is not always benefitial and to understan when it is, also it is interesting to see that are some crucial concepts like the lr_find function that is based on the part of a not really known paper, that is just great to find the optimal learning rate.
+
+**Link to work:** [Day 7 notes](content/Day-7.md)
+
 ## Day 6 : Oct 5, 2018
 
 **Today's Progress** : learning about CNNs types of layers and how to define the network and feedforward with PyTorch
