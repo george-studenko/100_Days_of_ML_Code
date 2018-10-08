@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 9 : Oct 8, 2018
+
+**Today's Progress** : I've been working on the CV nanodegree, learning more about ways to improve a network with Dropout and Momentum and also how to decide what layers to use when developing a network (hint: it is all about intuitions).
+
+**Thoughts** : Momentum seems to be a good technique to use when local minimas might be a problem, and dropout will help a lot to make all nodes of a network better and avoid having some nodes that might be doing all the job opn their own. While deciding on what layers to include is all about intuitions there are some things that you can try out to see if the model improves check the list in the notes of day 9.
+
+**Link to work:** [Day 9 notes](content/Day-9.md)
+
 ## Day 8 : Oct 7, 2018
 
 **Today's Progress** : I've been working on the CV nanodegree, although I didn't advance much I took time to really understand how the shape of layers change after each convolutional layer and after each pooling layer, since that is one of the main confussions I had with CNNs for a long time.
