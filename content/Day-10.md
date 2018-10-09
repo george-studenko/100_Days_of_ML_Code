@@ -6,7 +6,8 @@ This is my architecture so far: [models.py](code/cv/models.py)
 
 This is the best I could get so far:
 
-```# With MSELoss and optim.SGD(net.parameters(),0.001,momentum=0.9,nesterov=True)
+```
+# With MSELoss and optim.SGD(net.parameters(),0.001,momentum=0.9,nesterov=True)
 Epoch: 1, Batch: 10, Avg. Loss: 0.028066457714885473
 Epoch: 1, Batch: 20, Avg. Loss: 0.02104236278682947
 Epoch: 1, Batch: 30, Avg. Loss: 0.022216709144413472
@@ -42,6 +43,7 @@ Epoch: 1, Batch: 320, Avg. Loss: 0.02006478551775217
 Epoch: 1, Batch: 330, Avg. Loss: 0.01888055559247732
 Epoch: 1, Batch: 340, Avg. Loss: 0.027196702361106873
 Epoch: 2, Batch: 10, Avg. Loss: 0.017323469463735818
-Epoch: 2, Batch: 20, Avg. Loss: 0.01812070393934846```
+Epoch: 2, Batch: 20, Avg. Loss: 0.01812070393934846
+```
 
 
