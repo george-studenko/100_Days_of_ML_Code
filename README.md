@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 10 : Oct 9, 2018
+
+**Today's Progress** : Working on the Facial Keypoints Project, reading a paper about Naimishnet to have an idea of the implemented architecture, implemented my architecture although I'm still experimenting with it.
+
+**Thoughts** : As always there is a lot of experimentation when it comes to the architecture and hyperparameters tunning, so I'm still testing different sets of layers and activation functions, loss functions and other hyperparameters.
+
+**Link to work:** [Day 10 notes](content/Day-10.md) | [Architecture](code/cv/models.py)
+
 ## Day 9 : Oct 8, 2018
 
 **Today's Progress** : I've been working on the CV nanodegree, learning more about ways to improve a network with Dropout and Momentum and also how to decide what layers to use when developing a network (hint: it is all about intuitions).
