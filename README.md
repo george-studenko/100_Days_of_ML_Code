@@ -4,6 +4,12 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 11 : Oct 10, 2018
+
+**Today's Progress** : Kept trying different architectures on the Facial Keypoints Project, Loss functions, and optimizers, I changed my input images from 96x96 to 224x224 and the training time increased by 5 or 10 at least, also the loss increased so it is performing worse than before. 
+
+**Thoughts** : I got to keep working on it, will try to make it run on GPU to be able to experiment more.
+
 ## Day 10 : Oct 9, 2018
 
 **Today's Progress** : Working on the Facial Keypoints Project, reading a paper about Naimishnet to have an idea of the implemented architecture, implemented my architecture although I'm still experimenting with it.
