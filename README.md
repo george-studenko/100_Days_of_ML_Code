@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 13 : Oct 12, 2018
+
+**Today's Progress** : I submited the Facial Keypoints Project and it was approved, now stating to learn about more advanced features to work with multiple objects in a scene, with algorithms like R-CNNs  
+
+**Thoughts** : I had lots of challenging moments while working on the project which were great to learn, I will try to implement more things on the notebook 4 of the project.
+
+**Link to work:** [Day 13 notes](content/Day-12.md) | [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)
+
+
 ## Day 12 : Oct 11, 2018
 
 **Today's Progress** : Kept working on the Facial Keypoints Project, I changed the code to make it run on my local GPU, and that did help a lot, I could test many different architectures very quick, and now I finally have a decent network. Was also working on show the Feature maps visualizations, by applying the kernels that the network learned during training to the images we can see exactly what the network sees, check the notes for a screenshot
@@ -84,7 +93,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 
 ## Day 2 : Oct 1, 2018
-
+0
 **Today's Progress** : Finished the lessons: Image Representation and Classification, Convolutional Filters and Edge Detection from the computer Vision Nanodegree, only 3 lessons to go to start with the first project: Facial Keypoint Detection.
 
 **Thoughts** : Edge detection can be quite useful to detect images, Hough transformations are also quite useful to detect lines that correspond to the same object, lots of parameters to adjust and tune. Bluring images before applying Canny edge detection is quite useful to get rid of unwanted noise in images.
