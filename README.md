@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 14 : Oct 13, 2018
+
+**Today's Progress** : Back to basics day!, on training, dev and testing sets, recognizing and fixing high variance and high bias problems and a bit of regularization and weight decay.  
+
+**Thoughts** : Having a clear idea of how to split your data is important. Knowing what to do when you have problems of high bias and/or high variance is important, there are suggested steps to follow to fix those! 
+
+**Link to work:** [Training Dev and Testing sets](content/Training-Dev-and-Testing-Sets.md) | [High bias & high variance](content/High-bias-and-high-variance.md) | [Regularization](content/Regularization.md)
+
 ## Day 13 : Oct 12, 2018
 
 **Today's Progress** : I submited the Facial Keypoints Project and it was approved, now stating to learn about more advanced features to work with multiple objects in a scene, with algorithms like R-CNNs  
