@@ -6,9 +6,9 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 15 : Oct 14, 2018
 
-**Today's Progress** : I've been learning about YOLO (You Only Look Once) algorithm, I've also been documenting how to troubleshoow Conda enviroments problems with Jupyter notebooks and trying to make OpenCV work properly in Ubuntu.
+**Today's Progress** : I've been learning about YOLO (You Only Look Once) algorithm, I've also been documenting how to troubleshoot Conda enviroments problems with Jupyter notebooks and trying to make OpenCV work properly in Ubuntu.
 
-**Thoughts** : Having a clear idea of how to split your data is important. Knowing what to do when you have problems of high bias and/or high variance is important, there are suggested steps to follow to fix those! 
+**Thoughts**: YOLO seems to be amazing, you do need a GPU for real time recognition, with CPU it can take 2 to 3 seconds to analize an image and return the outputs, looking forward to start using it!
 
 **Link to work:** [YOLO](content/YOLO.md) | [Conda](content/Conda.md) 
 
