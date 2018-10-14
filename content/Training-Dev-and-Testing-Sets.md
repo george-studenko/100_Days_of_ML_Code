@@ -9,3 +9,9 @@ For small datasets (100 to 10000) the ratio is normally
 1. 60% for the training set
 2. 20% for the cross validation set
 3. 20% for the test set
+
+For bigger datasets 
+1. 98% for the training set
+2. 1% for the cross validation set
+3. 1% for the test set
+
