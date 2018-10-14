@@ -27,8 +27,8 @@ That way we will be able to detect overlapping objects with different aspect rat
  
  Here you can find the [YOLOv3 Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf) 
  
- ![AI Saturdays YOLO](resources/aisat.png)
+ ![AI Saturdays YOLO](../resources/aisat.png)
  
- ![AI Saturdays YOLO](resources/aisat2.png)
+ ![AI Saturdays YOLO](../resources/aisat2.png)
  
- ![AI Saturdays YOLO](resources/aisat3.png)
+ ![AI Saturdays YOLO](../resources/aisat3.png)
