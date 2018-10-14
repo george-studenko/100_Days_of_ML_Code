@@ -18,7 +18,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Thoughts** : I had lots of challenging moments while working on the project which were great to learn, I will try to implement more things on the notebook 4 of the project.
 
-**Link to work:** [Day 13 notes](content/Day-12.md) | [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)
+**Link to work:** [Day 13 notes](content/Day-13.md) | [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)
 
 
 ## Day 12 : Oct 11, 2018
