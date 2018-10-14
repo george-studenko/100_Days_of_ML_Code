@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 15 : Oct 14, 2018
+
+**Today's Progress** : I've been learning about YOLO (You Only Look Once) algorithm, I've also been documenting how to troubleshoow Conda enviroments problems with Jupyter notebooks and trying to make OpenCV work properly in Ubuntu.
+
+**Thoughts** : Having a clear idea of how to split your data is important. Knowing what to do when you have problems of high bias and/or high variance is important, there are suggested steps to follow to fix those! 
+
+**Link to work:** [YOLO](content/YOLO.md) | [Conda](content/Conda.md) 
+
+
 ## Day 14 : Oct 13, 2018
 
 **Today's Progress** : Back to basics day!, on training, dev and testing sets, recognizing and fixing high variance and high bias problems and a bit of regularization and weight decay.  
