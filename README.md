@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 16 : Oct 15, 2018
+
+**Today's Progress** : Day one of the Fast.AI marathon completed the video of lesson 1!, and also worked on the computer vision program, I've been learning about Recurrent Neural Networks (RNNs), how the folded and unfolded models are represented, back to basics, Feedforward and Backpropagation and started learning about Backpropagation Through Time (BPTT)
+
+**Thoughts**: Recurrent neural networks will add memory to a neural network, so each time we feed an input we will also feed the activation of the previous hidden layer.
+
+**Link to work:** [RNNs](content/RNN.md)
+
 ## Day 15 : Oct 14, 2018
 
 **Today's Progress** : I've been learning about YOLO (You Only Look Once) algorithm, I've also been documenting how to troubleshoot Conda enviroments problems with Jupyter notebooks and trying to make OpenCV work properly in Ubuntu.
