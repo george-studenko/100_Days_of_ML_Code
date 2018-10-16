@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 17 : Oct 16, 2018
+
+**Today's Progress** : Day two of the Fast.AI marathon completed the video of lesson 2!, there are some really cool stuff in this lesson, unfortunately for people just starting on deep learning it won't be much appreciated (if this was for real their 2nd lesson on DL) like for example some neat tricks to find great Learning Rates like the Cosine Annealing with warm restarts and cycles. I theb kept working on the computer vision program, I've been learning about more about Recurrent Neural Networks (RNNs) Backpropagation Through Time, and also Long Short-Term Memory cells (LSTMs)
+
+**Thoughts**: BPTT is quite complex, too many terms to work with, but well it is just backpropagation but with many more terms involved. I'm learning a lot of neat tricks with Jeremy @ fastai, and now starting to understand all the complexity below the LSTMs cells.  
+
+**Link to work:** [Learning Rates](content/Learning-rate.md) | [RNNs](content/RNN.md) 
+
 ## Day 16 : Oct 15, 2018
 
 **Today's Progress** : Day one of the Fast.AI marathon completed the video of lesson 1!, and also worked on the computer vision program, I've been learning about Recurrent Neural Networks (RNNs), how the folded and unfolded models are represented, back to basics, Feedforward and Backpropagation and started learning about Backpropagation Through Time (BPTT)
