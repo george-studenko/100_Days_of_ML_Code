@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 18 : Oct 17, 2018
+
+**Today's Progress** : Day three of the Fast.AI marathon completed the video of lesson 3!, interesting things on different activation functions, like softmax for non-binary classifications and sigmoid for multiple classes classification (predicting multiple correct outputs), also checking where and how to get the datasets. Also finally got the Kaggle Fastai kernels to work! Also leartning more about what is inside an LSTM cell which in short are 4 gates: Learn, Forget, Remember and Use gates.
+
+**Thoughts**: It is interesting to lean that activation functions have their own "personality" 
+
+**Link to work:** [LSTM cells](content/LSTM.md) | [Downloading Datasets](content/Downloading-Datasets.md) | [FastAI](content/fast-ai.md) 
+
+
 ## Day 17 : Oct 16, 2018
 
 **Today's Progress** : Day two of the Fast.AI marathon completed the video of lesson 2!, there are some really cool stuff in this lesson, unfortunately for people just starting on deep learning it won't be much appreciated (if this was for real their 2nd lesson on DL) like for example some neat tricks to find great Learning Rates like the Cosine Annealing with warm restarts and cycles. I theb kept working on the computer vision program, I've been learning about more about Recurrent Neural Networks (RNNs) Backpropagation Through Time, and also Long Short-Term Memory cells (LSTMs)
