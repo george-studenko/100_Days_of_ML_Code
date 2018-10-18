@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 19 : Oct 18, 2018
+
+**Today's Progress** : Day four of the Fast.AI marathon working on lesson 4, still in progress!, continued learning about LSTMs and how to implement basic LSTM cells and get the outputs and hidden state with PyTorch.
+
+**Thoughts**: LSTMs are a bit complex to understand at first, I need a bit more of practice with them to really understand them, I already understand the concept and how the cell works so that is a good start. 
+
+**Link to work:** [LSTM cells](content/LSTM.md) 
+
 ## Day 18 : Oct 17, 2018
 
 **Today's Progress** : Day three of the Fast.AI marathon completed the video of lesson 3!, interesting things on different activation functions, like softmax for non-binary classifications and sigmoid for multiple classes classification (predicting multiple correct outputs), also checking where and how to get the datasets. Also finally got the Kaggle Fastai kernels to work! Also leartning more about what is inside an LSTM cell which in short are 4 gates: Learn, Forget, Remember and Use gates.

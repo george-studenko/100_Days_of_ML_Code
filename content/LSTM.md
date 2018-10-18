@@ -9,3 +9,21 @@ It is comprised of 4 gates with 2 inputs and 2 outputs:
 **Remember Gate:** it takes the **Forget Gate** output and adds it to the **Learn Gate** outputs the **new Long Term Memory**.
 
 **Use Gate**: or output gate, will take the **Forget Gate** and activate it with ```tanh``` then Take the **Shor Term Memory** and activate it with ```sigmoid``` and then multiplies them, and that is the output.
+
+## LSTM in PyTorch
+
+To define a LSTM:
+```lstm = nn.LSTM(input_size=input_dim, hidden_size=hidden_dim, num_layers=n_layers)```
+
+To initialize the hidden state:  
+```h0 = torch.randn(1, 1, hidden_dim)```   
+```c0 = torch.randn(1, 1, hidden_dim)```   
+
+We will need to wrap everything in Variable, input is a tensor
+```inputs = Variable(inputs)```  
+```h0 = Variable(h0)```  
+```c0 = Variable(c0)```  
+
+Get the outputs and hidden state  
+```out, hidden = lstm(inputs, (h0, c0))```  
+
