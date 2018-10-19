@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 20 : Oct 19, 2018
+
+**Today's Progress** : Yet more on LSTMs, added code examples in the LSTM notes file, and back to basics on hyperparameters, today I studied about Optimizer Hyperparameters, next I will also add information about Model Hyperparameters
+
+**Thoughts**: Hyperparameters are all about intuition and experience, there is no one fit for all so you will have to experiment most of the time, however you will be able find the best hyperparameters quicker and quicker over time!
+
+**Link to work:** [Hyperparameters](content/Hyperparameters.md) | [LSTM cells](content/LSTM.md) 
+
 ## Day 19 : Oct 18, 2018
 
 **Today's Progress** : Day four of the Fast.AI marathon working on lesson 4, still in progress!, continued learning about LSTMs and how to implement basic LSTM cells and get the outputs and hidden state with PyTorch.
