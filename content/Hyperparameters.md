@@ -32,8 +32,16 @@ There are no magic numbers, it all depends on the architecture, data and problem
  To choose the best number of epochs we should check the Validation Error and train while the validation keeps decreasing.
 
  ### Model Hyperparameters
- ```numbers of layers```  
- ```number of hidden units```   
- ```models specific hyperparameters```
+ ```numbers of hidden units```
+ For the number of hidden units, we need to have enough hidden units to learn the function, so for a simple function the hidden layes will be less than for a complex one. 
  
+ However if we add too many hidden units the network will have too much capacity that it will just memorize the training set and that will lead to overfitting.
+ 
+ So if your model is overfitting then you could reduce the number of hidden units, or use regularization like L2 regularization or Dropout.
+  
+ ```number of layers```   
+ As for the number of hidden layers, looks like 3 hidden layers works quite well, and while adding more can be benefitial but rarely helps much more, the exception being Convolutional Neural Networks. 
+ 
+ ```models specific hyperparameters```
+ For RNNs deciding wether to use a normal RNN cell, a LSTM cell or GRU cells, the number of layers to stack and the embeddings dimentions. 
  

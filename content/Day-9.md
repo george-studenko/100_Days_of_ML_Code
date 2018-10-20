@@ -1,11 +1,3 @@
-## Dropout 
-Will randomly turn on and off nodes in each layer (with some specified probability) each epoch during the feedforward and backpropagation, that means that the node that was disabled will not contribute to the prediction and will neither get the weighst updated during backpropagation, this will help the model generalize better and increase accuracy on the test dataset. By turning off nodes randomly it makes all nodes work better as a team by making sure no node is too weak or too strong. 
-
-Dropout layers often come near the end of the network; placing them in between fully-connected layers for example can prevent any node in those layers from being too strong.
-
-Dropout is specified as part of the network inside the ```__init__``` method, example:
-```self.dropout = nn.Dropout(p=0.2)```
-
 ## Momentum
 In gradient descent momentum uses a constant \beta between 0 and 1, and it is used to calculate the next step size, it will weight previous steps, so the previous step matthers a lot and the weight for each previous step will then decrease and this is done by using the the constant \beta so: 
 * the previos step will be multiplied by 1 

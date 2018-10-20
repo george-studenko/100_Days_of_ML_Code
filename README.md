@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 21 : Oct 20, 2018
+
+**Today's Progress** : Learning about Model Hyperparameters, a bit more on dropout and continued learning about embeddings.
+
+**Thoughts**: It is good to have a rough idea on starting values for model hyperparameters, got to read more about embeddings while I've been using embeddings in the past I didn't really understand what they are until now, but still would like to get into more details to understand it better.
+
+**Link to work:** [Hyperparameters](content/Hyperparameters.md) | [Dropout](content/Dropout.md)
+
 ## Day 20 : Oct 19, 2018
 
 **Today's Progress** : Yet more on LSTMs, added code examples in the LSTM notes file, and back to basics on hyperparameters, today I studied about Optimizer Hyperparameters, next I will also add information about Model Hyperparameters
@@ -99,7 +107,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Thoughts** : Momentum seems to be a good technique to use when local minimas might be a problem, and dropout will help a lot to make all nodes of a network better and avoid having some nodes that might be doing all the job opn their own. While deciding on what layers to include is all about intuitions there are some things that you can try out to see if the model improves check the list in the notes of day 9.
 
-**Link to work:** [Day 9 notes](content/Day-9.md)
+**Link to work:** [Day 9 notes](content/Day-9.md) | [Dropout](content/Dropout.md)
 
 ## Day 8 : Oct 7, 2018
 
