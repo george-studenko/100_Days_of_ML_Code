@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 22 : Oct 21, 2018
+
+**Today's Progress** : Learning about embeddings and starting to learn about attention mechanisms 
+
+**Thoughts**: Embeddings are a bit hard to understand at the beginning, but they are just some hidden units that represent a categorical value that is translated to a vector of continuous values and are considered just another parameter of the network with their own weights so they will be trained and will take part of backpropagation as all other nodes in the network.
+
+**Link to work:** [Embeddings](content/Embeddings.md)
+
+
 ## Day 21 : Oct 20, 2018
 
 **Today's Progress** : Learning about Model Hyperparameters, a bit more on dropout and continued learning about embeddings.
