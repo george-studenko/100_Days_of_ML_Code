@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 23 : Oct 22, 2018
+
+**Today's Progress** : Learning about more about attention mechanisms, a way in which the neural network focuses its attention on the most relevant parts of the input data. Now studying about Image Captioning.
+
+**Thoughts**: Attention mechanisms are quite interesting, shifting attention to different parts of an image or different words in a text is something I wouldn't have expected to be able to do with a neural network
+
+**Link to work:** [Attention mechanisms](content/Attention-mechanisms.md)
+
+
 ## Day 22 : Oct 21, 2018
 
 **Today's Progress** : Learning about embeddings and starting to learn about attention mechanisms 
