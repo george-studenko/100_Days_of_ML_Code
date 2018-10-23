@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 24 : Oct 23, 2018
+
+**Today's Progress** : Learning about Image Captioning and Tokenization with NLTK, exploring the [Microsoft COCO Dataset](http://cocodataset.org/#home) and starting to work on the Image Captioning project.
+
+**Thoughts**: NLTK is an interesting package that has some extra functionalities to tokenize words, sentences or even tweets. The Image captioning project seems quite interesting and will help me to learn  more about RNNs, LSTMs and CNNs, and not only that but to combine different networks to get even more interesting stuff.
+
+**Link to work:** [NLTK](content/NLTK.md)
+
+
 ## Day 23 : Oct 22, 2018
 
 **Today's Progress** : Learning about more about attention mechanisms, a way in which the neural network focuses its attention on the most relevant parts of the input data. Now studying about Image Captioning.
