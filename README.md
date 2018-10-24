@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 25 : Oct 24, 2018
+
+**Today's Progress** : Working on the Image Captioning project that uses the [Microsoft COCO Dataset](http://cocodataset.org/#home), pre-processing images tokenizing captions.
+
+**Thoughts**: I'm just starting on the project, it is the first time I will use different architectures on the same project and feeding a network the output of the previous network, will be an interesting project to do.
+
+**Link to work:** [Image Captioning Project Notes](content/Image-Captioning.md)
+
 ## Day 24 : Oct 23, 2018
 
 **Today's Progress** : Learning about Image Captioning and Tokenization with NLTK, exploring the [Microsoft COCO Dataset](http://cocodataset.org/#home) and starting to work on the Image Captioning project.
@@ -26,14 +34,14 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Today's Progress** : Learning about embeddings and starting to learn about attention mechanisms 
 
-**Thoughts**: Embeddings are a bit hard to understand at the beginning, but they are just some hidden units that represent a categorical value that is translated to a vector of continuous values and are considered just another parameter of the network with their own weights so they will be trained and will take part of backpropagation as all other nodes in the network.
+**Thoughts**: Embeddings are a bit hard to understand at the beginning, but they are just some hidden units that represent a categorical value that is translated to a vector of continuous values and are considered just another parameter of the network with their own weights so they will be trained and will take part of back-propagation as all other nodes in the network.
 
 **Link to work:** [Embeddings](content/Embeddings.md)
 
 
 ## Day 21 : Oct 20, 2018
 
-**Today's Progress** : Learning about Model Hyperparameters, a bit more on dropout and continued learning about embeddings.
+**Today's Progress** : Learning about Model Hyper parameters, a bit more on dropout and continued learning about embeddings.
 
 **Thoughts**: It is good to have a rough idea on starting values for model hyperparameters, got to read more about embeddings while I've been using embeddings in the past I didn't really understand what they are until now, but still would like to get into more details to understand it better.
 
@@ -57,7 +65,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 18 : Oct 17, 2018
 
-**Today's Progress** : Day three of the Fast.AI marathon completed the video of lesson 3!, interesting things on different activation functions, like softmax for non-binary classifications and sigmoid for multiple classes classification (predicting multiple correct outputs), also checking where and how to get the datasets. Also finally got the Kaggle Fastai kernels to work! Also leartning more about what is inside an LSTM cell which in short are 4 gates: Learn, Forget, Remember and Use gates.
+**Today's Progress** : Day three of the Fast.AI marathon completed the video of lesson 3!, interesting things on different activation functions, like softmax for non-binary classifications and sigmoid for multiple classes classification (predicting multiple correct outputs), also checking where and how to get the datasets. Also finally got the Kaggle Fastai kernels to work! Also learning more about what is inside an LSTM cell which in short are 4 gates: Learn, Forget, Remember and Use gates.
 
 **Thoughts**: It is interesting to lean that activation functions have their own "personality" 
 
@@ -66,7 +74,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 17 : Oct 16, 2018
 
-**Today's Progress** : Day two of the Fast.AI marathon completed the video of lesson 2!, there are some really cool stuff in this lesson, unfortunately for people just starting on deep learning it won't be much appreciated (if this was for real their 2nd lesson on DL) like for example some neat tricks to find great Learning Rates like the Cosine Annealing with warm restarts and cycles. I theb kept working on the computer vision program, I've been learning about more about Recurrent Neural Networks (RNNs) Backpropagation Through Time, and also Long Short-Term Memory cells (LSTMs)
+**Today's Progress** : Day two of the Fast.AI marathon completed the video of lesson 2!, there are some really cool stuff in this lesson, unfortunately for people just starting on deep learning it won't be much appreciated (if this was for real their 2nd lesson on DL) like for example some neat tricks to find great Learning Rates like the Cosine Annealing with warm restarts and cycles. I then kept working on the computer vision program, I've been learning about more about Recurrent Neural Networks (RNNs) Backpropagation Through Time, and also Long Short-Term Memory cells (LSTMs)
 
 **Thoughts**: BPTT is quite complex, too many terms to work with, but well it is just backpropagation but with many more terms involved. I'm learning a lot of neat tricks with Jeremy @ fastai, and now starting to understand all the complexity below the LSTMs cells.  
 
@@ -82,9 +90,9 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 15 : Oct 14, 2018
 
-**Today's Progress** : I've been learning about YOLO (You Only Look Once) algorithm, I've also been documenting how to troubleshoot Conda enviroments problems with Jupyter notebooks and trying to make OpenCV work properly in Ubuntu.
+**Today's Progress** : I've been learning about YOLO (You Only Look Once) algorithm, I've also been documenting how to troubleshoot Conda environments problems with Jupyter notebooks and trying to make OpenCV work properly in Ubuntu.
 
-**Thoughts**: YOLO seems to be amazing, you do need a GPU for real time recognition, with CPU it can take 2 to 3 seconds to analize an image and return the outputs, looking forward to start using it!
+**Thoughts**: YOLO seems to be amazing, you do need a GPU for real time recognition, with CPU it can take 2 to 3 seconds to analyze an image and return the outputs, looking forward to start using it!
 
 **Link to work:** [YOLO](content/YOLO.md) | [Conda](content/Conda.md) 
 
@@ -99,7 +107,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 13 : Oct 12, 2018
 
-**Today's Progress** : I submited the Facial Keypoints Project and it was approved, now stating to learn about more advanced features to work with multiple objects in a scene, with algorithms like R-CNNs  
+**Today's Progress** : I submitted the Facial Keypoints Project and it was approved, now stating to learn about more advanced features to work with multiple objects in a scene, with algorithms like R-CNNs  
 
 **Thoughts** : I had lots of challenging moments while working on the project which were great to learn, I will try to implement more things on the notebook 4 of the project.
 
@@ -108,7 +116,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 12 : Oct 11, 2018
 
-**Today's Progress** : Kept working on the Facial Keypoints Project, I changed the code to make it run on my local GPU, and that did help a lot, I could test many different architectures very quick, and now I finally have a decent network. Was also working on show the Feature maps visualizations, by applying the kernels that the network learned during training to the images we can see exactly what the network sees, check the notes for a screenshot
+**Today's Progress** : Kept working on the Facial Keypoints Project, I changed the code to make it run on my local GPU, and that did help a lot, I could test many different architectures very quick, and now I finally have a decent network. Was also working on show the Feature maps visualizations, by applying the kernels that the network learned during training to the images we can see exactly what the network sees, check the notes for a screen shot
 
 **Thoughts** : If you can run it on a GPU, do it, it is just hundreds of times faster, your time is worth it. it is really cool to see the feature maps that the network created and used to learn!
 
@@ -138,7 +146,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 8 : Oct 7, 2018
 
-**Today's Progress** : I've been working on the CV nanodegree, although I didn't advance much I took time to really understand how the shape of layers change after each convolutional layer and after each pooling layer, since that is one of the main confussions I had with CNNs for a long time.
+**Today's Progress** : I've been working on the CV nanodegree, although I didn't advance much I took time to really understand how the shape of layers change after each convolutional layer and after each pooling layer, since that is one of the main confusions I had with CNNs for a long time.
 
 **Thoughts** : it is pretty simple to understand once you do it a couple of times, I have also been testing CNNs architectures adding more layers and finishing with Convolutions or pooling layers before the last fully connected layer and when trying that I figured out that when having a Convolutional layer before the fully connected the accuracy was of 4.6% but if instead I used a max pooling layer before the FC layer the accuracy went up to 10%.
 
@@ -148,7 +156,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Today's Progress** : Working on the Fast.AI Deeplearning course on data augmentation and ways to find the best learning rate
 
-**Thoughts** : It's interesting to realize that data augmentation is not always benefitial and to understan when it is, also it is interesting to see that are some crucial concepts like the lr_find function that is based on the part of a not really known paper, that is just great to find the optimal learning rate.
+**Thoughts** : It's interesting to realize that data augmentation is not always beneficial and to understan when it is, also it is interesting to see that are some crucial concepts like the lr_find function that is based on the part of a not really known paper, that is just great to find the optimal learning rate.
 
 **Link to work:** [Day 7 notes](content/Day-7.md)
 
@@ -180,7 +188,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Today's Progress** : I finished the Types of Features and Image Segmentation material of the Computer Vision Nanodegree and going back to Tensorflow after many months with the Google ML Crash course
 
-**Thoughts** : Looks like detecting corners is a quite useful technque in Computer Vision, also image contouring seems to be a great way to detect images. K-means clustering can group part of the image together to help with image segmentation! I have learned about high features in Tensorflow, I'm not sure if those are new features or I just didn't get the chance to use them before.
+**Thoughts** : Looks like detecting corners is a quite useful technique in Computer Vision, also image contouring seems to be a great way to detect images. K-means clustering can group part of the image together to help with image segmentation! I have learned about high features in Tensorflow, I'm not sure if those are new features or I just didn't get the chance to use them before.
 
 **Link to work:** [Day 3 Notes](content/Day-3.md) | [Contour detection and features](https://github.com/george-studenko/100_Days_of_ML_Code/blob/master/code/cv/Contour%20detection%20and%20features.ipynb)
 
@@ -207,7 +215,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 0 : Sep 29 , 2018
  
-**Today's Progress** : I have joined and attended [AI Saturdays](https://nurture.ai/ai-saturdays) in Barcelona today, I completed a couple of chapters on the Computer Vision Nanodegree I'm working on right now. I've been working on creating masks to do some image edition with CV2 (OpenCV). Learned about color spaces (RBG, HSI and HSL) and worked on a simple image classifier, creating a basic ML pipeline to load images, preprocess images and predict and image label.  
+**Today's Progress** : I have joined and attended [AI Saturdays](https://nurture.ai/ai-saturdays) in Barcelona today, I completed a couple of chapters on the Computer Vision Nanodegree I'm working on right now. I've been working on creating masks to do some image edition with CV2 (OpenCV). Learned about color spaces (RBG, HSI and HSL) and worked on a simple image classifier, creating a basic ML pipeline to load images, pre-process images and predict and image label.  
 
 **Thoughts** : Getting to work and know people who is interested in AI, ML and DL is great to share knowledge and encourage each other, a great way to learn. Computer vision is a daunting part of AI, but with the right material, teachers and projects I think I will manage to pull it over, got time until the end of December 2018 to get it done.
 
