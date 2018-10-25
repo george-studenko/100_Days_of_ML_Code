@@ -10,7 +10,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Thoughts**: I need more practice with RNNs, I feel more confident with CNNs at the moment but I should be able to pull it out.
 
-**Link to work:** [Pandas DataFrame Cheatsheet](cheatsheets/Pandas DataFrame Notes.pdf)
+**Link to work:** [Pandas DataFrame Cheatsheet](cheatsheets/Pandas-DataFrame-Notes.pdf)
 
 ## Day 25 : Oct 24, 2018
 
