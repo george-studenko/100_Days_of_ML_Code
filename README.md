@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 26 : Oct 25, 2018
+
+**Today's Progress** : Kept working on the Image Captioning project, starting to define the CNN and RNN models that I will start using, for the CNN encoder I will be using the pre-trained ResNet-50 as for the RNN I'm still working on it but I will be using LSTMs cells. I also found an insteresting Pandas Dataframes cheatsheet that I'm adding to the collection, check the link below.
+
+**Thoughts**: I need more practice with RNNs, I feel more confident with CNNs at the moment but I should be able to pull it out.
+
+**Link to work:** [Pandas DataFrame Cheatsheet](cheatsheets/Pandas DataFrame Notes.pdf)
+
 ## Day 25 : Oct 24, 2018
 
 **Today's Progress** : Working on the Image Captioning project that uses the [Microsoft COCO Dataset](http://cocodataset.org/#home), pre-processing images tokenizing captions.
