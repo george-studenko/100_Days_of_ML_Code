@@ -13,7 +13,7 @@ With only one step, we will need to update 3 Weight matrices, W<sub>y</sub>, W<s
 
 The current state (S<sub>t</sub>) depends on the current input and previous states that will be activated 
 
-S<sub>t</sub> = activation(X<sub>t</sub> * W<sub>x</sub> + S<sub>t-1</sub> * W<sub>s</sub>
+S<sub>t</sub> = activation(X<sub>t</sub> * W<sub>x</sub> + S<sub>t-1</sub> * W<sub>s</sub>)
 
 The current output will be S<sub>t</sub> multiplied by the output weight matrix.
 
