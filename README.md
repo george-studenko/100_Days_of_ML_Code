@@ -4,6 +4,16 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 27 : Oct 26, 2018
+
+**Today's Progress** : Was reading the paper [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) to understand better the project I'm working on. I was also working on the decoder network.
+
+**Thoughts**: Still a bit lost with this project, it is not going to be easy, but nothing is when it comes to deep learning! 
+
+**Link to work:** [Show and Tell: A Neural Image Caption Generator Paper](https://arxiv.org/pdf/1411.4555.pdf)
+
+
+
 ## Day 26 : Oct 25, 2018
 
 **Today's Progress** : Kept working on the Image Captioning project, starting to define the CNN and RNN models that I will start using, for the CNN encoder I will be using the pre-trained ResNet-50 as for the RNN I'm still working on it but I will be using LSTMs cells. I also found an insteresting Pandas Dataframes cheatsheet that I'm adding to the collection, check the link below.
