@@ -4,6 +4,13 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 28 : Oct 27, 2018
+
+**Today's Progress** : Went through the Lesson 5 of FAST.AI about collaborative filtering, learning more about PyTorch modules and what pytorch squeeze does and how to properly use reshape, and got some practice with scikit learn
+
+**Thoughts**: While I've been working with PyTorch for a while there still a lot to learn, I will get in more depth about PyTorch in the comming days.
+
+
 ## Day 27 : Oct 26, 2018
 
 **Today's Progress** : Was reading the paper [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) to understand better the project I'm working on. I was also working on the decoder network.
