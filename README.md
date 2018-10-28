@@ -4,11 +4,19 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 29 : Oct 28, 2018
+
+**Today's Progress** : Trying to understand how to feed my RNN with the Image Feature maps and Captions at the same time, so far what I understood is that first I need to feed my LSTM with the feature maps and then feed the next LSTM with the captions, but it is still giving me some errors, working on a solution.  
+Update: Apparently I need to concatenate the embeddings with the features unsqueezed like this before sending it to the LSTM cell ```torch.cat((features.unsqueeze(1), embeddings), 1)``` 
+
+**Thoughts**: I'm getting some CUDNN errors at the moment, even with fewer batches something might be wrong in my network architecture. Now trying to figure out why concatenating the inputs is the way to go.
+
+
 ## Day 28 : Oct 27, 2018
 
 **Today's Progress** : Went through the Lesson 5 of FAST.AI about collaborative filtering, learning more about PyTorch modules and what pytorch squeeze does and how to properly use reshape, and got some practice with scikit learn
 
-**Thoughts**: While I've been working with PyTorch for a while there still a lot to learn, I will get in more depth about PyTorch in the comming days.
+**Thoughts**: While I've been working with PyTorch for a while there still a lot to learn, I will get in more depth about PyTorch in the coming days.
 
 
 ## Day 27 : Oct 26, 2018
