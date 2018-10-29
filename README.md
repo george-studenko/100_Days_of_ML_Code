@@ -4,6 +4,23 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 30 : Oct 29, 2018
+
+**Today's Progress** : Kept working on the Image caption project, tunning hyperparameters for the network and training the first epochs on the network, I've also been reading more about activation functions and Adam optimizer.
+
+**Thoughts**: Finally started to train the network! With a good GPU it might take around 12 hours to train, I've been training for more than 2 hours now and it has covered 66% of the 1st epoch.
+
+```
+Epoch [1/3], Step [7900/12942], Loss: 4.6355, Perplexity: 103.0750
+Epoch [1/3], Step [8000/12942], Loss: 4.9537, Perplexity: 141.7012
+Epoch [1/3], Step [8100/12942], Loss: 4.5722, Perplexity: 96.75917
+Epoch [1/3], Step [8200/12942], Loss: 4.3483, Perplexity: 77.34675
+Epoch [1/3], Step [8300/12942], Loss: 4.5639, Perplexity: 95.96166
+Epoch [1/3], Step [8400/12942], Loss: 4.5306, Perplexity: 92.81236
+Epoch [1/3], Step [8500/12942], Loss: 4.5245, Perplexity: 92.25309
+Epoch [1/3], Step [8595/12942], Loss: 4.5756, Perplexity: 97.08521
+```
+
 ## Day 29 : Oct 28, 2018
 
 **Today's Progress** : Trying to understand how to feed my RNN with the Image Feature maps and Captions at the same time, so far what I understood is that first I need to feed my LSTM with the feature maps and then feed the next LSTM with the captions, but it is still giving me some errors, working on a solution.  
