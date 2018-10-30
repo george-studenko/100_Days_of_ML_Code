@@ -4,6 +4,12 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 31 : Oct 30, 2018
+
+**Today's Progress** : Still working on the Image caption project, implementing a function for inference, since this is a bit of a special network I have to implement something different than the ```forward``` function.
+
+**Thoughts**: I would normally use the forward function to make inference, but this time seems to be a bit different since it should only take the image features as input and not the captions this time.
+
 ## Day 30 : Oct 29, 2018
 
 **Today's Progress** : Kept working on the Image caption project, tunning hyperparameters for the network and training the first epochs on the network, I've also been reading more about activation functions and Adam optimizer.
@@ -11,14 +17,20 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 **Thoughts**: Finally started to train the network! With a good GPU it might take around 12 hours to train, I've been training for more than 2 hours now and it has covered 66% of the 1st epoch.
 
 ```
-Epoch [1/3], Step [7900/12942], Loss: 4.6355, Perplexity: 103.0750
-Epoch [1/3], Step [8000/12942], Loss: 4.9537, Perplexity: 141.7012
+Epoch [1/3], Step [1/12942], Loss: 8.1496, Perplexity: 3462.1592
+Epoch [1/3], Step [2/12942], Loss: 8.0925, Perplexity: 3269.7607
+Epoch [1/3], Step [3/12942], Loss: 8.1527, Perplexity: 3472.8072
+Epoch [1/3], Step [4/12942], Loss: 8.1414, Perplexity: 3433.8146
 Epoch [1/3], Step [8100/12942], Loss: 4.5722, Perplexity: 96.75917
 Epoch [1/3], Step [8200/12942], Loss: 4.3483, Perplexity: 77.34675
 Epoch [1/3], Step [8300/12942], Loss: 4.5639, Perplexity: 95.96166
 Epoch [1/3], Step [8400/12942], Loss: 4.5306, Perplexity: 92.81236
 Epoch [1/3], Step [8500/12942], Loss: 4.5245, Perplexity: 92.25309
 Epoch [1/3], Step [8595/12942], Loss: 4.5756, Perplexity: 97.08521
+Epoch [3/3], Step [12939/12942], Loss: 3.9346, Perplexity: 51.1442
+Epoch [3/3], Step [12940/12942], Loss: 3.7537, Perplexity: 42.6778
+Epoch [3/3], Step [12941/12942], Loss: 3.5892, Perplexity: 36.2059
+Epoch [3/3], Step [12942/12942], Loss: 3.9569, Perplexity: 52.2962
 ```
 
 ## Day 29 : Oct 28, 2018
