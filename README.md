@@ -4,6 +4,31 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 32 : Oct 31, 2018
+
+**Today's Progress** : Today I found a very interesting trick for __jupyter notebooks__ and that is how to save the notebook with a line of code, so imagine you are running a long process and want to save it after it finishes while being unattended just add this to the cell below and run it, once the cell above finishes it will save the notebook. Training the image caption model again with new parameters, increasing hidden units on the lstm and incresing batch size as well.
+
+``` 
+%%javascript
+IPython.notebook.save_notebook()
+```
+
+**Thoughts**: The first iterations with the new parameters seems to be showing better results so far, lets see if it improves.
+
+```
+Epoch [1/3], Step [100/6471], Loss: 4.6383, Perplexity: 103.3649
+Epoch [1/3], Step [200/6471], Loss: 4.3353, Perplexity: 76.35148
+Epoch [1/3], Step [300/6471], Loss: 3.9353, Perplexity: 51.17674
+Epoch [1/3], Step [400/6471], Loss: 3.7730, Perplexity: 43.5094
+Epoch [1/3], Step [500/6471], Loss: 4.1964, Perplexity: 66.4450
+Epoch [1/3], Step [600/6471], Loss: 3.6579, Perplexity: 38.7780
+Epoch [1/3], Step [700/6471], Loss: 3.5322, Perplexity: 34.1984
+Epoch [1/3], Step [800/6471], Loss: 3.4114, Perplexity: 30.3068
+Epoch [1/3], Step [900/6471], Loss: 3.4160, Perplexity: 30.44853
+Epoch [1/3], Step [1000/6471], Loss: 3.4420, Perplexity: 31.2493
+Epoch [1/3], Step [1027/6471], Loss: 3.3547, Perplexity: 28.6383
+```
+
 ## Day 31 : Oct 30, 2018
 
 **Today's Progress** : Still working on the Image caption project, implementing a function for inference, since this is a bit of a special network I have to implement something different than the ```forward``` function.
