@@ -4,6 +4,13 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 33 : Nov 1, 2018
+
+**Today's Progress** : I exported all my jupyter notebook code files to .py files and running them in PyCharm, debugging so I can see how the variables are being set and see what is going on with my sample function, I also found that with PyCharm is also possible to run "cells" just like if it was a Jupyter notebook and keep state in between them. Started reading [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) 
+
+**Thoughts**: After downloading and installing all the images and captions for the cocodatase and the pycocotools  I got it to work on my local, lets see if debugging helps troubleshooting it, so far I can see that the outputs of my LSTM cells are not good.   
+
+
 ## Day 32 : Oct 31, 2018
 
 **Today's Progress** : Today I found a very interesting trick for __jupyter notebooks__ and that is how to save the notebook with a line of code, so imagine you are running a long process and want to save it after it finishes while being unattended just add this to the cell below and run it, once the cell above finishes it will save the notebook. Training the image caption model again with new parameters, increasing hidden units on the lstm and incresing batch size as well.
