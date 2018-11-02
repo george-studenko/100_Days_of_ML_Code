@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 34 : Nov 2, 2018
+
+**Today's Progress** : reading about the PyTorch Anatomy, it turnos out that PyTorch itself is just and Python API that sits on top of many other components that are written in C++ and C, and that is why  it is so powerfull,  which is nice to know.  Kept trying different hyperparameters for my Image Captioning project and getting now a smaller loss and lower Perplexity score as well, which is great! Started to learn about Motion in Computer Vision, with Optical Flow and motion vectors.
+
+**Thoughts**: I should be able to deliver the Image Captioning project soon, now starting to learn about Object Tracking and Localization. 
+
+Links: [PyTorch Anatomy](https://freecontent.manning.com/pytorch-crash-course-part-1/) 
+
 ## Day 33 : Nov 1, 2018
 
 **Today's Progress** : I exported all my jupyter notebook code files to .py files and running them in PyCharm, debugging so I can see how the variables are being set and see what is going on with my sample function, I also found that with PyCharm is also possible to run "cells" just like if it was a Jupyter notebook and keep state in between them. Started reading [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) 
