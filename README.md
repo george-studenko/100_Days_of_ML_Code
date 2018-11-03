@@ -4,6 +4,15 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 35 : Nov 3, 2018
+
+**Today's Progress** : I've been testing the image captioning model with the coco dataset and then implementing my own class to test the model with my own images and it is performing pretty well. So today I  submitted the Images Captioning project and got it reviewed. Then kept going with object tracking and localization this time reviewing probability concepts. And today @ AI Saturdays 4 of us created a team to work on a Kaggle competition ,lets see how it goes!
+
+**Thoughts**: The Image captioning project was very challenging and it was quite curious that it actually took me longer to find the right hyperparameters  and of course the training took many hours as well. While I've been a Kaggle member for a while I never participated on a competition so far, it is going to be a new experience (and hopefully a great one!)
+
+Links: [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
+
+
 ## Day 34 : Nov 2, 2018
 
 **Today's Progress** : reading about the PyTorch Anatomy, it turnos out that PyTorch itself is just and Python API that sits on top of many other components that are written in C++ and C, and that is why  it is so powerfull,  which is nice to know.  Kept trying different hyperparameters for my Image Captioning project and getting now a smaller loss and lower Perplexity score as well, which is great! Started to learn about Motion in Computer Vision, with Optical Flow and motion vectors.
