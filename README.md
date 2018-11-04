@@ -10,7 +10,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Thoughts**: The Image captioning project was very challenging and it was quite curious that it actually took me longer to find the right hyperparameters  and of course the training took many hours as well. While I've been a Kaggle member for a while I never participated on a competition so far, it is going to be a new experience (and hopefully a great one!)
 
-Links: [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
+Links:  [Probability](content/Probability.md)| [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
 
 
 ## Day 34 : Nov 2, 2018
