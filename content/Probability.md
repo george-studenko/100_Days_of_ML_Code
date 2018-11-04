@@ -9,3 +9,5 @@ Two events are dependent when the probability of one influences the likelihood o
 Is the probability of two or more **indepentent events** happening together. It is calculated by multiplying the probability of each independent event. So the probility of tossing a coin and getting Heads twice in a row is calculated like this  
 ```P(H) * P(H)  = 0.5 * 0.5 = 0.25```
 
+## Probability Distributions
+If we use probability distributions for localization, when the distribution is uniform (all values are the same) it is known as the state of Max Confusion, as it is equally possible to be located on anywhere. 
