@@ -4,13 +4,21 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 37 : Nov 5, 2018
+
+**Today's Progress**: Working on the Computer Vision Nanodegree, learning about localization with Sense (measuring sensor data) and Move. Working on the Kaggle competition, working on the model architecture and forward function, fixing minor problems with too many images to process and planning the next steps.  
+
+**Thoughts**: With over 40 million images and more than 600 GBs of images for the competition we were having problems to generate all the images. Decided to take an iterative approach.
+
+**Link to work:**  [Localization](content/Localization.md) | [Robot Localization](code/Robot_Localization.ipynb) 
+
 ## Day 36 : Nov 4, 2018
 
 **Today's Progress**: Continued on the Computer Vision Nanodegree, learning about probability distributions and implementing simple functions for robot localization applying probability distributions. Working on the data-loader class for the Kaggle competition, basic project structure and writing images to to disk, dealing with memory problems due to huge csv files and data to process.  
 
 **Thoughts**: Data preparation is known to be what takes most of the time!, hopefully we will be able to continue on the competition soon (when finally getting all the data processed to start working on the network.
 
-Links:  [Probability](content/Probability.md) | [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
+**Link to work:**  [Probability](content/Probability.md) | [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
 
 ## Day 35 : Nov 3, 2018
 
@@ -18,7 +26,7 @@ Links:  [Probability](content/Probability.md) | [Quick, Draw! Doodle Recognition
 
 **Thoughts**: The Image captioning project was very challenging and it was quite curious that it actually took me longer to find the right hyperparameters  and of course the training took many hours as well. While I've been a Kaggle member for a while I never participated on a competition so far, it is going to be a new experience (and hopefully a great one!)
 
-Links:  [Probability](content/Probability.md) | [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
+**Link to work:**  [Probability](content/Probability.md) | [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition) 
 
 
 ## Day 34 : Nov 2, 2018
