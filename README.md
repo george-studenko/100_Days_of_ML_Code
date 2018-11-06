@@ -4,6 +4,12 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 38 : Nov 6, 2018
+
+**Today's Progress**: Working on the Computer Vision Nanodegree, did  mini-project to implement a 2d histogram for localization. Starting to learn about Kalman Filters. Finally got the first set of training images for the Kaggle competition, will start with 3400000 images and double or triple it as needed. Will continue to calculate the layers shapes of the network for the Kaggle competition.
+
+**Thoughts**: Kalman filters is a different  approach for tracking, differnet from Monte Carlo, which uses histograms with discrete values. Kalman filters use continues values with Gaussian.
+
 ## Day 37 : Nov 5, 2018
 
 **Today's Progress**: Working on the Computer Vision Nanodegree, learning about localization with Sense (measuring sensor data) and Move. Working on the Kaggle competition, working on the model architecture and forward function, fixing minor problems with too many images to process and planning the next steps.  
