@@ -4,6 +4,12 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 39 : Nov 7, 2018
+
+**Today's Progress**: Learning about Gaussian Variance, and shifting the mean, combining gaussians to get a new improved mean. Implemented the getitem method for the dataset to return  extra information about the images, preparing the train method.
+
+**Thoughts**: It is interesting to see how combining two gaussians can improve the certainty (similar to bayes!)
+
 ## Day 38 : Nov 6, 2018
 
 **Today's Progress**: Working on the Computer Vision Nanodegree, did  mini-project to implement a 2d histogram for localization. Starting to learn about Kalman Filters. Finally got the first set of training images for the Kaggle competition, will start with 3400000 images and double or triple it as needed. Will continue to calculate the layers shapes of the network for the Kaggle competition.
