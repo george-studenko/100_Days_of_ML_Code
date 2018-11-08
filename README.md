@@ -4,6 +4,13 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 40 : Nov 8, 2018
+
+**Today's Progress**: Learning more about Kalman Filters, state, motion and kinematics, Kinematics is the study of the motion of objects. For predicting state we can use Object Oriented Programming and Linear Algebra (vectors and matrices) to keep track of the states. For the kaggle competition I made sure to use only one channel in the image since they are grayscale.  
+
+**Thoughts**: We now have all 3 sets of images to work with, Train, Dev and Test sets, and we will start training the model soon! 
+
+
 ## Day 39 : Nov 7, 2018
 
 **Today's Progress**: Learning about Gaussian Variance, and shifting the mean, combining gaussians to get a new improved mean. Implemented the getitem method for the dataset to return  extra information about the images, preparing the train method.
