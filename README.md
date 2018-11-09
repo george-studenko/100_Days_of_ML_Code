@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 41 : Nov 9, 2018
+
+**Today's Progress**: Prepared 2 datasets for the QuickDraw Kaggle competition, and been  testing it, the architecture performs very well with MNIST 97.5% with 2 epochs, started doing tests with a toy dataset of quickdraw with 2 epochs got around 20% accuracy on the validation set, now will train it on a bigger dataset to see how it performs. Also learning about GPU states P0-P12 
+
+**Thoughts**: having big fully connected layers in a CNN network do add a lot of memory, with images at 256px x 256px it was taking long to load the network itself and I was running out of CUDA memory, now trying to find the perfect batch size by monitoring GPU Memory with nvidia-smi
+
+**Link to work:**  [GPU States](content/GPU.md)
+
 ## Day 40 : Nov 8, 2018
 
 **Today's Progress**: Learning more about Kalman Filters, state, motion and kinematics, Kinematics is the study of the motion of objects. For predicting state we can use Object Oriented Programming and Linear Algebra (vectors and matrices) to keep track of the states. For the kaggle competition I made sure to use only one channel in the image since they are grayscale.  
