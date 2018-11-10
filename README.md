@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 42 : Nov 10, 2018
+
+**Today's Progress**: Training the quickdraw model, still on the 1st epoch, with around 55% accuracy so far, understanding better the relation between epoch, step and batch size and different types of batch sizes. Continued to learn about object tracking and localization, this time storing state in state vectors (and operations with those vectors)
+
+**Thoughts**: It was good to review and understand these basic concepts better
+
+**Link to work:**  [Batch size](content/Batch-size.md)
+
 ## Day 41 : Nov 9, 2018
 
 **Today's Progress**: Prepared 2 datasets for the QuickDraw Kaggle competition, and been  testing it, the architecture performs very well with MNIST 97.5% with 2 epochs, started doing tests with a toy dataset of quickdraw with 2 epochs got around 20% accuracy on the validation set, now will train it on a bigger dataset to see how it performs. Also learning about GPU states P0-P12 
