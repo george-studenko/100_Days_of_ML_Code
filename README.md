@@ -10,8 +10,6 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Thoughts**: Was interesting to learn how to simplify formulas to make them easier to read.
 
-**Link to work:**  [Batch size](content/Batch-size.md)
-
 ## Day 42 : Nov 10, 2018
 
 **Today's Progress**: Training the quickdraw model, still on the 1st epoch, with around 55% accuracy so far, understanding better the relation between epoch, step and batch size and different types of batch sizes. Continued to learn about object tracking and localization, this time storing state in state vectors (and operations with those vectors)
