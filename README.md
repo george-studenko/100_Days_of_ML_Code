@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 43 : Nov 11, 2018
+
+**Today's Progress**: Training the model now with the Map@3 score as well to see how well it can do in the competition. Learning about Kalman filter and transformation of states. Review of Linear Algebra to apply it to Kalman Filters states.
+
+**Thoughts**: Was interesting to learn how to simplify formulas to make them easier to read.
+
+**Link to work:**  [Batch size](content/Batch-size.md)
+
 ## Day 42 : Nov 10, 2018
 
 **Today's Progress**: Training the quickdraw model, still on the 1st epoch, with around 55% accuracy so far, understanding better the relation between epoch, step and batch size and different types of batch sizes. Continued to learn about object tracking and localization, this time storing state in state vectors (and operations with those vectors)
