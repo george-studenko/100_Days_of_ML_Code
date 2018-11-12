@@ -4,6 +4,14 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 44 : Nov 12, 2018
+
+**Today's Progress**: Continued reviewing linear algebra, coding vectors and matrices operations, while I would normally use Numpy for such tasks it is a good review to implement all of the vector and matrices operations with plain Python from scratch.
+
+**Thoughts**: Implementing dot product, matrix multiplications, and transpose is not hard but still glad we have numpy to do that.
+
+**Link to work:** [Vectors](code/Linear_Algebra/1_vector_coding.ipynb) | [Matrices](code/Linear_Algebra/2_matrices_in_python.ipynb) | [Matrix Addition](code/Linear_Algebra/3_matrix_addition.ipynb) | [Matrix Multiplication](code/Linear_Algebra/4_matrix_multiplication.ipynb) | [Guide to Mathematical Notation](code/Linear_Algebra/guide_to_mathematical_notation.ipynb)
+
 ## Day 43 : Nov 11, 2018
 
 **Today's Progress**: Training the model now with the Map@3 score as well to see how well it can do in the competition. Learning about Kalman filter and transformation of states. Review of Linear Algebra to apply it to Kalman Filters states.
