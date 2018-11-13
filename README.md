@@ -4,6 +4,13 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 45 : Nov 13, 2018
+
+**Today's Progress**: Learning about SLAM for 2 dimensional worlds, a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, and other world features. Also learning about constraint matrices
+
+**Thoughts**:  Still trying to get a better understanding about how to implement the constraint matrices.
+
+
 ## Day 44 : Nov 12, 2018
 
 **Today's Progress**: Continued reviewing linear algebra, coding vectors and matrices operations, while I would normally use Numpy for such tasks it is a good review to implement all of the vector and matrices operations with plain Python from scratch.
