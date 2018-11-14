@@ -4,6 +4,13 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 46 : Nov 14, 2018
+
+**Today's Progress**: Loading different checkpoints of the trained model and checking how it behaves when trying to resume training, when using adam as the optimizer it is important to set the same parameters again, also learned that it is possible to save the state_dict of the adam optimizer to load it again later. Continuing with SLAM.
+
+**Thoughts**:  It was quite a relief to be able to get the last model checkpoint back to the same state .
+
+
 ## Day 45 : Nov 13, 2018
 
 **Today's Progress**: Learning about SLAM for 2 dimensional worlds, a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, and other world features. Also learning about constraint matrices
