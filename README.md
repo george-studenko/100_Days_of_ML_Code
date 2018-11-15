@@ -4,6 +4,18 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 47 : Nov 15, 2018
+
+**Today's Progress**: Continuing with SLAM today I implemented the constraint matrix in python ```omega``` and ```xi```. To solve for all the poses and landmark positions, we can use linear algebra; all the positional values are in the vector ```mu``` which can be calculated as a ```product of the inverse of omega times xi```. The model kept training, I've restarted the training many times so far, and while the loss keeps getting lower the accuracy is increasing very slow and I'm not sure it will increase much more but will leave it training at least one more day to see if it gets better. 
+
+**Thoughts**: I got a LinAlgError: Singular matrix error today trying to find the inverse of a matrix that apparently has a determinant of zero, this is the definition of a Singular matrix (one for which an inverse does not exist).
+```
+[1, -1, 0]  
+[1, 0, -1]   
+[0, 1, -1]  
+```
+
+
 ## Day 46 : Nov 14, 2018
 
 **Today's Progress**: Loading different checkpoints of the trained model and checking how it behaves when trying to resume training, when using adam as the optimizer it is important to set the same parameters again, also learned that it is possible to save the state_dict of the adam optimizer to load it again later. Continuing with SLAM.
