@@ -4,6 +4,12 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 48 : Nov 16, 2018
+
+**Today's Progress**: Finished the lessons on SLAM, added sensor measurements after motion to the matrix calculations and will start now working on the Landmark Detection and Tracking with SLAM project. The project consists in implementing SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. combining robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time. 
+
+**Thoughts**: I'm starting to get how SLAM works after doing some coding but I will probably have to review the whole section on SLAM again to fully get it, also the project seems simple but will be challenging and I'm sure I will learn a lot while doing it.
+
 ## Day 47 : Nov 15, 2018
 
 **Today's Progress**: Continuing with SLAM today I implemented the constraint matrix in python ```omega``` and ```xi```. To solve for all the poses and landmark positions, we can use linear algebra; all the positional values are in the vector ```mu``` which can be calculated as a ```product of the inverse of omega times xi```. The model kept training, I've restarted the training many times so far, and while the loss keeps getting lower the accuracy is increasing very slow and I'm not sure it will increase much more but will leave it training at least one more day to see if it gets better. 
