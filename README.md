@@ -8,7 +8,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 **Today's Progress**: We finally sent the first submission to Kaggle to see how is our model doing, we are still getting a low Map@3 score of 0.770 we are now working on improving the model. Planning now our next tam project, to recognize handwritten text, we will use the Extended MNIST dataset to train a model and we will try to use it later to digitize hand written notes like with OCR but with hand written text, preparing the new notebook with PyTorch and downloading the EMNIST datasets for training and test. Reading about OOP in Python. 
 
-**Thoughts**: I'm starting to get how SLAM works after doing some coding but I will probably have to review the whole section on SLAM again to fully get it, also the project seems simple but will be challenging and I'm sure I will learn a lot while doing it.
+**Thoughts**: Looking forward to improve the quickdraw model and work on the next project!
 
 ## Day 48 : Nov 16, 2018
 
