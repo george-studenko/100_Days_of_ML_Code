@@ -4,6 +4,12 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## Day 49 : Nov 17, 2018
+
+**Today's Progress**: We finally sent the first submission to Kaggle to see how is our model doing, we are still getting a low Map@3 score of 0.770 we are now working on improving the model. Planning now our next tam project, to recognize handwritten text, we will use the Extended MNIST dataset to train a model and we will try to use it later to digitize hand written notes like with OCR but with hand written text, preparing the new notebook with PyTorch and downloading the EMNIST datasets for training and test. Reading about OOP in Python. 
+
+**Thoughts**: I'm starting to get how SLAM works after doing some coding but I will probably have to review the whole section on SLAM again to fully get it, also the project seems simple but will be challenging and I'm sure I will learn a lot while doing it.
+
 ## Day 48 : Nov 16, 2018
 
 **Today's Progress**: Finished the lessons on SLAM, added sensor measurements after motion to the matrix calculations and will start now working on the Landmark Detection and Tracking with SLAM project. The project consists in implementing SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world. combining robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time. 
