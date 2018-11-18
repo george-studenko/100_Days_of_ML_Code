@@ -63,9 +63,9 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 50 : Nov 18, 2018
 
-**Today's Progress**: Half way there. Today I've been going through all my notes during the first half and re-organizing them, created an index of all content so far. I've also been doing some tests on the QuickDraw model to see if I can improve it. 
+**Today's Progress**: Half way there. Today I've been going through all my notes during the first half and re-organizing them, created an [index](https://github.com/george-studenko/100_Days_of_ML_Code#100daysofmlcode-index) of all content so far. I've also been doing some tests on the QuickDraw model to see if I can improve it. 
 
-**Thoughts**: Looking forward to improve the quickdraw model and work on the next project!
+**Thoughts**: Half way there, I'm learning a lot of things doing this challenge.
 
 ## Day 49 : Nov 17, 2018
 
