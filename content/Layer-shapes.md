@@ -1,3 +1,5 @@
+## Layer Shapes Calculation in CNNs
+
 Calculating the shape of layers have always been a hard thing for me, today I found this:
 
 For any convolutional layer, the output feature maps will have the specified depth (a depth of 10 for 10 filters in a convolutional layer) and the dimensions of the produced feature maps (width/height) can be computed as the input image width/height, W, minus the filter size, F, divided by the stride, S, all + 1. The equation looks like: ```output_dim = (W-F)/S + 1```, for an assumed padding size of 0. You can find a derivation of this formula, here.

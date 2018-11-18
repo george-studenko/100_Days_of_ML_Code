@@ -1,4 +1,3 @@
-## Day 1 : Sep 30 , 2018
 ### Key ML Terminology  
 
 * **Feature**: features are the input variables we feed into a network, it can be as simple as a signle number or more complex as an image (which in reality is a vector of numbers, where each pixel is a feature)  

@@ -4,6 +4,67 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+## 100DaysOfMLCode Index
+
+[Attention mechanisms](content/Attention-mechanisms.md)
+[Batch size](content/Batch-size.md)
+[CNNs](content/CNN.md)
+[Computer Vision](content/Computer-Vision.md) 
+[Conda](content/Conda.md) 
+[Data Augmentation](content/Data-augmentation.md)
+[Defining a network structure](content/Defining-network-structure.md) 
+[Downloading Datasets](content/Downloading-Datasets.md) 
+[Dropout](content/Dropout.md)
+[Embeddings](content/Embeddings.md)
+[FastAI](content/fast-ai.md) 
+[Filtered Images](resources/kernels.png)
+[Facia-Keypoints-Detector notes](content/Day-10.md) 
+[GPU States](content/GPU.md)
+[High bias & high variance](content/High-bias-and-high-variance.md) 
+[Hyperparameters](content/Hyperparameters.md) 
+[Image Captioning Project Notes](content/Image-Captioning.md)
+[Intro to Pandas Lab](code/Intro_to_pandas.ipynb)
+[Jobs in Computer Vision](content/Jobs-in-Computer-Vision.md)
+[Layer Shapes](content/Layer-shapes.md)
+[Learning Rates](content/Learning-rate.md) 
+[Localization](content/Localization.md) 
+[LSTM cells](content/LSTM.md) 
+[Momentum](content/Momentum.md) 
+[Machine Learning Concepts](content/Machine-learning-concepts.md) 
+[NLTK](content/NLTK.md)
+[Probability](content/Probability.md) 
+[PyTorch Anatomy](https://freecontent.manning.com/pytorch-crash-course-part-1/) 
+[Pandas DataFrame Cheatsheet](cheatsheets/Pandas-DataFrame-Notes.pdf)
+[Region Proposal Algorithms](content/Region-Proposal-Algorithms.md) 
+[Regularization](content/Regularization.md)
+[RNNs](content/RNN.md) 
+[Training Dev and Testing sets](content/Training-Dev-and-Testing-Sets.md) 
+[Visualizing Feature Maps](content/Visualizing-Feature-Maps.md) 
+[Weighted Loss Functions](content/Weighted-Loss-Functions.md) 
+[YOLO](content/YOLO.md) 
+
+### Code
+[Architecture](code/cv/models.py)
+[Contour detection and features](code/cv/Contour%20detection%20and%20features.ipynb)
+[Finding Edges and Custom Kernels](code/cv/Finding%20Edges%20and%20Custom%20Kernels.ipynb) 
+[Guide to Mathematical Notation](code/Linear_Algebra/guide_to_mathematical_notation.ipynb)
+[Hough Lines](code/cv/Hough_lines.ipynb) 
+[Matrices](code/Linear_Algebra/2_matrices_in_python.ipynb) 
+[Matrix Addition](code/Linear_Algebra/3_matrix_addition.ipynb) 
+[Matrix Multiplication](code/Linear_Algebra/4_matrix_multiplication.ipynb) 
+[Robot Localization](code/Robot_Localization.ipynb) 
+[Vectors](code/Linear_Algebra/1_vector_coding.ipynb) 
+
+### Repositories
+[Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)
+[Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)
+
+## Day 50 : Nov 18, 2018
+
+**Today's Progress**: Half way there. Today I've been going through all my notes during the first half and re-organizing them, created an index of all content so far. I've also been doing some tests on the QuickDraw model to see if I can improve it. 
+
+**Thoughts**: Looking forward to improve the quickdraw model and work on the next project!
+
 ## Day 49 : Nov 17, 2018
 
 **Today's Progress**: We finally sent the first submission to Kaggle to see how is our model doing, we are still getting a low Map@3 score of 0.770 we are now working on improving the model. Planning now our next tam project, to recognize handwritten text, we will use the Extended MNIST dataset to train a model and we will try to use it later to digitize hand written notes like with OCR but with hand written text, preparing the new notebook with PyTorch and downloading the EMNIST datasets for training and test. Reading about OOP in Python. 
@@ -133,7 +194,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 ## Day 32 : Oct 31, 2018
 
-**Today's Progress** : Today I found a very interesting trick for __jupyter notebooks__ and that is how to save the notebook with a line of code, so imagine you are running a long process and want to save it after it finishes while being unattended just add this to the cell below and run it, once the cell above finishes it will save the notebook. Training the image caption model again with new parameters, increasing hidden units on the lstm and incresing batch size as well.
+**Today's Progress** : Today I found a very interesting trick for __jupyter notebooks__ and that is how to save the notebook with a line of code, so imagine you are running a long process and want to save it after it finishes while being unattended just add this to the cell below and run it, once the cell above finishes it will save the notebook. Training the image caption model again with new parameters, increasing hidden units on the lstm and increasing batch size as well.
 
 ``` 
 %%javascript
@@ -212,7 +273,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 ## Day 26 : Oct 25, 2018
 
-**Today's Progress** : Kept working on the Image Captioning project, starting to define the CNN and RNN models that I will start using, for the CNN encoder I will be using the pre-trained ResNet-50 as for the RNN I'm still working on it but I will be using LSTMs cells. I also found an insteresting Pandas Dataframes cheatsheet that I'm adding to the collection, check the link below.
+**Today's Progress** : Kept working on the Image Captioning project, starting to define the CNN and RNN models that I will start using, for the CNN encoder I will be using the pre-trained ResNet-50 as for the RNN I'm still working on it but I will be using LSTMs cells. I also found an interesting Pandas Dataframes cheat sheet that I'm adding to the collection, check the link below.
 
 **Thoughts**: I need more practice with RNNs, I feel more confident with CNNs at the moment but I should be able to pull it out.
 
@@ -325,7 +386,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : I had lots of challenging moments while working on the project which were great to learn, I will try to implement more things on the notebook 4 of the project.
 
-**Link to work:** [Day 13 notes](content/Day-13.md) | [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)
+**Link to work:** [Weighted Loss Functions](content/Weighted-Loss-Functions.md) | [Region Proposal Algorithms](content/Region-Proposal-Algorithms.md) | [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)
 
 
 ## Day 12 : Oct 11, 2018
@@ -334,7 +395,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : If you can run it on a GPU, do it, it is just hundreds of times faster, your time is worth it. it is really cool to see the feature maps that the network created and used to learn!
 
-**Link to work:** [Day 12 notes](content/Day-12.md) | [Filtered Images](resources/kernels.png)
+**Link to work:** [Visualizing Feature Maps](content/Visualizing-Feature-Maps.md) | [Filtered Images](resources/kernels.png)
 
 ## Day 11 : Oct 10, 2018
 
@@ -356,7 +417,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : Momentum seems to be a good technique to use when local minimas might be a problem, and dropout will help a lot to make all nodes of a network better and avoid having some nodes that might be doing all the job opn their own. While deciding on what layers to include is all about intuitions there are some things that you can try out to see if the model improves check the list in the notes of day 9.
 
-**Link to work:** [Day 9 notes](content/Day-9.md) | [Dropout](content/Dropout.md)
+**Link to work:** [Defining a network structure](content/Defining-network-structure.md) | [Momentum](content/Momentum.md) | [Dropout](content/Dropout.md)
 
 ## Day 8 : Oct 7, 2018
 
@@ -364,15 +425,15 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : it is pretty simple to understand once you do it a couple of times, I have also been testing CNNs architectures adding more layers and finishing with Convolutions or pooling layers before the last fully connected layer and when trying that I figured out that when having a Convolutional layer before the fully connected the accuracy was of 4.6% but if instead I used a max pooling layer before the FC layer the accuracy went up to 10%.
 
-**Link to work:** [Day 8 notes](content/Day-8.md)
+**Link to work:** [Layer Shapes](content/Layer-shapes.md)
 
 ## Day 7 : Oct 6, 2018
 
 **Today's Progress** : Working on the Fast.AI Deeplearning course on data augmentation and ways to find the best learning rate
 
-**Thoughts** : It's interesting to realize that data augmentation is not always beneficial and to understan when it is, also it is interesting to see that are some crucial concepts like the lr_find function that is based on the part of a not really known paper, that is just great to find the optimal learning rate.
+**Thoughts** : It's interesting to realize that data augmentation is not always beneficial and to understand when it is, also it is interesting to see that are some crucial concepts like the lr_find function that is based on the part of a not really known paper, that is just great to find the optimal learning rate.
 
-**Link to work:** [Day 7 notes](content/Day-7.md)
+**Link to work:** [Learning rates](content/Learning-rate.md) | [Data Augmentation](content/Data-augmentation.md)
 
 ## Day 6 : Oct 5, 2018
 
@@ -380,7 +441,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : Still a bit confused when it comes to define the actual size (shape) of the network after a couple of layers.
 
-**Link to work:** [Day 6 notes](content/Day-6.md)
+**Link to work:** [CNNs](content/CNN.md)
 
 ## Day 5 : Oct 4, 2018
 
@@ -388,7 +449,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : ORB is easier to understand than HOG, both serve a different purpose, I've some previous experience with CNNs but I was struggling with it, this time I'm getting a better grab of it.
 
-**Link to work:** [Day 5 notes](content/Day-5.md)
+**Link to work:** [Computer Vision notes](content/Computer-Vision.md)
 
 ## Day 4 : Oct 3, 2018
 
@@ -404,7 +465,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Thoughts** : Looks like detecting corners is a quite useful technique in Computer Vision, also image contouring seems to be a great way to detect images. K-means clustering can group part of the image together to help with image segmentation! I have learned about high features in Tensorflow, I'm not sure if those are new features or I just didn't get the chance to use them before.
 
-**Link to work:** [Day 3 Notes](content/Day-3.md) | [Contour detection and features](https://github.com/george-studenko/100_Days_of_ML_Code/blob/master/code/cv/Contour%20detection%20and%20features.ipynb)
+**Link to work:** [Computer Vision](content/Computer-Vision.md) | [Contour detection and features](https://github.com/george-studenko/100_Days_of_ML_Code/blob/master/code/cv/Contour%20detection%20and%20features.ipynb)
 
 
 ## Day 2 : Oct 1, 2018
@@ -424,7 +485,7 @@ Update: Apparently I need to concatenate the embeddings with the features unsque
 
 **Link to course:** [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-**Link to work:** [Day 1 Notes](content/Day-1.md) | [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)
+**Link to work:** [Machine Learning Concepts](content/Machine-learning-concepts.md) | [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)
 
 
 ## Day 0 : Sep 29 , 2018

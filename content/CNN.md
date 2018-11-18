@@ -23,7 +23,7 @@ def __init__(self, n_classes):
   self.fc1 = nn.Linear(32*4,n_classes)
 ```
 
-The feedforward behaviour is defined in the **forward** function which takes the image tensor x as input:
+The feedforward behavior is defined in the **forward** function which takes the image tensor x as input:
 
 ```
 def forward(self,x):
