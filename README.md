@@ -61,6 +61,12 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 
 
+## Day 51 : Nov 19, 2018
+
+**Today's Progress**: Working on the Landmark detection and tracking project, implemented the Sense function to sense landmarks in the 2D world with added uncertainty for dx and dy, now trying to implement the constraint matrix. Been also experimenting a bit with the EMNIST dataset, in pytorch looks like there are some bugs as not all classes are in the classes dictionary as I can only see the MNIST ones (0-9)
+
+**Thoughts**: Implementing the constraint matrix in 2D is quite confusing and still trying to understand it
+
 ## Day 50 : Nov 18, 2018
 
 **Today's Progress**: Half way there. Today I've been going through all my notes during the first half and re-organizing them, created an [index](https://github.com/george-studenko/100_Days_of_ML_Code#100daysofmlcode-index) of all content so far. I've also been doing some tests on the QuickDraw model to see if I can improve it. 
