@@ -60,6 +60,13 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 
+## Day 52 : Nov 20, 2018
+
+**Today's Progress**: Working on the Landmark detection and tracking project, implementing the constraint initialization function, at first I was confused thinking in terms of the world and not in terms of the constraints. Watching the SLAM lessons for the second time it is making more sense now. To get the solutions of all equations (the mu vector) 
+mu = omega<sup>-1</sup> * xi
+
+**Thoughts**: the omega matrix follows a pattern to add the numbers, and the constraints are simple to implement if you look at it like simple lineal equations and then clear the value from both sides of the equation so in one equation the value will be negative and in the other the value will be positive for example: ```x0 - x1 = -5``` and ```x1 - x0 = 5```
+
 
 ## Day 51 : Nov 19, 2018
 
