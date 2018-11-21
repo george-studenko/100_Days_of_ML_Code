@@ -60,6 +60,12 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 
+## Day 53 : Nov 21, 2018
+
+**Today's Progress**: Implementing the Slam function to update the constraint matrix, working with x and y on the same matrix is a bit confusing for the constraint matrix, I'm changing the implementation to use 2 matrices instead one for x and one for y for both omega and xi. Checking the robot generated data to understand better how to calculate the constraint matrix.
+
+**Thoughts**: better to refactor the code earlier before this gets more complex and confusing. Trying to get a hold of the mentors of the project for 3 days now, but looks like nobody is around.
+
 ## Day 52 : Nov 20, 2018
 
 **Today's Progress**: Working on the Landmark detection and tracking project, implementing the constraint initialization function, at first I was confused thinking in terms of the world and not in terms of the constraints. Watching the SLAM lessons for the second time it is making more sense now. To get the solutions of all equations (the mu vector) 
