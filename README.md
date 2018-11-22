@@ -60,6 +60,28 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 
+## Day 54 : Nov 22, 2018
+
+**Today's Progress**: refactoring the functions on the slam project to make them work with 2 matrices instead of 1, working on the update function to set and update all values in the constraint matrix according to the world observations, some samples below, each one is one robot movement:
+
+```
+0 - Measurement:  [0, 14.041141265751651, -14.681929570535768]
+0 - Measurement:  [1, 43.8790296430265, 49.47795079424027]
+0 - Measurement:  [2, 32.58593495634767, 8.733395657214311]
+0 - Measurement:  [3, 41.391463862883604, -42.81033082282804]
+0 - Measurement:  [4, 48.16958980823874, 30.77201714559928]
+0 - Motion:       [19.797473966744985, 2.8390182345407036]
+
+
+1 - Measurement:  [0, 35.972246403584755, -13.737033304213115]
+1 - Measurement:  [1, 24.25932330061779, 49.886769607894166]
+1 - Measurement:  [3, 17.858095906012498, -40.78942619313321]
+1 - Motion:       [19.797473966744985, 2.8390182345407036]
+```
+
+**Thoughts**: Refactoring it with multiple matrices it is making more sense now, I was still getting confused with the world grid and the constraint matrix, they are not the same but somehow in my mind I was mixing the concepts.
+
+
 ## Day 53 : Nov 21, 2018
 
 **Today's Progress**: Implementing the Slam function to update the constraint matrix, working with x and y on the same matrix is a bit confusing for the constraint matrix, I'm changing the implementation to use 2 matrices instead one for x and one for y for both omega and xi. Checking the robot generated data to understand better how to calculate the constraint matrix.
