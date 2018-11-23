@@ -60,6 +60,12 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 
+
+## Day 55 : Nov 23, 2018
+
+**Today's Progress**: executing the first tests with the Slam method, getting a ```LinAlgError: Singular matrix error```, it also happened to me before while working on the lessons exercises, but cant figure what am i doing wrong, it happens when I try to do the inverse of the matrix ```np.linalg.inv(np.matrix(omega_x)) * xi_x``` trying to figure, looks like it is quite normal in robot localization,  reading some papers that talk about ways to avoid it.
+
+
 ## Day 54 : Nov 22, 2018
 
 **Today's Progress**: refactoring the functions on the slam project to make them work with 2 matrices instead of 1, working on the update function to set and update all values in the constraint matrix according to the world observations, some samples below, each one is one robot movement:
