@@ -60,6 +60,11 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 
+## Day 57 : Nov 25, 2018
+
+**Today's Progress**: having some out of memory errors when trying to make the split for the training set, checking alternatives to make it with PyTorch SubsetRandomSampler. Fixing some problems with the dataset (TensorDataset) by loading data with numpy.loadtxt instead of pandas.read_csv. Trying to fix the singular matrix problem in the Slam project but still working on it.
+
+
 ## Day 56 : Nov 24, 2018
 
 **Today's Progress**: we made progress in the Handwriting Recognition project, investigating the EMNIST dataset, creating the classes index, training, validation and test sets, learning about PyTorch TensorDataset to load data directly from numpy arrays. Preparing all the methods to train and validate the model.
