@@ -12,6 +12,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Computer Vision](content/Computer-Vision.md)   
 [Conda](content/Conda.md)   
 [Data Augmentation](content/Data-augmentation.md)  
+[Debug Jupyper Notebooks](content/Debug-jupyter.md)
 [Defining a network structure](content/Defining-network-structure.md)   
 [Downloading Datasets](content/Downloading-Datasets.md)   
 [Dropout](content/Dropout.md)  
@@ -25,6 +26,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Image Captioning Project Notes](content/Image-Captioning.md)  
 [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)  
 [Jobs in Computer Vision](content/Jobs-in-Computer-Vision.md)  
+[Jupyter notebooks extensions](content/Jupyter-extensions.md)  
 [Layer Shapes](content/Layer-shapes.md)  
 [Learning Rates](content/Learning-rate.md)   
 [Localization](content/Localization.md)   
@@ -59,6 +61,16 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 ### Repositories  
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
+
+### Resources 
+[32.81TB of research data](http://academictorrents.com/)
+
+## Day 58 : Nov 26, 2018
+
+**Today's Progress**: installing and configuring extensions for Jupyter Notebooks, added [32.81TB of research data](http://academictorrents.com/) to the resources list in the index, trying the variable inspector extension and PixieDebugger with the Slam project. Managed to get over the singular matrix error.
+
+**Link to work:**  [Jupyter notebooks extensions](content/Jupyter-extensions.md) | [Debug Jupyper Notebooks](content/Debug-jupyter.md)
+
 
 ## Day 57 : Nov 25, 2018
 
