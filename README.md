@@ -65,6 +65,10 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)
 
+## Day 59 : Nov 27, 2018
+
+**Today's Progress**: back to pencil and paper to get the right index of the constraints in a 2d world, realized that I need to refactor again my code on the Landmark Detection project from 2 matrices in 1D to 1 matrix in 2D to make it work with the helpers methods to check the final status of the code, either that or to refactor all the helper methods which I'm not exactly sure how they work.
+
 ## Day 58 : Nov 26, 2018
 
 **Today's Progress**: installing and configuring extensions for Jupyter Notebooks, added [32.81TB of research data](http://academictorrents.com/) to the resources list in the index, trying the variable inspector extension and PixieDebugger with the Slam project. Managed to get over the singular matrix error.
