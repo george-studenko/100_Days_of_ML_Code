@@ -4,6 +4,8 @@
 
 Here you can find a very useful [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
+Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
 ## 100DaysOfMLCode Index
 
 [Attention mechanisms](content/Attention-mechanisms.md)  
@@ -50,7 +52,7 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 [Architecture](code/cv/models.py)  
 [Contour detection and features](code/cv/Contour%20detection%20and%20features.ipynb)  
 [Finding Edges and Custom Kernels](code/cv/Finding%20Edges%20and%20Custom%20Kernels.ipynb)   
-[Guide to Mathematical Notation](code/Linear_Algebra/guide_to_mathematical_notation.ipynb)  
+[Guide to Mathematical Notation](code/Linear_Algebra/9uide_to_mathematical_notation.ipynb)  
 [Hough Lines](code/cv/Hough_lines.ipynb)   
 [Matrices](code/Linear_Algebra/2_matrices_in_python.ipynb)   
 [Matrix Addition](code/Linear_Algebra/3_matrix_addition.ipynb)   
@@ -61,9 +63,20 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 ### Repositories  
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
+[Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
 
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)
+[Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+## Day 60 : Nov 28, 2018
+
+**Today's Progress**: always wondered how to show all values of a numpy array when printing, today I needed to actually inspect all values on a big array and since it always gets truncated I found the setting that will make it print the full set of values ```np.set_printoptions(threshold=np.nan)```. Seeing the full matrix is helping me to debug the problem. Uploaded the project to GitHub. Added [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/) to the resources index above.
+
+**Thoughts**: I got to start indexing more resources, lots of them are being shared everyday need to start gathering them and also keep getting more cheat sheets   
+
+**Link to work:**  [Bad Omega constraint matrix](content/bad-constraint-matrix.md) | [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+
 
 ## Day 59 : Nov 27, 2018
 
