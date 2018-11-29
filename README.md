@@ -69,6 +69,15 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 61 : Nov 29, 2018
+
+**Today's Progress**: Finally submitted the Landmark detection and Tracking project, managed to fix the singular matrix problem, the landmarks positions in the matrix were not being calculated correctly, waiting for the project review now.
+
+**Thoughts**: It took me a while to complete this project, I got most of the code done in little time but trying to figure this bug took me a long time, I was on the right track for days, I saw that the landmarks positions were not correct but logically my code did seem correct so it was very hard to find the problem.
+
+**Link to work:**  [Bad Omega constraint matrix](content/bad-constraint-matrix.md) | [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+
+
 ## Day 60 : Nov 28, 2018
 
 **Today's Progress**: always wondered how to show all values of a numpy array when printing, today I needed to actually inspect all values on a big array and since it always gets truncated I found the setting that will make it print the full set of values ```np.set_printoptions(threshold=np.nan)```. Seeing the full matrix is helping me to debug the problem. Uploaded the project to GitHub. Added [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/) to the resources index above.
