@@ -69,6 +69,15 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 62 : Nov 30, 2018
+
+**Today's Progress**: Learning about Fully-Convolutional Neural Networks. Got feedback from the Landmark detection project made the changes an re-submitted it, I was not adding noise to the measurements before. 
+
+**Thoughts**: It was a bit challenging to find the right way to add noise to all measurements for omega and xi but I think I finally made it, my final estimated measurements looks correct.
+
+**Link to work:**  [Fully Convolutional Neural Networks](content/FCNNs.md) | [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+
+
 ## Day 61 : Nov 29, 2018
 
 **Today's Progress**: Finally submitted the Landmark detection and Tracking project, managed to fix the singular matrix problem, the landmarks positions in the matrix were not being calculated correctly, waiting for the project review now.
