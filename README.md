@@ -93,7 +93,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Thoughts**: I got to start indexing more resources, lots of them are being shared everyday need to start gathering them and also keep getting more cheat sheets   
 
-**Link to work:**  [Bad Omega constraint matrix](content/bad-constraint-matrix.md) | [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+**Link to work:** [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
 
 
 ## Day 59 : Nov 27, 2018
