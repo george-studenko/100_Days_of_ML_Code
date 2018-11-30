@@ -22,7 +22,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [FastAI](content/fast-ai.md)   
 [Filtered Images](resources/kernels.png)  
 [Facia-Keypoints-Detector notes](content/Day-10.md)   
-[Fully Convolutional Neural Networks](content/FCNNs.md)
+[Fully Convolutional Neural Networks](content/FCNNs.md)  
 [GPU States](content/GPU.md)  
 [High bias & high variance](content/High-bias-and-high-variance.md)   
 [Hyperparameters](content/Hyperparameters.md)   
@@ -67,7 +67,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
 
 ### Resources 
-[32.81TB of research data](http://academictorrents.com/)
+[32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
 ## Day 62 : Nov 30, 2018
