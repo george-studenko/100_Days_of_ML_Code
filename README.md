@@ -22,6 +22,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [FastAI](content/fast-ai.md)   
 [Filtered Images](resources/kernels.png)  
 [Facia-Keypoints-Detector notes](content/Day-10.md)   
+[Fully Convolutional Neural Networks](content/FCNNs.md)
 [GPU States](content/GPU.md)  
 [High bias & high variance](content/High-bias-and-high-variance.md)   
 [Hyperparameters](content/Hyperparameters.md)   
