@@ -70,6 +70,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 63 : Dic 1, 2018
+
+**Today's Progress**: Working on the handwritting recognition project, testing different model architectures so far the best model I could get had a 87.5% accuracy, trying to improve it. Trying to get word boundaries with openCV, checking YOLO to see if I can use it to get the boundaries of words or at least characters. Testing new approachs with lr_scheduler.
+
+**Thoughts**: One of the things I did to try to improve the model was to cut off layers in my model, to my surprise it performs as well as the bigger net, so bigger is not always better.
+
 ## Day 62 : Nov 30, 2018
 
 **Today's Progress**: Learning about Fully-Convolutional Neural Networks. Got feedback from the Landmark detection project made the changes an re-submitted it, I was not adding noise to the measurements before. 
