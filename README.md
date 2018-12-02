@@ -70,9 +70,17 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
-## Day 63 : Dic 1, 2018
+## Day 64 : Dec 2, 2018
 
-**Today's Progress**: Working on the handwritting recognition project, testing different model architectures so far the best model I could get had a 87.5% accuracy, trying to improve it. Trying to get word boundaries with openCV, checking YOLO to see if I can use it to get the boundaries of words or at least characters. Testing new approachs with lr_scheduler.
+**Today's Progress**: Continuing with Fully-Convolutional Neural Networks. Yesterday graduated from the Computer Vision Nanodegree. Working on the handwriting recognition project, pre-processing images to extract characters and find where the next word starts.
+
+**Thoughts**: Pre-processing images to extract chars is interesting, I faced different challenges such as: each text might have a different separation between words so the threshold is not always the same, problems with finding contours twice like in a "o" character where there is an external and internal contour, or the fact that the contours are not sorted so even after extracting the characters the text will not be correct if not sorted in the right order.
+
+**Link to work:**  [Fully Convolutional Neural Networks](content/FCNNs.md)
+
+## Day 63 : Dec 1, 2018
+
+**Today's Progress**: Working on the handwriting recognition project, testing different model architectures so far the best model I could get had a 87.5% accuracy, trying to improve it. Trying to get word boundaries with openCV, checking YOLO to see if I can use it to get the boundaries of words or at least characters. Testing new approaches with lr_scheduler.
 
 **Thoughts**: One of the things I did to try to improve the model was to cut off layers in my model, to my surprise it performs as well as the bigger net, so bigger is not always better.
 
@@ -82,7 +90,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Thoughts**: It was a bit challenging to find the right way to add noise to all measurements for omega and xi but I think I finally made it, my final estimated measurements looks correct.
 
-**Link to work:**  [Fully Convolutional Neural Networks](content/FCNNs.md) | [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+**Link to work:**  [Fully Convolutional Neural Networks](content/FCNNs.md) | [Landmark Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
 
 
 ## Day 61 : Nov 29, 2018
@@ -91,7 +99,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Thoughts**: It took me a while to complete this project, I got most of the code done in little time but trying to figure this bug took me a long time, I was on the right track for days, I saw that the landmarks positions were not correct but logically my code did seem correct so it was very hard to find the problem.
 
-**Link to work:**  [Bad Omega constraint matrix](content/bad-constraint-matrix.md) | [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+**Link to work:**  [Bad Omega constraint matrix](content/bad-constraint-matrix.md) | [Landmark Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
 
 
 ## Day 60 : Nov 28, 2018
@@ -100,7 +108,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Thoughts**: I got to start indexing more resources, lots of them are being shared everyday need to start gathering them and also keep getting more cheat sheets   
 
-**Link to work:** [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+**Link to work:** [Landmark Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
 
 
 ## Day 59 : Nov 27, 2018
