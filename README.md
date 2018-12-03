@@ -70,6 +70,13 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 65 : Dec 3, 2018
+
+**Today's Progress**: Working on a function to make all images the same size while keeping the aspect ratio for the Handwriting Recognition project, already have a function to do it but it is not keeping the aspect ratio. 
+
+**Thoughts**: OpenCV is giving some errors, probably because the two images I want to add together are not the same shape. Looks like I need to work with a cv2 function called copyMakeBorder
+
+
 ## Day 64 : Dec 2, 2018
 
 **Today's Progress**: Continuing with Fully-Convolutional Neural Networks. Yesterday graduated from the Computer Vision Nanodegree. Working on the handwriting recognition project, pre-processing images to extract characters and find where the next word starts.
