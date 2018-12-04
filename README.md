@@ -70,6 +70,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 66 : Dec 4, 2018
+
+**Today's Progress**: Wrote an algorithm to resize the characters depending on the longest side keeping the aspect ratio, and another function to fill the image with borders to make the image the correct size. Testing different interpolation modes to see the difference in quality 
+
+**Thoughts**: I found that for downsampling an image the recommended interpolation is INTER_AREA but it was too thing in this case at least visually we will have to test how the model reacts to different interpolations when predicting
+
 ## Day 65 : Dec 3, 2018
 
 **Today's Progress**: Working on a function to make all images the same size while keeping the aspect ratio for the Handwriting Recognition project, already have a function to do it but it is not keeping the aspect ratio. 
