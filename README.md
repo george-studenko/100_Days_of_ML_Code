@@ -74,7 +74,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Today's Progress**: Wrote an algorithm to resize the characters depending on the longest side keeping the aspect ratio, and another function to fill the image with borders to make the image the correct size. Testing different interpolation modes to see the difference in quality 
 
-**Thoughts**: I found that for downsampling an image the recommended interpolation is INTER_AREA but it was too thing in this case at least visually we will have to test how the model reacts to different interpolations when predicting
+**Thoughts**: I found that for down-sampling an image the recommended interpolation is INTER_AREA but it was too thing in this case at least visually we will have to test how the model reacts to different interpolations when predicting.
 
 ## Day 65 : Dec 3, 2018
 
