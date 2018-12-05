@@ -70,6 +70,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 67 : Dec 5, 2018
+
+**Today's Progress**: Joined the Humpback Whale Identification Kaggle Competition, downloading, preparing and understanding the dataset, been watching some videos on PyTorch finally understood why we don't need a softmax activation in the last layer of a classifier when using crossentropy loss, I've been a bit confused with that in the past. 
+
+**Thoughts**: The challenge on this project is the little amount of images that there are per whale so I guess it is time to go for data augmentation, also while checking the images they are not perfect, some images contains text, some are blured, or they might even contain something else in the background.
+
 ## Day 66 : Dec 4, 2018
 
 **Today's Progress**: Wrote an algorithm to resize the characters depending on the longest side keeping the aspect ratio, and another function to fill the image with borders to make the image the correct size. Testing different interpolation modes to see the difference in quality 
