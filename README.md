@@ -76,6 +76,8 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Thoughts**: The challenge on this project is the little amount of images that there are per whale so I guess it is time to go for data augmentation, also while checking the images they are not perfect, some images contains text, some are blured, or they might even contain something else in the background.
 
+**Link to competition:** [Humpback whale identification competition](https://www.kaggle.com/c/humpback-whale-identification)
+
 ## Day 66 : Dec 4, 2018
 
 **Today's Progress**: Wrote an algorithm to resize the characters depending on the longest side keeping the aspect ratio, and another function to fill the image with borders to make the image the correct size. Testing different interpolation modes to see the difference in quality 
