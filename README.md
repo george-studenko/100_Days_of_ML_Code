@@ -70,6 +70,13 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 68 : Dec 6, 2018
+
+**Today's Progress**: Working on the HW Recognition project, wrote a function to split the lines of text in an image, a method to encapsulate the whole image pre-processing pipeline, found and fixed a bug on the make_square method, tried to apply gaussian blur on the images to see if it helps, but just made it worse, organizing the whole project code now.
+
+**Thoughts**: To recognize and split lines in an image I found many code snippets but they were too complex, I implemented my own algorithm  which is so far working pretty well.
+
+
 ## Day 67 : Dec 5, 2018
 
 **Today's Progress**: Joined the Humpback Whale Identification Kaggle Competition, downloading, preparing and understanding the dataset, been watching some videos on PyTorch finally understood why we don't need a softmax activation in the last layer of a classifier when using crossentropy loss, I've been a bit confused with that in the past. 
