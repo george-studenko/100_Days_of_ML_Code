@@ -20,7 +20,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [Dropout](content/Dropout.md)  
 [Embeddings](content/Embeddings.md)  
 [FastAI](content/fast-ai.md)   
-[Feather](content/Feather.md)
+[Feather](content/Feather.md)  
 [Filtered Images](resources/kernels.png)  
 [Facia-Keypoints-Detector notes](content/Day-10.md)   
 [Fully Convolutional Neural Networks](content/FCNNs.md)  
