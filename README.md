@@ -20,6 +20,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [Dropout](content/Dropout.md)  
 [Embeddings](content/Embeddings.md)  
 [FastAI](content/fast-ai.md)   
+[Feather](content/Feather.md)
 [Filtered Images](resources/kernels.png)  
 [Facia-Keypoints-Detector notes](content/Day-10.md)   
 [Fully Convolutional Neural Networks](content/FCNNs.md)  
@@ -69,6 +70,14 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+## Day 69 : Dec 7, 2018
+
+**Today's Progress**: Started using feather to store and load data in the HW Recognition project, with numpy it took around 5 minuts to load from csv, with pandas 2 minutes and with feather you can have it in seconds, nice optimization on speed at the cost of more space to store the data.
+
+**Thoughts**: I heard about feather about a month ago watching a video from Jeremy (FastAI), was having memory issues and long loading times to decided I will try it 
+
+**Link to work:** [Feather](content/Feather.md) 
 
 ## Day 68 : Dec 6, 2018
 
