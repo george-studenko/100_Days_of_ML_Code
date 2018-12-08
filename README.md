@@ -71,11 +71,19 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 70 : Dec 8, 2018
+
+**Today's Progress**: wrote a function to detect spaces between words, refactoring some methods in the HWR project, trying to use ```adaptiveThreshold```, trying to apply dilation to images to see if it helps to enhance image quality.
+
+**Thoughts**: when working with real photos lighting can be a problem trying to overcome that problem.
+
+**Link to work:** [Feather](content/Feather.md) 
+
 ## Day 69 : Dec 7, 2018
 
 **Today's Progress**: Started using feather to store and load data in the HW Recognition project, with numpy it took around 5 minuts to load from csv, with pandas 2 minutes and with feather you can have it in seconds, nice optimization on speed at the cost of more space to store the data.
 
-**Thoughts**: I heard about feather about a month ago watching a video from Jeremy (FastAI), was having memory issues and long loading times to decided I will try it 
+**Thoughts**: I heard about feather about a month ago watching a video from Jeremy (FastAI), was having memory issues and long loading times to decided I will try it.
 
 **Link to work:** [Feather](content/Feather.md) 
 
