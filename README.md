@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 71 : Dec 9, 2018
+
+**Today's Progress**: working all day on the HWR project, realized that when using real images the image preprocessing was not working well so it wont detect any characters, now using adaptiveThreshold with blur and dilation to improve the quality of the extracted chars, testing with real images and seems to be working fine.
+
+**Thoughts**: redefined the whole preprocessing pipeline, now back to the function to detect spaces between words, the results after testing were not good enough
+
 ## Day 70 : Dec 8, 2018
 
 **Today's Progress**: wrote a function to detect spaces between words, refactoring some methods in the HWR project, trying to use ```adaptiveThreshold```, trying to apply dilation to images to see if it helps to enhance image quality.
