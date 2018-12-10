@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 72 : Dec 10, 2018
+
+**Today's Progress**: Back to image segmentations lessons, will try to use canny edges first before findContours to reduce noise, researching on how to get bounding boxes on letters with 2 parts like an `i` or `j` doing some tests now, at the moment things like 'jijiji' are the worse nightmare of the project
+
+**Thoughts**: I could see it is possible to fix this problem, but still working on it, there is still a lot to learn about image pre-processing and definitely a good pre-processing of the image will do a huge difference in getting more accurate results
+
 ## Day 71 : Dec 9, 2018
 
 **Today's Progress**: working all day on the HWR project, realized that when using real images the image preprocessing was not working well so it wont detect any characters, now using adaptiveThreshold with blur and dilation to improve the quality of the extracted chars, testing with real images and seems to be working fine.
