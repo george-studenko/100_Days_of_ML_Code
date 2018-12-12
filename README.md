@@ -71,11 +71,17 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 74: Dec 12, 2018
+
+**Today's Progress**: Continued with Computer vision lessons on affine transforms ```getAffineTransform``` and not-affine transforms with ```getPerspectiveTransform``` which I might need to implement in the HWR project in the future for rotating pictures when they are not in the right orientation, matching contours by shapes with ```matchShapes``` and approximating contours with ```approxPolyDP``` and ```convexHull```
+
+**Thoughts**: Being able to get the perspective of an image and transform it to put it on the right orientation is crucial for real world data where the pictures are not perfect and might be rotated or on an angle. 
+
 ## Day 73 : Dec 11, 2018
 
 **Today's Progress**: Managed to implement the 2-parts characters extraction by applying a vertical rectangle kernel, this also fixed problems with I letters when the 3 sections were a bit apart, experimenting with Canny edges, it seems promising but will break the current code as is now since Canny already threshes the images and inverts it so it wont work with the code that I wrote to split image lines. 
 
-**Thoughts**: Using version control with Jupyter notebooks can be a hassle specially when checking for changes in code with ```git diff```, today I found this script to make things easier with GIT, pending to implement it
+**Thoughts**: Using version control with Jupyter notebooks can be a hassle specially when checking for changes in code with ```git diff```, today I found this script to make things easier with GIT, pending to implement it.
 
 **Links to work:** [Jupyter Notebooks & GIT Article](http://pascalbugnion.net/blog/ipython-notebooks-and-git.html) | [Jupyter Notebooks & GIT Code](https://gist.github.com/george-studenko/f91f62227e406aa208f4616432dd3a60)
 
