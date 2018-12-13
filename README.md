@@ -71,6 +71,13 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 75: Dec 13, 2018
+
+**Today's Progress**: Checking OpenCV libraries for C# found Emgu and OpenCVSharp, learning about OpenCVSharp, it has quite the exact syntax as the python version. Learning about the basic data structures like ```Mat``` that represents an N-Dimensional dense numerical single channel or multichannel array. More basic types like ```CV_8UC3``` which represents an 8 bit unsigned integer with 3 channels (color image). 
+
+**Thoughts**: While learning about openCV in C# I did learn more in depth about how the information is stored and now I understand how we can plot images with matplotlib.pyplot.imshow as well, also learning what are the data types that until today did sound weird like the CV_8UC3 type, learning something from a different perspective always helps. 
+ 
+
 ## Day 74: Dec 12, 2018
 
 **Today's Progress**: Continued with Computer vision lessons on affine transforms ```getAffineTransform``` and not-affine transforms with ```getPerspectiveTransform``` which I might need to implement in the HWR project in the future for rotating pictures when they are not in the right orientation, matching contours by shapes with ```matchShapes``` and approximating contours with ```approxPolyDP``` and ```convexHull```
