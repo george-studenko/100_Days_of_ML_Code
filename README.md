@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 76: Dec 14, 2018
+
+**Today's Progress**: continued learning about OpenCVSharp, learning about transformation matrices like the RotationMatrix, the translation matrix to shift an image by x and y pixels on the desired directions ```[1, 0, tx], [0, 1, ty]```. Bitwise operations ```and``` ```or```  ```xor``` and ```not``` and reviewing ```thresholding``` I will be doing some tests with Otsu thresholding soon. Preparing the HWR project for demonstration
+
+**Thoughts**: it is interesting to see how Linear Algebra takes an important role in image processing. There is still a lot of work to be done in the HWR project.
+
 ## Day 75: Dec 13, 2018
 
 **Today's Progress**: Checking OpenCV libraries for C# found Emgu and OpenCVSharp, learning about OpenCVSharp, it has quite the exact syntax as the python version. Learning about the basic data structures like ```Mat``` that represents an N-Dimensional dense numerical single channel or multichannel array. More basic types like ```CV_8UC3``` which represents an 8 bit unsigned integer with 3 channels (color image). 
