@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 77: Dec 15, 2018
+
+**Today's Progress**: making the first presentations of the Handwriting Recognition project to our fellows of AI Saturdays Barcelona at DepotLab, getting feedback to improve it for the official presentation at Alpha Telefónica in January 2019, preparing the slides, experimenting with Canny edges and different blur kernels. 
+
+**Thoughts**: Got great feedback from my peers today, and looking forward to improve the project and slides for next month.
+
 ## Day 76: Dec 14, 2018
 
 **Today's Progress**: continued learning about OpenCVSharp, learning about transformation matrices like the RotationMatrix, the translation matrix to shift an image by x and y pixels on the desired directions ```[1, 0, tx], [0, 1, ty]```. Bitwise operations ```and``` ```or```  ```xor``` and ```not``` and reviewing ```thresholding``` I will be doing some tests with Otsu thresholding soon. Preparing the HWR project for demonstration
