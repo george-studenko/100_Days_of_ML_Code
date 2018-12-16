@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 78: Dec 16, 2018
+
+**Today's Progress**: Added padding to the extacted characters on the HWR project, seems to be helping, wrote a 2nd version of the image pre-processing pipeline that uses otsu  for thresholding, researching how to write a one-class classificator model. Researching how to deploy a model either to web or mobile.
+
+**Thoughts**: The one-class classificator  is something I never thought of, training a model with only positive labels is a bit weird, and challenging to do, trying to figure.
+
 ## Day 77: Dec 15, 2018
 
 **Today's Progress**: making the first presentations of the Handwriting Recognition project to our fellows of AI Saturdays Barcelona at DepotLab, getting feedback to improve it for the official presentation at Alpha Telefónica in January 2019, preparing the slides, experimenting with Canny edges and different blur kernels. 
