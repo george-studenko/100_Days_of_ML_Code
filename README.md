@@ -71,6 +71,14 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 79: Dec 17, 2018
+
+**Today's Progress**: Implementing some code in OpenCVSharo to practice, reading papers on one class classification, reading different approach, I will try to implement mine with a simple approach having a threshold in the probability of a class and maybe combine it with the total of white pixels having a min and max to consider it a char
+
+**Thoughts**: One class classifiers are used as outlier detectors, seems like an interesting application of deep learning.
+
+**Links:** [Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of "Outlier" Detectors](https://arxiv.org/abs/1809.04729) | [Towards Open Set Deep Networks](https://arxiv.org/abs/1511.06233) | [OpenCVSharp Basics Repository](https://github.com/george-studenko/OpenCVSharp-Basics/tree/master/OpenCVSharp-Basics)
+
 ## Day 78: Dec 16, 2018
 
 **Today's Progress**: Added padding to the extacted characters on the HWR project, seems to be helping, wrote a 2nd version of the image pre-processing pipeline that uses otsu  for thresholding, researching how to write a one-class classificator model. Researching how to deploy a model either to web or mobile.
