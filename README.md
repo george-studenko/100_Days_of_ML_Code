@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 80: Dec 18, 2018
+
+**Today's Progress**: Extracting the probability of the recognized char and exploring  different examples to find a reasonable threshold to count the prediction as confident, exploring characters from the train dataset, reading papers on documents segmentation with computer vision
+
+**Thoughts**: Had to normalize the values of the extracted probabilities to find the probability percentage, thinking about training the model again with a balanced dataset to avoid bias as at the moment there are a lot more of samples for digits than for chars
+
 ## Day 79: Dec 17, 2018
 
 **Today's Progress**: Implementing some code in OpenCVSharo to practice, reading papers on one class classification, reading different approach, I will try to implement mine with a simple approach having a threshold in the probability of a class and maybe combine it with the total of white pixels having a min and max to consider it a char
