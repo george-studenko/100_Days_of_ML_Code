@@ -71,6 +71,14 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 82: Dec 20, 2018
+
+**Today's Progress**: Continued learning about tensorflowjs, variables, tensors operations, memory management with tf.tidy, and creating and compiling models. Enrolled to the course "30 Days of Python" looking forward to start with ml5js soon 
+
+**Thoughts**: ml5.js is a high level interface to TensorFlow.js, so you could compare it with Keras
+
+**Link to repository:** [TensorflowJS Basics](https://github.com/george-studenko/tensorflowjs-basics)
+
 ## Day 81: Dec 19, 2018
 
 **Today's Progress**: Writing the predict_topk method to return a top of classes with its probs, researching about tensorflowjs and ml5js for training and deploying ML model in a browser, going through some tutorials about tensorflowjs, importing tensorflowJS from cdn, creating and printing a tensor.
