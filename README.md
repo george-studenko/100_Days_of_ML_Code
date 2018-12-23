@@ -73,9 +73,9 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 ## Day 84: Dec 22, 2018
 
-**Today's Progress**: Learning about tensorflowjs converter to export a pre-trained model to tfjs, I could only find how to export keras models so far tfjs.converters.save_keras_model(model, tfjs_target_dir). For pytorch models can be exported with ONNX.
+**Today's Progress**: Learning about tensorflowjs converter to export a pre-trained model to tfjs, I could only find how to export keras models so far ```tfjs.converters.save_keras_model(model, tfjs_target_dir)```. For pytorch models can be exported with ONNX.
 
-**Link to repository:** [Export Pytorch with ONNX](https://github.com/onnx/tutorials/blob/master/tutorials/PytorchOnnxExport.ipynb)|[Export keras model](https://js.tensorflow.org/tutorials/import-keras.html)
+**Link to repository:** [Export Pytorch with ONNX](https://github.com/onnx/tutorials/blob/master/tutorials/PytorchOnnxExport.ipynb) | [Export keras model](https://js.tensorflow.org/tutorials/import-keras.html)
 
 
 ## Day 83: Dec 21, 2018
