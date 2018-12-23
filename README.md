@@ -71,6 +71,13 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 85: Dec 23, 2018
+
+**Today's Progress**: Practicing to export Pytorch models with ONNX, having problems to expot models where the forward function expects more than one param, managed to export the HWR project model, learning how to import it in tensorflowJS with ```tfjs-onnx```.
+
+**Links:** [Code to Export to ONNX](code/Export_Model_to_ONNX.ipynb) | [Tensorflow.js Onnx Runner](https://www.npmjs.com/package/tfjs-onnx)
+
+
 ## Day 84: Dec 22, 2018
 
 **Today's Progress**: Learning about tensorflowjs converter to export a pre-trained model to tfjs, I could only find how to export keras models so far ```tfjs.converters.save_keras_model(model, tfjs_target_dir)```. For pytorch models can be exported with ONNX.
