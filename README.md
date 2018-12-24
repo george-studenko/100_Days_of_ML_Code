@@ -71,6 +71,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 86: Dec 24, 2018
+
+**Today's Progress**: Starting to learn about ml5js, ml5 is the equivalent of keras for tensorflowjs. Trying to run some tfjs web samples locally, having problems with files in typescript looks like I need to run it with npm. Checking some nice ml5 samples image classifier with mobilenet in real time.
+
+**Links:**[tfjs examples](https://github.com/tensorflow/tfjs-examples/) | [MNIST training and inference with tensorflowJS example](https://storage.googleapis.com/tfjs-examples/mnist/dist/index.html)
+
 ## Day 85: Dec 23, 2018
 
 **Today's Progress**: Practicing to export Pytorch models with ONNX, having problems to expot models where the forward function expects more than one param, managed to export the HWR project model, learning how to import it in tensorflowJS with ```tfjs-onnx```.
