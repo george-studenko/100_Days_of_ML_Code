@@ -75,7 +75,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 
 **Today's Progress**: Wrote my first image classifier with ml5js and MobileNet following the ml5 examples, uploaded it, it is pretty straight forward with ml5, it uses callbacks as it works asynchronously. 
 
-**Links:**[ml5js Image classifier](http://georgestudenko.com/ml5js/) 
+**Links:** [ml5js Image classifier](http://georgestudenko.com/ml5js/) 
 
 
 ## Day 86: Dec 24, 2018
