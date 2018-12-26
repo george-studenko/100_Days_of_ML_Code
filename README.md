@@ -71,6 +71,11 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 88: Dec 26, 2018
+
+**Today's Progress**: Learning more about HSV color space. H= Hue (Wavelength of the color 0-360), S= Shade of the color (0-100), S= Saturation (intensity of the brightness 0-100) HSV separates luma, or the image intensity, from chroma or the color information, this can be very useful in computer vision
+
+
 ## Day 87: Dec 25, 2018
 
 **Today's Progress**: Wrote my first image classifier with ml5js and MobileNet following the ml5 examples, uploaded it, it is pretty straight forward with ml5, it uses callbacks as it works asynchronously. 
