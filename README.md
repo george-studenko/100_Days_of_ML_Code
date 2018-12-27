@@ -71,6 +71,13 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 89: Dec 27, 2018
+
+**Today's Progress**: I just found while True: learn(), it is a "Simulator of a machine learning specialist", an educational game with visual programming and links to full tutorials on different topics of ML, a fun way to learn Machine learning!
+
+**Links:** [while True: learn()](https://luden.io/wtl/)
+
+
 ## Day 88: Dec 26, 2018
 
 **Today's Progress**: Learning more about HSV color space. H= Hue (Wavelength of the color 0-360), S= Shade of the color (0-100), S= Saturation (intensity of the brightness 0-100) HSV separates luma, or the image intensity, from chroma or the color information, this can be very useful in computer vision
