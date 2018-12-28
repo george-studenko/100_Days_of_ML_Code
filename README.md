@@ -6,6 +6,8 @@ Here you can find a very useful [Machine Learning Glossary](https://developers.g
 
 Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheatsheets)
+
 ## 100DaysOfMLCode Index
 
 [Attention mechanisms](content/Attention-mechanisms.md)  
@@ -14,6 +16,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [Computer Vision](content/Computer-Vision.md)   
 [Conda](content/Conda.md)   
 [Data Augmentation](content/Data-augmentation.md)  
+[Data Science Cheatsheets](https://github.com/george-studenko/ds-cheatsheets)
 [Debug Jupyper Notebooks](content/Debug-jupyter.md)
 [Defining a network structure](content/Defining-network-structure.md)   
 [Downloading Datasets](content/Downloading-Datasets.md)   
@@ -26,6 +29,7 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 [Fully Convolutional Neural Networks](content/FCNNs.md)  
 [GPU States](content/GPU.md)  
 [High bias & high variance](content/High-bias-and-high-variance.md)   
+[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
 [Hyperparameters](content/Hyperparameters.md)   
 [Image Captioning Project Notes](content/Image-Captioning.md)  
 [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)  
@@ -70,6 +74,12 @@ Here you can find the [Amazon Machine Learning paths](https://aws.amazon.com/tra
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+## Day 90: Dec 28, 2018
+
+**Today's Progress**: Learning about HAAR Cascade Classifiers with openCV, learning more about YOLOv3, added 2 new resources to the index, Homemade Machine Learning and Data Science Cheatsheets   
+
+**Links:**[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) | [Data Science Cheatsheets](https://github.com/george-studenko/ds-cheatsheets)
 
 ## Day 89: Dec 27, 2018
 
