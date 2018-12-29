@@ -75,6 +75,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 91: Dec 29, 2018
+
+**Today's Progress**: Back to learn about YOLO, completed the course on YOLO v3 - Robust Deep Learning Object Detection, they use supervise.ly to annotate datasets and train models with YOLO, now checking how to train YOLO locally on my own.
+
+**Links:**[YOLO v3 - Robust Deep Learning Object Detection in 1 hour](http://ude.my/UC-UXD67VXG)
+
+
 ## Day 90: Dec 28, 2018
 
 **Today's Progress**: Learning about HAAR Cascade Classifiers with openCV, learning more about YOLOv3, added 2 new resources to the index, Homemade Machine Learning and Data Science Cheatsheets   
