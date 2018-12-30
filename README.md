@@ -75,6 +75,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 92: Dec 30, 2018
+
+**Today's Progress**: Learning about DarkFlow and Darknet to use YOLO in Python, different ways to create the data annotations, and SIFT (Scale-Invariant Feature Transform)
+
+**Links:**[Official YOLOv3](https://pjreddie.com/darknet/yolo/) | [Start Training YOLOv3 Using Darknet to Detect Custom Objects](https://www.youtube.com/watch?v=TP67icLSt1Y&t=1206s) | [Master Deep Learning Computer Vision™ CNN, SSD, YOLO & GANs](https://www.udemy.com/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/) | [SIFT](https://www.youtube.com/watch?v=oKAnOzIu66c)
+
 ## Day 91: Dec 29, 2018
 
 **Today's Progress**: Back to learn about YOLO, completed the course on YOLO v3 - Robust Deep Learning Object Detection, they use supervise.ly to annotate datasets and train models with YOLO, now checking how to train YOLO locally on my own.
