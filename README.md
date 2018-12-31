@@ -75,24 +75,34 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+
+
+
+## Day 93: Dec 31, 2018
+
+**Today's Progress**: Learning about Convolutional Neural Network Visualizations, Filters, Heatmaps of class activations, found a nice repo with code to create those visualizations with PyTorch, very important when trying to see why images were misclassified  
+
+**Links:** [Pytorch Convolutional Neural Network Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations#gradient-visualization) 
+
+
 ## Day 92: Dec 30, 2018
 
 **Today's Progress**: Learning about DarkFlow and Darknet to use YOLO in Python, different ways to create the data annotations, and SIFT (Scale-Invariant Feature Transform)
 
-**Links:**[Official YOLOv3](https://pjreddie.com/darknet/yolo/) | [Start Training YOLOv3 Using Darknet to Detect Custom Objects](https://www.youtube.com/watch?v=TP67icLSt1Y&t=1206s) | [Master Deep Learning Computer Vision™ CNN, SSD, YOLO & GANs](https://www.udemy.com/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/) | [SIFT](https://www.youtube.com/watch?v=oKAnOzIu66c)
+**Links:** [Official YOLOv3](https://pjreddie.com/darknet/yolo/) | [Start Training YOLOv3 Using Darknet to Detect Custom Objects](https://www.youtube.com/watch?v=TP67icLSt1Y&t=1206s) | [Master Deep Learning Computer Vision™ CNN, SSD, YOLO & GANs](https://www.udemy.com/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/) | [SIFT](https://www.youtube.com/watch?v=oKAnOzIu66c)
 
 ## Day 91: Dec 29, 2018
 
 **Today's Progress**: Back to learn about YOLO, completed the course on YOLO v3 - Robust Deep Learning Object Detection, they use supervise.ly to annotate datasets and train models with YOLO, now checking how to train YOLO locally on my own.
 
-**Links:**[YOLO v3 - Robust Deep Learning Object Detection in 1 hour](http://ude.my/UC-UXD67VXG)
+**Links:** [YOLO v3 - Robust Deep Learning Object Detection in 1 hour](http://ude.my/UC-UXD67VXG)
 
 
 ## Day 90: Dec 28, 2018
 
 **Today's Progress**: Learning about HAAR Cascade Classifiers with openCV, learning more about YOLOv3, added 2 new resources to the index, Homemade Machine Learning and Data Science Cheatsheets   
 
-**Links:**[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) | [Data Science Cheatsheets](https://github.com/george-studenko/ds-cheatsheets)
+**Links:** [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) | [Data Science Cheatsheets](https://github.com/george-studenko/ds-cheatsheets)
 
 ## Day 89: Dec 27, 2018
 
@@ -117,7 +127,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 
 **Today's Progress**: Starting to learn about ml5js, ml5 is the equivalent of keras for tensorflowjs. Trying to run some tfjs web samples locally, having problems with files in typescript looks like I need to run it with npm. Checking some nice ml5 samples image classifier with mobilenet in real time.
 
-**Links:**[tfjs examples](https://github.com/tensorflow/tfjs-examples/) | [MNIST training and inference with tensorflowJS example](https://storage.googleapis.com/tfjs-examples/mnist/dist/index.html)
+**Links:** [tfjs examples](https://github.com/tensorflow/tfjs-examples/) | [MNIST training and inference with tensorflowJS example](https://storage.googleapis.com/tfjs-examples/mnist/dist/index.html)
 
 ## Day 85: Dec 23, 2018
 
