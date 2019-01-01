@@ -77,6 +77,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 
 
 
+## Day 94: Jan 01, 2019
+
+**Today's Progress**: Testing some code with opencv to separate words and lines with handwritten text, still cant overcome the problem of 2 lines overlapping by a char in the top line, which is a common case in real world scenarios, checking a tutorial to implement the whole OCR only with opencv and KNNs
+
+**Links:** [OCR of Hand-written Data using kNN](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_knn/py_knn_opencv/py_knn_opencv.html) | [opencv - cropping handwritten lines (line segmentation)](https://stackoverflow.com/questions/46282691/opencv-cropping-handwritten-lines-line-segmentation/53996835#53996835)
+
 
 ## Day 93: Dec 31, 2018
 
