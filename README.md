@@ -76,6 +76,9 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
 
+## Day 95: Jan 02, 2019
+
+**Today's Progress**: Learning how to generate confusion matrices, and tables of precision an recall scores with scikit-learn to analyze misclassified images to find out the why they are beign misclassified and improve accuracy
 
 ## Day 94: Jan 01, 2019
 
