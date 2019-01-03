@@ -75,6 +75,11 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 96: Jan 03, 2019
+
+**Today's Progress**: Re-Learning about K-Nearest Neighbor from a different perspective and how to implement a KNN in Javascript with Lodash
+
+**Links:** [KNN with Lodash](code/knn-lodash.js)
 
 ## Day 95: Jan 02, 2019
 
