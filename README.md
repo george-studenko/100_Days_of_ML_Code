@@ -80,7 +80,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 
 **Today's Progress**: Reading about how to work with Volumetric Data like medical images (for example a CT scan) which will use a 5D tensor of shape Batch x Channels x Depth x Height x Width with Pytorch 
 
-**Link to code:**[Load volumetric data with Pytorch](code/load_volumetric_data.py)
+**Link to code:** [Load volumetric data with Pytorch](code/load_volumetric_data.py)
 
 ## Day 97: Jan 04, 2019
 
