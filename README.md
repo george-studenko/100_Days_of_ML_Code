@@ -76,6 +76,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 98: Jan 05, 2019
+
+**Today's Progress**: Reading about how to work with Volumetric Data like medical images (for example a CT scan) which will use a 5D tensor of shape Batch x Channels x Depth x Height x Width with Pytorch 
+
+**Link to code:**[Load volumetric data with Pytorch](code/load_volumetric_data.py)
+
 ## Day 97: Jan 04, 2019
 
 **Today's Progress**: Continued learning about Lodash, implemented a function to split the dataset into test and training sets, another function to get the accuracy of the knn and improving the KNN implementation in javascript  
