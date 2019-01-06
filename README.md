@@ -49,6 +49,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Pandas DataFrame Cheatsheet](cheatsheets/Pandas-DataFrame-Notes.pdf)  
 [Region Proposal Algorithms](content/Region-Proposal-Algorithms.md)    
 [Regularization](content/Regularization.md)   
+[Reinforcement Learning: An Introduction (second edition) Book](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf)
 [RNNs](content/RNN.md)   
 [Training Dev and Testing sets](content/Training-Dev-and-Testing-Sets.md)   
 [Visualizing Feature Maps](content/Visualizing-Feature-Maps.md)   
@@ -75,6 +76,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+## Day 99: Jan 06, 2019
+
+**Today's Progress**: Introducing myself a bit into the world of Deep Reinforcement Learning, almost getting to the end of this 100 days journey and there are still so many topics to learn about in Machine Learning.
+
+**Thoughts:** So far during my 100 days of ML code journey I had the opportunity to see and learn so many things, yet there are still a world of things to learn like for example Reinforcement Learning, which I haven't even started to look into until today.
+
+**Link to code:** [Reinforcement Learning: An Introduction (second edition) Book](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf) | [Reinforcement Learning (DQN) with Pytoch](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) | [Open AI Gym](https://gym.openai.com/) | [Open AI Gym Repo](https://github.com/openai/gym)
 
 ## Day 98: Jan 05, 2019
 
