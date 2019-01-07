@@ -77,6 +77,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 100: Jan 07, 2019
+
+**Today's Progress**: Learning more about reinforcement learning and Deep Q Learning which processes images using convolutional layers (CNNs) without pooling layers to keep information about the location of the objects in the image as that is crucial in this case.
+
+**Thoughts:** This is the day 100 of my #100DaysOfMLCode journey, definitely enjoyed it but I won't stop here, even though I might not post my daily updates as often I will continue learning, there is still a lot to learn about machine learning and all its related areas. 
+
+**Link to code:** [Reinforcement Learning Cheatsheet](cheatsheets/rl-cheatsheets.pdf) | [Reinforcement Learning (DQN) Notes](content/Reinforcement-Learning.md)
+
 ## Day 99: Jan 06, 2019
 
 **Today's Progress**: Introducing myself a bit into the world of Deep Reinforcement Learning, almost getting to the end of this 100 days journey and there are still so many topics to learn about in Machine Learning.
