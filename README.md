@@ -49,7 +49,9 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Pandas DataFrame Cheatsheet](cheatsheets/Pandas-DataFrame-Notes.pdf)  
 [Region Proposal Algorithms](content/Region-Proposal-Algorithms.md)    
 [Regularization](content/Regularization.md)   
+[Reinforcement Learning (DQN) Notes](content/Reinforcement-Learning.md)
 [Reinforcement Learning: An Introduction (second edition) Book](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf)
+[Reinforcement Learning Cheatsheet](cheatsheets/rl-cheatsheet.pdf)
 [RNNs](content/RNN.md)   
 [Training Dev and Testing sets](content/Training-Dev-and-Testing-Sets.md)   
 [Visualizing Feature Maps](content/Visualizing-Feature-Maps.md)   
@@ -83,7 +85,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 
 **Thoughts:** This is the day 100 of my #100DaysOfMLCode journey, definitely enjoyed it but I won't stop here, even though I might not post my daily updates as often I will continue learning, there is still a lot to learn about machine learning and all its related areas. 
 
-**Link to code:** [Reinforcement Learning Cheatsheet](cheatsheets/rl-cheatsheets.pdf) | [Reinforcement Learning (DQN) Notes](content/Reinforcement-Learning.md)
+**Link to code:** [Reinforcement Learning Cheatsheet](cheatsheets/rl-cheatsheet.pdf) | [Reinforcement Learning (DQN) Notes](content/Reinforcement-Learning.md)
 
 ## Day 99: Jan 06, 2019
 
