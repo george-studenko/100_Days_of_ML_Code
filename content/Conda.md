@@ -11,4 +11,4 @@ To set the environment up as jupyter kernel
 ```python -m ipykernel install --user --name myEnviromentName --display-name "Python (myEnviromentName)"```   
 
 If an error comes up saying No Module name 'decorator'  
-pip install decorator
+```pip install decorator```
