@@ -79,6 +79,24 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 102: Mar 31 2019
+
+**Today's Progress**: Implemented the YOLO notebook to start with phase one of the Drone Madness project, we are also considering RetinaNet, watching some lessons from the Flying Car and Autonomous Flight Engineer Nanodegree.
+
+**Thoughts:** Looking forward to next Saturday to see how far we can get with this in one week.
+
+**Link to code:** [YOLO notebook implementation](https://github.com/george-studenko/Drone-Madness/tree/master/src/Notebooks/YOLO) 
+
+## Day 101: Mar 30 2019
+
+**Today's Progress**: The Drone Madness #DeepLearning Project, today @AISaturdaysEs we created a group of 4 people to work on our next project, we're on the early stages of planning and choosing the stack, more details comming soon, stay tunned, could this be round 2 of  #100DaysOfML?
+
+**Thoughts:** The project is quite ambitious and we have 50 days at most to present it, so lets see how far we can get.
+
+**Link to code:** [Drone Madness Repo](https://github.com/george-studenko/Drone-Madness) 
+
+
+
 ## Day 100: Jan 07, 2019
 
 **Today's Progress**: Learning more about reinforcement learning and Deep Q Learning which processes images using convolutional layers (CNNs) without pooling layers to keep information about the location of the objects in the image as that is crucial in this case.
