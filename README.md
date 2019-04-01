@@ -79,6 +79,15 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 103: Apr 1 2019
+
+**Today's Progress**: Got the udacidrone environment set up and code to control the drone from python, the code is in the repo, next will be to program the flight computer with events, so now looking into event driven programming.
+
+**Thoughts:** The udacidrone simulator seems to be quite simple to use.
+
+**Link to code:** [Udacidrone Notebook](https://github.com/george-studenko/Drone-Madness/tree/master/src/Notebooks/UdaciDrone) 
+
+
 ## Day 102: Mar 31 2019
 
 **Today's Progress**: Implemented the YOLO notebook to start with phase one of the Drone Madness project, we are also considering RetinaNet, watching some lessons from the Flying Car and Autonomous Flight Engineer Nanodegree.
