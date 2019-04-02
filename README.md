@@ -79,6 +79,15 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 104: Apr 2 2019
+
+**Today's Progress**: Learning about event driven  programming, working on the backyard flyer project, implementing the callback methods, so far I got the code to connect arm the drone and takeoff. Tonight we have our first meeting with the team to evaluate current progress on the drone project.
+
+**Thoughts:** Learning new programming paradigms is always fun and a bit confusing at first until it clicks!
+
+**Link to code:** [Drone Backyard Flyer repo](https://github.com/george-studenko/drone-backyard-flyer) 
+
+
 ## Day 103: Apr 1 2019
 
 **Today's Progress**: Got the udacidrone environment set up and code to control the drone from python, the code is in the repo, next will be to program the flight computer with events, so now looking into event driven programming.
