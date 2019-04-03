@@ -79,6 +79,15 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 105: Apr 3 2019
+
+**Today's Progress**: Learning about motion planning, researching how to see  the depth of an image to be able to recognize what is close and what is far in an image, since we do not have stereo images it becomes harder to do it, still researching if it can be done.
+
+**Thoughts:** There is a lot to do and too little time to do it...
+
+**Links:**[Motion Planning Videos](https://classroom.udacity.com/courses/cs373/lessons/48646841/concepts/486837620923) | [Depth Perception with a Single Camera](https://pdfs.semanticscholar.org/bd1d/1918307e8cedef12f8406f16044ace9f0ef2.pdf) | [A Single Camera Stereo System for Obstacle Detection](https://www.researchgate.net/publication/2647247_A_Single_Camera_Stereo_System_for_Obstacle_Detection)
+
+
 ## Day 104: Apr 2 2019
 
 **Today's Progress**: Learning about event driven  programming, working on the backyard flyer project, implementing the callback methods, so far I got the code to connect arm the drone and takeoff. Tonight we have our first meeting with the team to evaluate current progress on the drone project.
