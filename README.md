@@ -79,6 +79,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 106: Apr 4 2019
+
+**Today's Progress**: Kept researching about infering depth from single images, found some interesting papers, also  kept learning about motion planning, going back to  the slam lessons I took some months ago.
+
+**Links:** [Inferring Depth from Single Images in Natural Scenes](https://pdfs.semanticscholar.org/6fcc/3b49c49be7fc5741a892d18319eb65898094.pdf) | [Make3D: Depth Perception from a Single Still Image](http://www.cs.cornell.edu/~asaxena/reconstruction3d/Saxena_depthperception_aaai08.pdf) | [Inferring Depth from Single Images in Natural
+Scenes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.1296&rep=rep1&type=pdf) | [Perceiving 3D from 2D Images](https://courses.cs.washington.edu/courses/cse576/book/ch12.pdf)  
+
 ## Day 105: Apr 3 2019
 
 **Today's Progress**: Learning about motion planning, researching how to see  the depth of an image to be able to recognize what is close and what is far in an image, since we do not have stereo images it becomes harder to do it, still researching if it can be done.
