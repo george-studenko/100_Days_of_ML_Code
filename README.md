@@ -79,6 +79,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 107: Apr 5 2019
+
+**Today's Progress**: Finished programming the backyard flyer python script to fly a square pattern using event driven programming, the hard part was to handle position uncetainty since the the coordinates are not exact, checking when the drone hits a waypoint was a challenge. 
+
+**Thoughts:** The code can still be improved a lot, looks like I can check for waypoints with  `np.linalg.norm` by substracting the target_position from the local_position and allowing some tolerance.
+
+**Link to code:** [Drone-backyard-flyer repository](https://github.com/george-studenko/drone-backyard-flyer) 
+
 ## Day 106: Apr 4 2019
 
 **Today's Progress**: Kept researching about infering depth from single images, found some interesting papers, also  kept learning about motion planning, going back to  the slam lessons I took some months ago.
