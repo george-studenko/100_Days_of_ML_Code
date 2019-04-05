@@ -81,7 +81,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 
 ## Day 107: Apr 5 2019
 
-**Today's Progress**: Finished programming the backyard flyer python script to fly a square pattern using event driven programming, the hard part was to handle position uncetainty since the the coordinates are not exact, checking when the drone hits a waypoint was a challenge. 
+**Today's Progress**: Finished programming the backyard flyer python script to fly a square pattern using event driven programming, the hard part was to handle position uncertainty since the the coordinates are not exact, checking when the drone hits a waypoint was a challenge. 
 
 **Thoughts:** The code can still be improved a lot, looks like I can check for waypoints with  `np.linalg.norm` by substracting the target_position from the local_position and allowing some tolerance.
 
