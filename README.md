@@ -79,6 +79,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 108: Apr 6 2019
+
+**Today's Progress**: Modified the  backyard flyer script to work with real drones through Mavlink and Px4, then tried to run it with a real drone, but didn't work apparently DJI does not support mavlink, doing some research on drones that might support it.  Learning about waypoint extraction.
+
+**Thoughts:** We are making progress on the project, we just need to keep the good pace!
+
+**Link to code:** [Drone-backyard-flyer repository](https://github.com/george-studenko/drone-backyard-flyer) 
+
 ## Day 107: Apr 5 2019
 
 **Today's Progress**: Finished programming the backyard flyer python script to fly a square pattern using event driven programming, the hard part was to handle position uncertainty since the the coordinates are not exact, checking when the drone hits a waypoint was a challenge. 
