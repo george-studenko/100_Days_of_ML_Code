@@ -79,6 +79,16 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+
+## Day 109: Apr 7 2019
+
+**Today's Progress**: Researching about the different SDKs available to program drones with python to see if to replace the Udacidrone one, the main ones I found are Dronecode and Dronekit, cheking the WTL Machine Learning infographic.
+
+**Thoughts:** Dronecode seems to be more straigh forward, at least while checking the example code and comparing both
+
+**Link to code:** [Dronecode](https://github.com/Dronecode/DronecodeSDK-Python) | [Dronekit](https://github.com/dronekit/dronekit-python) | [Udacidrone](https://github.com/udacity/udacidrone)
+
+
 ## Day 108: Apr 6 2019
 
 **Today's Progress**: Modified the  backyard flyer script to work with real drones through Mavlink and Px4, then tried to run it with a real drone, but didn't work apparently DJI does not support mavlink, doing some research on drones that might support it.  Learning about waypoint extraction.
