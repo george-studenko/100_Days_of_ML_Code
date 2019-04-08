@@ -80,6 +80,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
 
+## Day 110: Apr 8 2019
+
+**Today's Progress**: Learning about the Bresenham's algorithm, moving the object detection with Yolo to a method that can be called into a pipeline, looking for a course to learn more about drone programming 
+
+**Thoughts:** Quite busy days, definitely need more time to keep on track
+
+
 ## Day 109: Apr 7 2019
 
 **Today's Progress**: Researching about the different SDKs available to program drones with python to see if to replace the Udacidrone one, the main ones I found are Dronecode and Dronekit, cheking the WTL Machine Learning infographic.
