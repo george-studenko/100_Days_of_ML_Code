@@ -79,6 +79,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 111: Apr 9 2019
+
+**Today's Progress**: Meeting with the team, deciding on the next phases of work in the drone project, researching Tello APIs and how to command swarms of Tellos, working on the pipeline for object detection. 
+
+**Thoughts:** We will need to focus on working with what we have for now, while we are still researching about PX4 and Mavlink compatible drones we do need to keep on moving so we will be working with the Tellos for now.
+
+**Links:** [Tello Programming with Python](https://github.com/dbaldwin/DroneBlocks-Tello-Python) | [Microlinux Tello](https://github.com/microlinux/tello) | [PyTello](https://bitbucket.org/PingguSoft/pytello/src) | [How to add Person Tracking to a Drone using Deep Learning and NanoNets](https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-under-50-lines-of-code-7485de7f828e)
 
 ## Day 110: Apr 8 2019
 
