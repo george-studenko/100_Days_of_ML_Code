@@ -79,6 +79,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 112: Apr 10 2019
+
+**Today's Progress**: Configuring an AP to connect different Tellos to form a Swarm, sending UDP packages with commands to the drone to connect to the AP, apparently the standard version of Tello does not support the command and can only connect directly to a device, researching on how can it be done found some ways to do it although they are not the best way to do it. 
+
+**Thoughts:** The hardware is making things harder and harder, too many limitations, trying to overcome them and continue with what is important.
+
+**Links:** [Controlling a Tello Swarm](https://medium.com/@henrymound/adventures-with-dji-ryze-tello-controlling-a-tello-swarm-1bce7d4e045d) | [Tello SDK 2.0](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf) | [Tello Video](https://github.com/f41ardu/Tello-Python/tree/master/PY3_Tello_Videop) 
+
 ## Day 111: Apr 9 2019
 
 **Today's Progress**: Meeting with the team, deciding on the next phases of work in the drone project, researching Tello APIs and how to command swarms of Tellos, working on the pipeline for object detection. 
