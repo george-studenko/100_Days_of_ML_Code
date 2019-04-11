@@ -79,6 +79,17 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 113: Apr 11 2019
+
+**Today's Progress**: Experimenting with different Tello APIs, doing some basic tests executing some commands with the drone, organizing the code and trying to implement events to get it properly done, trying to retrieve sensor states, reading a paper about path planning for MAVs and another about wall segmentation, finished the week 1 of Intro to self-driving cars course by the University of Toronto.
+
+**Thoughts:** I want to go back to autonomous tech, the drone project is progressing little by little, lets see what we get by Saturday.
+
+**Links:** [Real-Time Segmentation, Tracking, and Coloring of
+Walls Using iOS](https://stacks.stanford.edu/file/druid:yj296hj2790/Yeung_Piersol_Liu_Project_Imaggle.pdf) | [Path Planning for Non-Circular Micro Aerial Vehicles in Constrained
+Environments](https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf)
+
+
 ## Day 112: Apr 10 2019
 
 **Today's Progress**: Configuring an AP to connect different Tellos to form a Swarm, sending UDP packages with commands to the drone to connect to the AP, apparently the standard version of Tello does not support the command and can only connect directly to a device, researching on how can it be done found some ways to do it although they are not the best way to do it. 
