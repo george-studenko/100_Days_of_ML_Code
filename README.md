@@ -79,6 +79,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 115: Apr 13 2019
+
+**Today's Progress**: Working all day on the drone project with the team, managed to get sensor readings while the drone is flying and implementing callbacks to trigger with sensor information, finished week 2 of intro to self-driving cars
+
+ **Thoughts:** the team is making good progress with the project, we did good progress in the first 15 days of the project
+
 ## Day 114: Apr 12 2019
 
 **Today's Progress**: Managed to get the Tello sensor states, now trying to incorporate that in the code, need to refactor the previous event driven code I did with the udacidrone API to use plain python or more standard packages. Working on week 2 of Intro to Self Driving cars, learning about the software architecture and components of a self driving car.
