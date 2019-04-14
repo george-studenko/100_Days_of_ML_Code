@@ -79,6 +79,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 116: Apr 14 2019
+
+**Today's Progress**: Finished week 3 of Intro to Self-driving cars, on Safety Assurance for Autonomous Vehicles, reviewing some basic physics and probability concepts and formulas, this week will be working on the next module about Vehicle Dynamic Modeling.
+
+ **Thoughts:** It's interesting to see the framework that is proposed for autonomous driving safety and see how GM and Waymo apply them or even come up with their own ones.
+
+Links: [NHTSA - Automated Driving Systems: A Vision for Safety 2.0 report](https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/13069a-ads2.0_090617_v9a_tag.pdf) | [RAND Corporation Report on Driving to Safety](https://www.rand.org/pubs/research_reports/RR1478.html)
+
 ## Day 115: Apr 13 2019
 
 **Today's Progress**: Working all day on the drone project with the team, managed to get sensor readings while the drone is flying and implementing callbacks to trigger with sensor information, finished week 2 of intro to self-driving cars
