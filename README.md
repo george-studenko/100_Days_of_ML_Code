@@ -79,11 +79,19 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 117: Apr 15 2019
+
+**Today's Progress**: On week 4 of the Intro to self-driving cars course, watching the videos aboutu kinematic modeling in 2D, Kinematic bicycle model, Dynamic modeling in 3D and Longitudinal vehicle modeling, quite hard stuff, hardcore physics
+
+**Thoughts:** Starting to scare me off, but will keep pushing, too many formulas and pretty hard to understand them all.
+
+Links: [Vehicle Dynamics](http://publications.lib.chalmers.se/records/fulltext/244369/244369.pdf) | [Classical Dynamics](http://www.damtp.cam.ac.uk/user/tong/dynamics/clas.pdf) | [The Kinematic Bicycle Model](https://www.springer.com/cda/content/document/cda_downloaddocument/9781461414322-c1.pdf?SGWID=0-0-45-1265143-p174267791)
+
 ## Day 116: Apr 14 2019
 
 **Today's Progress**: Finished week 3 of Intro to Self-driving cars, on Safety Assurance for Autonomous Vehicles, reviewing some basic physics and probability concepts and formulas, this week will be working on the next module about Vehicle Dynamic Modeling.
 
- **Thoughts:** It's interesting to see the framework that is proposed for autonomous driving safety and see how GM and Waymo apply them or even come up with their own ones.
+**Thoughts:** It's interesting to see the framework that is proposed for autonomous driving safety and see how GM and Waymo apply them or even come up with their own ones.
 
 Links: [NHTSA - Automated Driving Systems: A Vision for Safety 2.0 report](https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/13069a-ads2.0_090617_v9a_tag.pdf) | [RAND Corporation Report on Driving to Safety](https://www.rand.org/pubs/research_reports/RR1478.html)
 
