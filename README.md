@@ -79,6 +79,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 118: Apr 16 2019
+
+**Today's Progress**: Watching the Lateral Dynamics of Bicycle Model and Vehicle actuation lessons of the intro to self driving cars course, now working on implementing a kinematic bicycle model.
+
+**Thoughts:** I'm having a really hard time, it is really hard to follow at the moment, it is a very advance course and way too many formulas to understand everything, but will keep trying.
+
 ## Day 117: Apr 15 2019
 
 **Today's Progress**: On week 4 of the Intro to self-driving cars course, watching the videos aboutu kinematic modeling in 2D, Kinematic bicycle model, Dynamic modeling in 3D and Longitudinal vehicle modeling, quite hard stuff, hardcore physics
