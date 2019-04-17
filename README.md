@@ -79,6 +79,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 119: Apr 17 2019
+
+**Today's Progress**: Working on the kinematic bicycle model implementation, did the first test, unsurprisingly it did not work as expected, checking the forums for help, looks like I'm not the only one with problems, everyone is struggling to get it right 
+
+**Thoughts:** Although I'm still stuck, today I was revisiting the slides and it does make a bit more of sense now, but still need to figure out what is wrong with my formulas implementations. I cant post code as for the coursera policies 
+
+
 ## Day 118: Apr 16 2019
 
 **Today's Progress**: Watching the Lateral Dynamics of Bicycle Model and Vehicle actuation lessons of the intro to self driving cars course, now working on implementing a kinematic bicycle model.
