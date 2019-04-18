@@ -79,6 +79,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 120: Apr 18 2019
+
+**Today's Progress**: Continued working on the bicycle model implementation, stepping back to refresh some physics and differential equations concepts, asking for help on the forums, so far nothing. Thinking on the Drone project next steps, maybe search patterns and object tracking, but first we need to integrate all the pieces together.
+
+**Thoughts:** it is frustrating when you get to the point to not know how to continue, but are those moments when you just need to keep on going, All things are difficult before they are easy (Thomas Fuller), am not giving up, not yet...
+
+
 ## Day 119: Apr 17 2019
 
 **Today's Progress**: Working on the kinematic bicycle model implementation, did the first test, unsurprisingly it did not work as expected, checking the forums for help, looks like I'm not the only one with problems, everyone is struggling to get it right 
