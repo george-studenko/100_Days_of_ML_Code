@@ -79,6 +79,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 121: Apr 19 2019
+
+**Today's Progress**: Watching Netwonian Motion physics videos from math tutor and solving some problems to practice,  checking  differences between YOLOV3 and TinyYOLOv3, found an interesting repo that implements it with PyTorch, going through the Deep Learning Nanodegree lessons again to see refresh concepts.
+
+**Thoughts:** 2 years ago I graduated from the Deep Learning Nanodegree, back then it was quite hard for me, I got my classroom videos updated to a newer version of the Nanodegree with Luis Serrano as the curriculum lead this time, I'm rewatching the videos now with this new content to see if this time I can grab more information than the first time while also refreshing concepts
+
+**Links:**[yolov3_pytorch repo](https://github.com/holli/yolov3_pytorch)
+
 ## Day 120: Apr 18 2019
 
 **Today's Progress**: Continued working on the bicycle model implementation, stepping back to refresh some physics and differential equations concepts, asking for help on the forums, so far nothing. Thinking on the Drone project next steps, maybe search patterns and object tracking, but first we need to integrate all the pieces together.
