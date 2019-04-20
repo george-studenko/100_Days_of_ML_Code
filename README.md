@@ -79,6 +79,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 122: Apr 20 2019
+
+**Today's Progress**: Debugging the Drone sensors data function, refactoring the object_detection class to optimize it and be able to include it as part of the pipeline, trying to get image frames from the Drone, watching some videos on Calculus and Differential Equations
+
+**Thoughts:** Considering to start a 100 days of math challenge to go through Algebra, Calculus, Differential Equations, Probability and Statistics
+
+
 ## Day 121: Apr 19 2019
 
 **Today's Progress**: Watching Netwonian Motion physics videos from math tutor and solving some problems to practice,  checking  differences between YOLOV3 and TinyYOLOv3, found an interesting repo that implements it with PyTorch, going through the Deep Learning Nanodegree lessons again to see refresh concepts.
