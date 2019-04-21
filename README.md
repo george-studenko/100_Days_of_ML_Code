@@ -79,6 +79,15 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 123: Apr 21 2019
+
+**Today's Progress**: Importing YOLO V3 and Tiny YOLO models with openCV.dnn.readNetFromDarknet and testing its performance, for some reason it doesn't work as well as the previous implementation we already have in the drone project.
+
+**Thoughts:** Good to know I can import Deep Neural Networks with openCV!
+
+**Links:**[YOLO with openCV](https://github.com/george-studenko/Drone-Madness/blob/develop/src/Implementation/Tiny_Object_Detection.py)
+
+
 ## Day 122: Apr 20 2019
 
 **Today's Progress**: Debugging the Drone sensors data function, refactoring the object_detection class to optimize it and be able to include it as part of the pipeline, trying to get image frames from the Drone, watching some videos on Calculus and Differential Equations
