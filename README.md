@@ -79,6 +79,15 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 124: Apr 22 2019
+
+**Today's Progress**: Researching on how to create an unary image classifier, the easier way is to cheat and create a binary classifier as we are already used to but to refactor the classes into a positive and negative class, similar to the hotdog not hotdog from Sillicon Valley.
+
+**Thoughts:** It is interesting how it can be harder to create a single class classifier rather than a binary one.
+
+**Links:**[Santa, not Santa classifier](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) | [One-class SVM](http://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html) | [Isolation Forest](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html) | [One Class Classification for Images with Deep features](https://hackernoon.com/one-class-classification-for-images-with-deep-features-be890c43455d)
+
+
 ## Day 123: Apr 21 2019
 
 **Today's Progress**: Importing YOLO V3 and Tiny YOLO models with openCV.dnn.readNetFromDarknet and testing its performance, for some reason it doesn't work as well as the previous implementation we already have in the drone project.
