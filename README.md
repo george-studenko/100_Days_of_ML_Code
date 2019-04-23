@@ -27,6 +27,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Filtered Images](resources/kernels.png)  
 [Facia-Keypoints-Detector notes](content/Day-10.md)   
 [Fully Convolutional Neural Networks](content/FCNNs.md)  
+[Generate requirements.txt file](content/Generate-requirements.md)
 [GPU States](content/GPU.md)  
 [High bias & high variance](content/High-bias-and-high-variance.md)   
 [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
@@ -74,10 +75,20 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
 [Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
+[Hotdog Not Hotdog](https://github.com/george-studenko/Hotdog-not-Hotdog)
 
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+## Day 125: Apr 23 2019
+
+**Today's Progress**: Following my research from yesterday created my own implementation of the Hotdog Not Hotdog Sillicon Valley image classifier which can be trained with either Densenet or Resnet at the moment, would like to implement other architectures as well soon.
+
+**Thoughts:** It was fun to create the hotdog not hotdog classifier, I would like to deploy it to a web app.
+
+**Links:** [Hotdog Not Hotdog](https://github.com/george-studenko/Hotdog-not-Hotdog) | [Generate requirements.txt file](content/Generate-requirements.md)
+
 
 ## Day 124: Apr 22 2019
 
