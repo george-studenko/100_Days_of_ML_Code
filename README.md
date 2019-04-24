@@ -81,6 +81,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 126: Apr 24 2019
+
+**Today's Progress**: Published my framework to create image classifiers in a simple and quick way, called Image Classifier Creator, I know, too original right?, I'm open to name suggestions. 
+
+**Thoughts:** I wrote this code long ago but didn't realize it could be reused so easily, so just decided to refactor it and make it public
+
+**Links:** [Image Classifier Creator site](https://george-studenko.github.io/image-classifier-creator/) |  [Image Classifier Creator repo](https://github.com/george-studenko/image-classifier-creator)
+
 ## Day 125: Apr 23 2019
 
 **Today's Progress**: Following my research from yesterday created my own implementation of the Hotdog Not Hotdog Sillicon Valley image classifier which can be trained with either Densenet or Resnet at the moment, would like to implement other architectures as well soon.
