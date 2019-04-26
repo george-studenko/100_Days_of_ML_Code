@@ -81,6 +81,17 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 127: Apr 25 2019
+
+**Today's Progress**: Learning about Mask R-CNN for image segmentation,the original paper is from 2017, how come nobody told me about it yet!  
+
+**Thoughts:** I'm fascinated by this, I believe that Image segmentation is one of the coolest things in computer vision!
+
+**Links:** [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) | [Mask R-CNN for Ship Detection & Segmentation](https://towardsdatascience.com/mask-r-cnn-for-ship-detection-segmentation-a1108b5a083) | [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN) | [Building a Custom Mask RCNN model with Tensorflow Object Detection
+](https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4) | [Mask R-CNN with OpenCV
+](https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/)
+
+
 ## Day 126: Apr 24 2019
 
 **Today's Progress**: Published my framework to create image classifiers in a simple and quick way, called Image Classifier Creator, I know, too original right?, I'm open to name suggestions. 
