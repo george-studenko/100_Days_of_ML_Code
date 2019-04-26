@@ -81,6 +81,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 128: Apr 26 2019
+
+**Today's Progress**: Watching some lessons on how to train and use a Mask R-CNN with openCV using cv2.dnn.readNetFromTensorflow for inference.
+
+**Thoughts:** I would really like to be able to implement a Mask R-CNN myself, although it seems to be harder than any other DNN architecture. 
+
+**Links:** [Object Detection Custom Training of Image Mask RCNN Deep Learning](https://www.youtube.com/watch?v=uUYR6IEm5VM) |[Train Mask-RCNN repo](https://github.com/AISangam/Mask-RCNN-bottle-training) | [Tool to label images](http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html)
+
 ## Day 127: Apr 25 2019
 
 **Today's Progress**: Learning about Mask R-CNN for image segmentation,the original paper is from 2017, how come nobody told me about it yet!  
