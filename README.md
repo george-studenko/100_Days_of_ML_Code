@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 129: Apr 27 2019
+
+**Today's Progress**: Presenting a talk about Deep Neural Networks and Convolutional Neural Networks at Software Crafters Canarias.
+
+**Links:** [Software Crafters Canarias](https://socracan.com/) 
+
 ## Day 128: Apr 26 2019
 
 **Today's Progress**: Watching some lessons on how to train and use a Mask R-CNN with openCV using cv2.dnn.readNetFromTensorflow for inference.
