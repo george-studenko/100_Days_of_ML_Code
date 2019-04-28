@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 130: Apr 28 2019
+
+**Today's Progress**: Learning about Tensorflow 2.0 and the new features it supports, it takes out a lot of the previous complexity and me making it a lot easier to learn and use. Learning about TF Serving to deploy and maintain models in production. 
+
+**Links:** [Serving Models in Production with TensorFlow Serving](https://www.youtube.com/watch?v=q_IkJcPyNl0) |  [Siraj Raval Tensorflow 2.0 overview])(https://www.youtube.com/watch?v=WS9Nckd2kq0)
+
 ## Day 129: Apr 27 2019
 
 **Today's Progress**: Presenting a talk about Deep Neural Networks and Convolutional Neural Networks at Software Crafters Canarias.
