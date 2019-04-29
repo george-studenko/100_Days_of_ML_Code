@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 131: Apr 29 2019
+
+**Today's Progress**: Watching some videos from the Intro to TensorFlow for Deep Learning which teaches Tensorflow 2.0, reading Math for Programmers (3D graphics, machine learning, and simulations with Python) MEAP chapter 1 and a nice article A Recipe for Training Neural Networks.
+
+**Links:** [Article: A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) | [Intro to TensorFlow for Deep Learning](https://eu.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
 ## Day 130: Apr 28 2019
 
 **Today's Progress**: Learning about Tensorflow 2.0 and the new features it supports, it takes out a lot of the previous complexity and me making it a lot easier to learn and use. Learning about TF Serving to deploy and maintain models in production. 
