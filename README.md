@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 132: Apr 30 2019
+
+**Today's Progress**: continued watching the Tensorflow videos and testing notebooks in Colab training a simple model to convert degrees Celsius to Fahrenheit is quite interesting how the networks sets the weights and bias to almost the same as in the official conversion formula. 
+
+**Thoughts:** The formula is f = 1.8c + 32 while the network came as close as  1.798 and 31.905, learning a bit about keras as well while doing it, since now Keras is part of Tensorflow.
+
 ## Day 131: Apr 29 2019
 
 **Today's Progress**: Watching some videos from the Intro to TensorFlow for Deep Learning which teaches Tensorflow 2.0, reading Math for Programmers (3D graphics, machine learning, and simulations with Python) MEAP chapter 1 and a nice article A Recipe for Training Neural Networks.
