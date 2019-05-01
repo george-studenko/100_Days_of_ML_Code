@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 133: May 1 2019
+
+**Today's Progress**: Kept learning about Tensorflow, implemented a very simple network with a single dense layer to solve the typical hosing price problem (with one feature as input), learning how to implement callbacks when training with tensorflow
+
+**Thoughts:** nice to learn about callbacks when training, I never though of that before, as far as I know PyTorch does not implement that out of the box.
+
 ## Day 132: Apr 30 2019
 
 **Today's Progress**: continued watching the Tensorflow videos and testing notebooks in Colab training a simple model to convert degrees Celsius to Fahrenheit is quite interesting how the networks sets the weights and bias to almost the same as in the official conversion formula. 
