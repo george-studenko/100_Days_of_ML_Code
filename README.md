@@ -81,9 +81,16 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 134: May 2 2019
+
+**Today's Progress**: Reviewing CNN's concepts, convolutional layers and max pooling layers for downsampling images, learned that I can enable TF2 features in TF 1.13.1 by executing tf.enable_eager_execution() 
+
+**Thoughts:** It is always nice to review basic concepts, things that 2 years ago were so confusing now are quite clear, considering redoing many projects I did in the past in either PyTorch or TF 2.
+
+
 ## Day 133: May 1 2019
 
-**Today's Progress**: Kept learning about Tensorflow, implemented a very simple network with a single dense layer to solve the typical hosing price problem (with one feature as input), learning how to implement callbacks when training with tensorflow
+**Today's Progress**: Kept learning about Tensorflow, implemented a very simple network with a single dense layer to solve the typical housing price problem (with one feature as input), learning how to implement callbacks when training with tensorflow
 
 **Thoughts:** nice to learn about callbacks when training, I never though of that before, as far as I know PyTorch does not implement that out of the box.
 
