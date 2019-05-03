@@ -81,6 +81,11 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 135: May 3 2019
+
+**Today's Progress**: Going through the Tensorflow course on more advanced topics about Convolutional Neural Networks with multiple filters for RGB images.
+
+
 ## Day 134: May 2 2019
 
 **Today's Progress**: Reviewing CNN's concepts, convolutional layers and max pooling layers for downsampling images, learned that I can enable TF2 features in TF 1.13.1 by executing tf.enable_eager_execution() 
