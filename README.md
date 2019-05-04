@@ -81,6 +81,13 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+
+## Day 136: May 4 2019
+
+**Today's Progress**: Working on the Drone project With the team, starting to integrate the pieces we've been developing so far, getting ready for the demo day, learning about kafka as we might use it for the drone project.
+
+**Links:** [Kafka Tutorial](https://www.youtube.com/watch?v=U4y2R3v9tlY)
+
 ## Day 135: May 3 2019
 
 **Today's Progress**: Going through the Tensorflow course on more advanced topics about Convolutional Neural Networks with multiple filters for RGB images.
