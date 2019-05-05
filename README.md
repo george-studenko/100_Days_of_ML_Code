@@ -81,6 +81,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 137: May 5 2019
+
+**Today's Progress**: Re-learning about Generative Adversarial Networks and DCGANs, checking implementations in Tensorflow and Pytorch, researching about ML and DL for aviation.  
+
+**Thoughts:** I had a really hard time learning about GANs in the past, I'm now just trying to learn about it again,  
+
+**Links:**[Genearting images with GANs Siraj Raval](https://www.youtube.com/watch?v=yz6dNf7X7SA) | [Generative Adversarial Network(Pytorch)](https://www.youtube.com/watch?v=8l6NzV4Eryo) | [Forecasting airline passengers using designer machine learning](https://www.youtube.com/watch?v=A-azJ8qmwug) | [Artificial Intelligence for Real Airplanes](https://www.eurocontrol.int/sites/default/files/events/presentation/art-ws-ml-ai-10-ai-for-real-airplanes-boeing.pdf)
+
 
 ## Day 136: May 4 2019
 
