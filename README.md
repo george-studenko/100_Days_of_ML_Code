@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 143: May 11 2019
+
+**Today's Progress**: Learning about classification_report and confussion matrix in sklearn to evaluate models, metrics such as accuracy, precission, recall and F1 score can be calculated from the confusion matrix.
+
+**Thoughts:** sklearn makes it quite easy to evaluate models, but it is important to know how to read those metrics
+
 ## Day 142: May 10 2019
 
 **Today's Progress**: learning about Ridge regression and Lasso Regression, Lasso is quite interesting for feature selection using the coefficients, it can help filter out the good features to use when dealing with a lot of them, just plot the coefficients.
