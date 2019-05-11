@@ -81,6 +81,36 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 142: May 10 2019
+
+**Today's Progress**: learning about Ridge regression and Lasso Regression, Lasso is quite interesting for feature selection using the coefficients, it can help filter out the good features to use when dealing with a lot of them, just plot the coefficients.
+
+**Thoughts:** love the idea of getting features selection simplified with Lasso coefs!
+
+## Day 141: May 9 2019
+
+**Today's Progress**: continued with the Linear Regression lessons on the Sklearn course, performing 5-fold cross-validation
+
+**Thoughts:** sklearn is quite simple to use so far, I'm really enjoying it!
+
+## Day 140: May 8 2019
+
+**Today's Progress**: finished chapter 1 and now going through chapter 2 of Datacamp Supervised Learning with scikit-learn course on Regression
+
+**Thoughts:** so far simple stuff, but I always learn some things I didn't know
+
+## Day 139: May 7 2019
+
+**Today's Progress**: going through chapter 1 of Datacamp Supervised Learning with scikit-learn course, enrolled to datacamp, and having a lot of fun!
+
+**Thoughts:** took me a while to decide myself to enrol to datacamp, but finally did it, and so far so good!
+
+## Day 138: May 6 2019
+
+**Today's Progress**: exploring the Datacamp course catalog and Kaggle free courses, looking forward to start working with DL and ML at work.
+
+**Thoughts:**  Kaggle offers some interesting free courses, and datacamp you can get some good courses and projects quite cheap if you buy yearly with eventual offers, also saw dataquest in the past as a different alternative to datacamp
+
 ## Day 137: May 5 2019
 
 **Today's Progress**: Re-learning about Generative Adversarial Networks and DCGANs, checking implementations in Tensorflow and Pytorch, researching about ML and DL for aviation.  
