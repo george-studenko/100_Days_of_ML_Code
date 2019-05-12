@@ -1,0 +1,585 @@
+"Any","Trimestre","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Lloguer_mitja","Preu"
+2018,"1",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà mensual (Euros/mes)",792.74
+2018,"1",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà mensual (Euros/mes)",998.4
+2018,"1",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà mensual (Euros/mes)",870.84
+2018,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà mensual (Euros/mes)",923.44
+2018,"1",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà mensual (Euros/mes)",910.53
+2018,"1",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà mensual (Euros/mes)",883.75
+2018,"1",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1191.43
+2018,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1069.16
+2018,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",947.92
+2018,"1",2,"Eixample",10,"Sant Antoni","Lloguer mitjà mensual (Euros/mes)",899.98
+2018,"1",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà mensual (Euros/mes)",783.5
+2018,"1",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"1",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà mensual (Euros/mes)",751.65
+2018,"1",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà mensual (Euros/mes)",842.32
+2018,"1",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà mensual (Euros/mes)",754.83
+2018,"1",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà mensual (Euros/mes)",785.79
+2018,"1",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà mensual (Euros/mes)",764.41
+2018,"1",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà mensual (Euros/mes)",802.64
+2018,"1",4,"Les Corts",19,"les Corts","Lloguer mitjà mensual (Euros/mes)",1002.34
+2018,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà mensual (Euros/mes)",948.77
+2018,"1",4,"Les Corts",21,"Pedralbes","Lloguer mitjà mensual (Euros/mes)",1799.91
+2018,"1",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà mensual (Euros/mes)",895.7
+2018,"1",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà mensual (Euros/mes)",1249.23
+2018,"1",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà mensual (Euros/mes)",1613.41
+2018,"1",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà mensual (Euros/mes)",1247.7
+2018,"1",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà mensual (Euros/mes)",1310.42
+2018,"1",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà mensual (Euros/mes)",946.65
+2018,"1",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà mensual (Euros/mes)",886.27
+2018,"1",6,"Gràcia",29,"el Coll","Lloguer mitjà mensual (Euros/mes)",741.23
+2018,"1",6,"Gràcia",30,"la Salut","Lloguer mitjà mensual (Euros/mes)",815.62
+2018,"1",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà mensual (Euros/mes)",899.65
+2018,"1",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà mensual (Euros/mes)",884.55
+2018,"1",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà mensual (Euros/mes)",832.63
+2018,"1",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà mensual (Euros/mes)",721.46
+2018,"1",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà mensual (Euros/mes)",736.8
+2018,"1",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà mensual (Euros/mes)",824.12
+2018,"1",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà mensual (Euros/mes)",634.75
+2018,"1",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà mensual (Euros/mes)",690.81
+2018,"1",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà mensual (Euros/mes)",648.1
+2018,"1",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà mensual (Euros/mes)",717.78
+2018,"1",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà mensual (Euros/mes)",874.2
+2018,"1",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"1",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà mensual (Euros/mes)",748.19
+2018,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà mensual (Euros/mes)",720.9
+2018,"1",8,"Nou Barris",45,"Porta","Lloguer mitjà mensual (Euros/mes)",675.08
+2018,"1",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà mensual (Euros/mes)",665.36
+2018,"1",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"1",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà mensual (Euros/mes)",685.05
+2018,"1",8,"Nou Barris",49,"Canyelles","Lloguer mitjà mensual (Euros/mes)",714.68
+2018,"1",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà mensual (Euros/mes)",605.41
+2018,"1",8,"Nou Barris",51,"Verdun","Lloguer mitjà mensual (Euros/mes)",624.71
+2018,"1",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà mensual (Euros/mes)",634.3
+2018,"1",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà mensual (Euros/mes)",592.73
+2018,"1",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"1",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà mensual (Euros/mes)",507.16
+2018,"1",8,"Nou Barris",56,"Vallbona","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"1",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà mensual (Euros/mes)",589.02
+2018,"1",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"1",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà mensual (Euros/mes)",658.63
+2018,"1",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà mensual (Euros/mes)",744.82
+2018,"1",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà mensual (Euros/mes)",734.45
+2018,"1",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà mensual (Euros/mes)",754.09
+2018,"1",9,"Sant Andreu",63,"Navas","Lloguer mitjà mensual (Euros/mes)",790.2
+2018,"1",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà mensual (Euros/mes)",785.88
+2018,"1",10,"Sant Martí",65,"el Clot","Lloguer mitjà mensual (Euros/mes)",774.32
+2018,"1",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà mensual (Euros/mes)",916.31
+2018,"1",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà mensual (Euros/mes)",1272.26
+2018,"1",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà mensual (Euros/mes)",913.29
+2018,"1",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà mensual (Euros/mes)",1164.84
+2018,"1",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà mensual (Euros/mes)",682.32
+2018,"1",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà mensual (Euros/mes)",957.02
+2018,"1",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà mensual (Euros/mes)",751.48
+2018,"1",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà mensual (Euros/mes)",715.37
+2018,"2",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà mensual (Euros/mes)",820.88
+2018,"2",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà mensual (Euros/mes)",1024.29
+2018,"2",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà mensual (Euros/mes)",923.45
+2018,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà mensual (Euros/mes)",991.39
+2018,"2",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà mensual (Euros/mes)",942.96
+2018,"2",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà mensual (Euros/mes)",893.43
+2018,"2",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1263.08
+2018,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1078.13
+2018,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",975.53
+2018,"2",2,"Eixample",10,"Sant Antoni","Lloguer mitjà mensual (Euros/mes)",907.42
+2018,"2",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà mensual (Euros/mes)",788.23
+2018,"2",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"2",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà mensual (Euros/mes)",719.33
+2018,"2",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà mensual (Euros/mes)",834.68
+2018,"2",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà mensual (Euros/mes)",801.37
+2018,"2",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà mensual (Euros/mes)",757.26
+2018,"2",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà mensual (Euros/mes)",755.29
+2018,"2",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà mensual (Euros/mes)",811.74
+2018,"2",4,"Les Corts",19,"les Corts","Lloguer mitjà mensual (Euros/mes)",1038.73
+2018,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà mensual (Euros/mes)",959.26
+2018,"2",4,"Les Corts",21,"Pedralbes","Lloguer mitjà mensual (Euros/mes)",1563.31
+2018,"2",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà mensual (Euros/mes)",860.13
+2018,"2",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà mensual (Euros/mes)",1332.33
+2018,"2",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà mensual (Euros/mes)",1467.07
+2018,"2",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà mensual (Euros/mes)",1288.82
+2018,"2",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà mensual (Euros/mes)",1328.14
+2018,"2",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà mensual (Euros/mes)",972.89
+2018,"2",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà mensual (Euros/mes)",939.03
+2018,"2",6,"Gràcia",29,"el Coll","Lloguer mitjà mensual (Euros/mes)",716.25
+2018,"2",6,"Gràcia",30,"la Salut","Lloguer mitjà mensual (Euros/mes)",883.52
+2018,"2",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà mensual (Euros/mes)",913.34
+2018,"2",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà mensual (Euros/mes)",885.4
+2018,"2",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà mensual (Euros/mes)",817.38
+2018,"2",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà mensual (Euros/mes)",737.38
+2018,"2",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà mensual (Euros/mes)",758.61
+2018,"2",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà mensual (Euros/mes)",756.72
+2018,"2",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà mensual (Euros/mes)",637.17
+2018,"2",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà mensual (Euros/mes)",682.44
+2018,"2",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà mensual (Euros/mes)",646.83
+2018,"2",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà mensual (Euros/mes)",716.18
+2018,"2",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà mensual (Euros/mes)",864.72
+2018,"2",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"2",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà mensual (Euros/mes)",742.51
+2018,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà mensual (Euros/mes)",726.89
+2018,"2",8,"Nou Barris",45,"Porta","Lloguer mitjà mensual (Euros/mes)",713.94
+2018,"2",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà mensual (Euros/mes)",668.16
+2018,"2",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"2",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà mensual (Euros/mes)",724.25
+2018,"2",8,"Nou Barris",49,"Canyelles","Lloguer mitjà mensual (Euros/mes)",661.88
+2018,"2",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà mensual (Euros/mes)",575.71
+2018,"2",8,"Nou Barris",51,"Verdun","Lloguer mitjà mensual (Euros/mes)",628.8
+2018,"2",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà mensual (Euros/mes)",657.43
+2018,"2",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà mensual (Euros/mes)",574.15
+2018,"2",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà mensual (Euros/mes)",434.52
+2018,"2",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà mensual (Euros/mes)",491.84
+2018,"2",8,"Nou Barris",56,"Vallbona","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"2",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà mensual (Euros/mes)",598.29
+2018,"2",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"2",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà mensual (Euros/mes)",687.55
+2018,"2",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà mensual (Euros/mes)",752.66
+2018,"2",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà mensual (Euros/mes)",798.39
+2018,"2",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà mensual (Euros/mes)",751.16
+2018,"2",9,"Sant Andreu",63,"Navas","Lloguer mitjà mensual (Euros/mes)",797.8
+2018,"2",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà mensual (Euros/mes)",806.97
+2018,"2",10,"Sant Martí",65,"el Clot","Lloguer mitjà mensual (Euros/mes)",815.82
+2018,"2",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà mensual (Euros/mes)",1198.77
+2018,"2",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà mensual (Euros/mes)",1288.91
+2018,"2",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà mensual (Euros/mes)",960.99
+2018,"2",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà mensual (Euros/mes)",1371.14
+2018,"2",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà mensual (Euros/mes)",649.17
+2018,"2",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà mensual (Euros/mes)",913.66
+2018,"2",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà mensual (Euros/mes)",797.54
+2018,"2",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà mensual (Euros/mes)",719.55
+2018,"3",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà mensual (Euros/mes)",849.32
+2018,"3",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà mensual (Euros/mes)",1012.49
+2018,"3",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà mensual (Euros/mes)",889.24
+2018,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà mensual (Euros/mes)",970.97
+2018,"3",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà mensual (Euros/mes)",968.85
+2018,"3",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà mensual (Euros/mes)",934.89
+2018,"3",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1216.7
+2018,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1136.21
+2018,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1003.89
+2018,"3",2,"Eixample",10,"Sant Antoni","Lloguer mitjà mensual (Euros/mes)",970.26
+2018,"3",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà mensual (Euros/mes)",822.04
+2018,"3",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"3",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà mensual (Euros/mes)",755.18
+2018,"3",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà mensual (Euros/mes)",871.41
+2018,"3",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà mensual (Euros/mes)",814.55
+2018,"3",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà mensual (Euros/mes)",830.32
+2018,"3",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà mensual (Euros/mes)",786.8
+2018,"3",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà mensual (Euros/mes)",856.57
+2018,"3",4,"Les Corts",19,"les Corts","Lloguer mitjà mensual (Euros/mes)",1077.99
+2018,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà mensual (Euros/mes)",1013.28
+2018,"3",4,"Les Corts",21,"Pedralbes","Lloguer mitjà mensual (Euros/mes)",1849.52
+2018,"3",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà mensual (Euros/mes)",1102.29
+2018,"3",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà mensual (Euros/mes)",1443.71
+2018,"3",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà mensual (Euros/mes)",1746.01
+2018,"3",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà mensual (Euros/mes)",1322.61
+2018,"3",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà mensual (Euros/mes)",1374.32
+2018,"3",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà mensual (Euros/mes)",1021.27
+2018,"3",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà mensual (Euros/mes)",905.82
+2018,"3",6,"Gràcia",29,"el Coll","Lloguer mitjà mensual (Euros/mes)",756.36
+2018,"3",6,"Gràcia",30,"la Salut","Lloguer mitjà mensual (Euros/mes)",870.31
+2018,"3",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà mensual (Euros/mes)",923.39
+2018,"3",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà mensual (Euros/mes)",924.81
+2018,"3",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà mensual (Euros/mes)",839.47
+2018,"3",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà mensual (Euros/mes)",766.82
+2018,"3",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà mensual (Euros/mes)",797.84
+2018,"3",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà mensual (Euros/mes)",876.58
+2018,"3",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà mensual (Euros/mes)",654.77
+2018,"3",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà mensual (Euros/mes)",705.6
+2018,"3",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà mensual (Euros/mes)",660.93
+2018,"3",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà mensual (Euros/mes)",763.82
+2018,"3",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà mensual (Euros/mes)",822.31
+2018,"3",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"3",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà mensual (Euros/mes)",754.53
+2018,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà mensual (Euros/mes)",742.82
+2018,"3",8,"Nou Barris",45,"Porta","Lloguer mitjà mensual (Euros/mes)",712.12
+2018,"3",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà mensual (Euros/mes)",682.67
+2018,"3",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"3",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà mensual (Euros/mes)",732.86
+2018,"3",8,"Nou Barris",49,"Canyelles","Lloguer mitjà mensual (Euros/mes)",715.45
+2018,"3",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà mensual (Euros/mes)",638.14
+2018,"3",8,"Nou Barris",51,"Verdun","Lloguer mitjà mensual (Euros/mes)",618.91
+2018,"3",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà mensual (Euros/mes)",667.72
+2018,"3",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà mensual (Euros/mes)",584.73
+2018,"3",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"3",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà mensual (Euros/mes)",514.34
+2018,"3",8,"Nou Barris",56,"Vallbona","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"3",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà mensual (Euros/mes)",597.93
+2018,"3",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"3",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà mensual (Euros/mes)",693.69
+2018,"3",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà mensual (Euros/mes)",777.06
+2018,"3",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà mensual (Euros/mes)",783.09
+2018,"3",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà mensual (Euros/mes)",787.78
+2018,"3",9,"Sant Andreu",63,"Navas","Lloguer mitjà mensual (Euros/mes)",823.74
+2018,"3",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà mensual (Euros/mes)",827.45
+2018,"3",10,"Sant Martí",65,"el Clot","Lloguer mitjà mensual (Euros/mes)",815.1
+2018,"3",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà mensual (Euros/mes)",897.67
+2018,"3",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà mensual (Euros/mes)",1284.3
+2018,"3",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà mensual (Euros/mes)",1006.81
+2018,"3",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà mensual (Euros/mes)",818.55
+2018,"3",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà mensual (Euros/mes)",699.06
+2018,"3",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà mensual (Euros/mes)",928.02
+2018,"3",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà mensual (Euros/mes)",803.49
+2018,"3",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà mensual (Euros/mes)",767.1
+2018,"4",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà mensual (Euros/mes)",827.27
+2018,"4",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà mensual (Euros/mes)",1057.26
+2018,"4",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà mensual (Euros/mes)",913.2
+2018,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà mensual (Euros/mes)",1000.52
+2018,"4",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà mensual (Euros/mes)",983.1
+2018,"4",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà mensual (Euros/mes)",930.02
+2018,"4",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1340.38
+2018,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1164.32
+2018,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà mensual (Euros/mes)",1017.56
+2018,"4",2,"Eixample",10,"Sant Antoni","Lloguer mitjà mensual (Euros/mes)",960.3
+2018,"4",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà mensual (Euros/mes)",813.74
+2018,"4",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"4",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà mensual (Euros/mes)",778.52
+2018,"4",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà mensual (Euros/mes)",810.24
+2018,"4",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà mensual (Euros/mes)",811
+2018,"4",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà mensual (Euros/mes)",825.36
+2018,"4",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà mensual (Euros/mes)",831.19
+2018,"4",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà mensual (Euros/mes)",834.64
+2018,"4",4,"Les Corts",19,"les Corts","Lloguer mitjà mensual (Euros/mes)",1031.46
+2018,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà mensual (Euros/mes)",960.03
+2018,"4",4,"Les Corts",21,"Pedralbes","Lloguer mitjà mensual (Euros/mes)",1615.31
+2018,"4",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà mensual (Euros/mes)",898.33
+2018,"4",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà mensual (Euros/mes)",1422.8
+2018,"4",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà mensual (Euros/mes)",1567.91
+2018,"4",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà mensual (Euros/mes)",1283.24
+2018,"4",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà mensual (Euros/mes)",1374.82
+2018,"4",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà mensual (Euros/mes)",1031.54
+2018,"4",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà mensual (Euros/mes)",971.51
+2018,"4",6,"Gràcia",29,"el Coll","Lloguer mitjà mensual (Euros/mes)",748.9
+2018,"4",6,"Gràcia",30,"la Salut","Lloguer mitjà mensual (Euros/mes)",930.09
+2018,"4",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà mensual (Euros/mes)",927.06
+2018,"4",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà mensual (Euros/mes)",945.81
+2018,"4",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà mensual (Euros/mes)",827.04
+2018,"4",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà mensual (Euros/mes)",727.05
+2018,"4",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà mensual (Euros/mes)",796.35
+2018,"4",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà mensual (Euros/mes)",840.52
+2018,"4",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà mensual (Euros/mes)",653.21
+2018,"4",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà mensual (Euros/mes)",721.23
+2018,"4",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà mensual (Euros/mes)",666.91
+2018,"4",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà mensual (Euros/mes)",750.95
+2018,"4",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà mensual (Euros/mes)",876.65
+2018,"4",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"4",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà mensual (Euros/mes)",745.35
+2018,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà mensual (Euros/mes)",782.95
+2018,"4",8,"Nou Barris",45,"Porta","Lloguer mitjà mensual (Euros/mes)",723.34
+2018,"4",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà mensual (Euros/mes)",692.05
+2018,"4",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"4",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà mensual (Euros/mes)",708.41
+2018,"4",8,"Nou Barris",49,"Canyelles","Lloguer mitjà mensual (Euros/mes)",774.38
+2018,"4",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà mensual (Euros/mes)",595.81
+2018,"4",8,"Nou Barris",51,"Verdun","Lloguer mitjà mensual (Euros/mes)",649.22
+2018,"4",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà mensual (Euros/mes)",698.08
+2018,"4",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà mensual (Euros/mes)",575.38
+2018,"4",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"4",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà mensual (Euros/mes)",514.52
+2018,"4",8,"Nou Barris",56,"Vallbona","Lloguer mitjà mensual (Euros/mes)",NA
+2018,"4",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà mensual (Euros/mes)",564.56
+2018,"4",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà mensual (Euros/mes)",673.69
+2018,"4",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà mensual (Euros/mes)",696.06
+2018,"4",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà mensual (Euros/mes)",782.15
+2018,"4",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà mensual (Euros/mes)",798.32
+2018,"4",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà mensual (Euros/mes)",804.74
+2018,"4",9,"Sant Andreu",63,"Navas","Lloguer mitjà mensual (Euros/mes)",840.01
+2018,"4",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà mensual (Euros/mes)",851.58
+2018,"4",10,"Sant Martí",65,"el Clot","Lloguer mitjà mensual (Euros/mes)",835.55
+2018,"4",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà mensual (Euros/mes)",938.59
+2018,"4",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà mensual (Euros/mes)",1292.23
+2018,"4",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà mensual (Euros/mes)",970.64
+2018,"4",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà mensual (Euros/mes)",1307.79
+2018,"4",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà mensual (Euros/mes)",711.67
+2018,"4",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà mensual (Euros/mes)",999.63
+2018,"4",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà mensual (Euros/mes)",823.46
+2018,"4",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà mensual (Euros/mes)",756.1
+2018,"1",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà per superfície (Euros/m2 mes)",13.74
+2018,"1",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà per superfície (Euros/m2 mes)",13.3
+2018,"1",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà per superfície (Euros/m2 mes)",17.1
+2018,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà per superfície (Euros/m2 mes)",14.68
+2018,"1",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà per superfície (Euros/m2 mes)",12.63
+2018,"1",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà per superfície (Euros/m2 mes)",13.45
+2018,"1",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",13.21
+2018,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",13.49
+2018,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",13.51
+2018,"1",2,"Eixample",10,"Sant Antoni","Lloguer mitjà per superfície (Euros/m2 mes)",12.72
+2018,"1",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà per superfície (Euros/m2 mes)",13.83
+2018,"1",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"1",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà per superfície (Euros/m2 mes)",10.4
+2018,"1",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà per superfície (Euros/m2 mes)",12.42
+2018,"1",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà per superfície (Euros/m2 mes)",13.23
+2018,"1",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà per superfície (Euros/m2 mes)",12.4
+2018,"1",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà per superfície (Euros/m2 mes)",12.52
+2018,"1",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà per superfície (Euros/m2 mes)",12.94
+2018,"1",4,"Les Corts",19,"les Corts","Lloguer mitjà per superfície (Euros/m2 mes)",14.61
+2018,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà per superfície (Euros/m2 mes)",13.82
+2018,"1",4,"Les Corts",21,"Pedralbes","Lloguer mitjà per superfície (Euros/m2 mes)",14.92
+2018,"1",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà per superfície (Euros/m2 mes)",11.21
+2018,"1",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà per superfície (Euros/m2 mes)",16.04
+2018,"1",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà per superfície (Euros/m2 mes)",16.61
+2018,"1",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà per superfície (Euros/m2 mes)",16.24
+2018,"1",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà per superfície (Euros/m2 mes)",14.43
+2018,"1",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà per superfície (Euros/m2 mes)",14.1
+2018,"1",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà per superfície (Euros/m2 mes)",13.25
+2018,"1",6,"Gràcia",29,"el Coll","Lloguer mitjà per superfície (Euros/m2 mes)",12.28
+2018,"1",6,"Gràcia",30,"la Salut","Lloguer mitjà per superfície (Euros/m2 mes)",12.05
+2018,"1",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà per superfície (Euros/m2 mes)",14.38
+2018,"1",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà per superfície (Euros/m2 mes)",13.37
+2018,"1",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",12.63
+2018,"1",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà per superfície (Euros/m2 mes)",11.7
+2018,"1",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",11.68
+2018,"1",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà per superfície (Euros/m2 mes)",11.47
+2018,"1",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà per superfície (Euros/m2 mes)",11.22
+2018,"1",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà per superfície (Euros/m2 mes)",11.53
+2018,"1",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà per superfície (Euros/m2 mes)",9.79
+2018,"1",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà per superfície (Euros/m2 mes)",10.46
+2018,"1",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà per superfície (Euros/m2 mes)",12.08
+2018,"1",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"1",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà per superfície (Euros/m2 mes)",11.6
+2018,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà per superfície (Euros/m2 mes)",11.29
+2018,"1",8,"Nou Barris",45,"Porta","Lloguer mitjà per superfície (Euros/m2 mes)",11.11
+2018,"1",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà per superfície (Euros/m2 mes)",11.44
+2018,"1",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"1",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà per superfície (Euros/m2 mes)",9.56
+2018,"1",8,"Nou Barris",49,"Canyelles","Lloguer mitjà per superfície (Euros/m2 mes)",9.02
+2018,"1",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà per superfície (Euros/m2 mes)",11.22
+2018,"1",8,"Nou Barris",51,"Verdun","Lloguer mitjà per superfície (Euros/m2 mes)",11.37
+2018,"1",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà per superfície (Euros/m2 mes)",11.39
+2018,"1",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà per superfície (Euros/m2 mes)",11.65
+2018,"1",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"1",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà per superfície (Euros/m2 mes)",8.98
+2018,"1",8,"Nou Barris",56,"Vallbona","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"1",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà per superfície (Euros/m2 mes)",10.28
+2018,"1",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"1",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà per superfície (Euros/m2 mes)",10.45
+2018,"1",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà per superfície (Euros/m2 mes)",11.7
+2018,"1",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà per superfície (Euros/m2 mes)",11.28
+2018,"1",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà per superfície (Euros/m2 mes)",11.68
+2018,"1",9,"Sant Andreu",63,"Navas","Lloguer mitjà per superfície (Euros/m2 mes)",12.12
+2018,"1",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà per superfície (Euros/m2 mes)",12.5
+2018,"1",10,"Sant Martí",65,"el Clot","Lloguer mitjà per superfície (Euros/m2 mes)",12.2
+2018,"1",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",13.26
+2018,"1",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",17.28
+2018,"1",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.13
+2018,"1",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",15.73
+2018,"1",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà per superfície (Euros/m2 mes)",10.53
+2018,"1",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",13.2
+2018,"1",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà per superfície (Euros/m2 mes)",10.71
+2018,"1",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà per superfície (Euros/m2 mes)",10.39
+2018,"2",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà per superfície (Euros/m2 mes)",14.14
+2018,"2",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà per superfície (Euros/m2 mes)",14.15
+2018,"2",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà per superfície (Euros/m2 mes)",16.31
+2018,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà per superfície (Euros/m2 mes)",15.09
+2018,"2",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà per superfície (Euros/m2 mes)",12.92
+2018,"2",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà per superfície (Euros/m2 mes)",13.4
+2018,"2",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",13.71
+2018,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.01
+2018,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",13.83
+2018,"2",2,"Eixample",10,"Sant Antoni","Lloguer mitjà per superfície (Euros/m2 mes)",13.1
+2018,"2",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà per superfície (Euros/m2 mes)",13.41
+2018,"2",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"2",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà per superfície (Euros/m2 mes)",10.23
+2018,"2",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà per superfície (Euros/m2 mes)",12.59
+2018,"2",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà per superfície (Euros/m2 mes)",13.42
+2018,"2",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà per superfície (Euros/m2 mes)",11.4
+2018,"2",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà per superfície (Euros/m2 mes)",12.86
+2018,"2",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà per superfície (Euros/m2 mes)",12.82
+2018,"2",4,"Les Corts",19,"les Corts","Lloguer mitjà per superfície (Euros/m2 mes)",14.65
+2018,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà per superfície (Euros/m2 mes)",13.35
+2018,"2",4,"Les Corts",21,"Pedralbes","Lloguer mitjà per superfície (Euros/m2 mes)",17.66
+2018,"2",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà per superfície (Euros/m2 mes)",11.57
+2018,"2",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà per superfície (Euros/m2 mes)",17.02
+2018,"2",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà per superfície (Euros/m2 mes)",16.42
+2018,"2",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà per superfície (Euros/m2 mes)",15.83
+2018,"2",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà per superfície (Euros/m2 mes)",14.65
+2018,"2",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà per superfície (Euros/m2 mes)",14.38
+2018,"2",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà per superfície (Euros/m2 mes)",13.04
+2018,"2",6,"Gràcia",29,"el Coll","Lloguer mitjà per superfície (Euros/m2 mes)",11.78
+2018,"2",6,"Gràcia",30,"la Salut","Lloguer mitjà per superfície (Euros/m2 mes)",12.71
+2018,"2",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà per superfície (Euros/m2 mes)",14.51
+2018,"2",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà per superfície (Euros/m2 mes)",13.87
+2018,"2",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",12.65
+2018,"2",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà per superfície (Euros/m2 mes)",11.92
+2018,"2",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",11.89
+2018,"2",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà per superfície (Euros/m2 mes)",11.44
+2018,"2",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà per superfície (Euros/m2 mes)",11.08
+2018,"2",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà per superfície (Euros/m2 mes)",11.94
+2018,"2",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà per superfície (Euros/m2 mes)",9.85
+2018,"2",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà per superfície (Euros/m2 mes)",10.44
+2018,"2",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà per superfície (Euros/m2 mes)",12.28
+2018,"2",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"2",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà per superfície (Euros/m2 mes)",11.55
+2018,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà per superfície (Euros/m2 mes)",11.12
+2018,"2",8,"Nou Barris",45,"Porta","Lloguer mitjà per superfície (Euros/m2 mes)",11.49
+2018,"2",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà per superfície (Euros/m2 mes)",11.01
+2018,"2",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"2",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà per superfície (Euros/m2 mes)",9.94
+2018,"2",8,"Nou Barris",49,"Canyelles","Lloguer mitjà per superfície (Euros/m2 mes)",9.67
+2018,"2",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà per superfície (Euros/m2 mes)",10.98
+2018,"2",8,"Nou Barris",51,"Verdun","Lloguer mitjà per superfície (Euros/m2 mes)",11.57
+2018,"2",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà per superfície (Euros/m2 mes)",11.39
+2018,"2",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà per superfície (Euros/m2 mes)",12.11
+2018,"2",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà per superfície (Euros/m2 mes)",7.22
+2018,"2",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà per superfície (Euros/m2 mes)",8.39
+2018,"2",8,"Nou Barris",56,"Vallbona","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"2",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà per superfície (Euros/m2 mes)",10.24
+2018,"2",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"2",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà per superfície (Euros/m2 mes)",11.42
+2018,"2",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà per superfície (Euros/m2 mes)",11.64
+2018,"2",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà per superfície (Euros/m2 mes)",12.08
+2018,"2",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà per superfície (Euros/m2 mes)",11.49
+2018,"2",9,"Sant Andreu",63,"Navas","Lloguer mitjà per superfície (Euros/m2 mes)",11.88
+2018,"2",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà per superfície (Euros/m2 mes)",13.06
+2018,"2",10,"Sant Martí",65,"el Clot","Lloguer mitjà per superfície (Euros/m2 mes)",12.72
+2018,"2",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.72
+2018,"2",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",17.11
+2018,"2",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.27
+2018,"2",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",18.15
+2018,"2",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà per superfície (Euros/m2 mes)",10.66
+2018,"2",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",13.28
+2018,"2",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà per superfície (Euros/m2 mes)",11.86
+2018,"2",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà per superfície (Euros/m2 mes)",10.96
+2018,"3",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà per superfície (Euros/m2 mes)",14.12
+2018,"3",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà per superfície (Euros/m2 mes)",13.54
+2018,"3",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà per superfície (Euros/m2 mes)",16.85
+2018,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà per superfície (Euros/m2 mes)",15.12
+2018,"3",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà per superfície (Euros/m2 mes)",13.41
+2018,"3",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà per superfície (Euros/m2 mes)",13.97
+2018,"3",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.48
+2018,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.32
+2018,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.16
+2018,"3",2,"Eixample",10,"Sant Antoni","Lloguer mitjà per superfície (Euros/m2 mes)",13.36
+2018,"3",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà per superfície (Euros/m2 mes)",14.16
+2018,"3",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"3",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà per superfície (Euros/m2 mes)",10.59
+2018,"3",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà per superfície (Euros/m2 mes)",12.31
+2018,"3",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà per superfície (Euros/m2 mes)",13.58
+2018,"3",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà per superfície (Euros/m2 mes)",12.42
+2018,"3",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà per superfície (Euros/m2 mes)",13.43
+2018,"3",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà per superfície (Euros/m2 mes)",13.44
+2018,"3",4,"Les Corts",19,"les Corts","Lloguer mitjà per superfície (Euros/m2 mes)",15.02
+2018,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà per superfície (Euros/m2 mes)",13.67
+2018,"3",4,"Les Corts",21,"Pedralbes","Lloguer mitjà per superfície (Euros/m2 mes)",14.8
+2018,"3",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà per superfície (Euros/m2 mes)",11.24
+2018,"3",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà per superfície (Euros/m2 mes)",17.86
+2018,"3",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà per superfície (Euros/m2 mes)",16.26
+2018,"3",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà per superfície (Euros/m2 mes)",16.06
+2018,"3",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà per superfície (Euros/m2 mes)",14.76
+2018,"3",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà per superfície (Euros/m2 mes)",15.15
+2018,"3",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà per superfície (Euros/m2 mes)",13.73
+2018,"3",6,"Gràcia",29,"el Coll","Lloguer mitjà per superfície (Euros/m2 mes)",12.75
+2018,"3",6,"Gràcia",30,"la Salut","Lloguer mitjà per superfície (Euros/m2 mes)",13.17
+2018,"3",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà per superfície (Euros/m2 mes)",14.72
+2018,"3",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà per superfície (Euros/m2 mes)",14.02
+2018,"3",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",12.72
+2018,"3",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà per superfície (Euros/m2 mes)",12.84
+2018,"3",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",12.33
+2018,"3",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà per superfície (Euros/m2 mes)",12.94
+2018,"3",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà per superfície (Euros/m2 mes)",11.48
+2018,"3",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà per superfície (Euros/m2 mes)",12.66
+2018,"3",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà per superfície (Euros/m2 mes)",9.53
+2018,"3",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà per superfície (Euros/m2 mes)",11.5
+2018,"3",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà per superfície (Euros/m2 mes)",12.24
+2018,"3",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"3",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà per superfície (Euros/m2 mes)",12.39
+2018,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà per superfície (Euros/m2 mes)",11.81
+2018,"3",8,"Nou Barris",45,"Porta","Lloguer mitjà per superfície (Euros/m2 mes)",11.24
+2018,"3",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà per superfície (Euros/m2 mes)",11.37
+2018,"3",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"3",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà per superfície (Euros/m2 mes)",10.68
+2018,"3",8,"Nou Barris",49,"Canyelles","Lloguer mitjà per superfície (Euros/m2 mes)",9.11
+2018,"3",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà per superfície (Euros/m2 mes)",11.85
+2018,"3",8,"Nou Barris",51,"Verdun","Lloguer mitjà per superfície (Euros/m2 mes)",11.74
+2018,"3",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà per superfície (Euros/m2 mes)",11.84
+2018,"3",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà per superfície (Euros/m2 mes)",12.43
+2018,"3",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"3",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà per superfície (Euros/m2 mes)",8.81
+2018,"3",8,"Nou Barris",56,"Vallbona","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"3",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà per superfície (Euros/m2 mes)",10.14
+2018,"3",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"3",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà per superfície (Euros/m2 mes)",10.81
+2018,"3",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà per superfície (Euros/m2 mes)",12.05
+2018,"3",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà per superfície (Euros/m2 mes)",11.95
+2018,"3",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà per superfície (Euros/m2 mes)",12.33
+2018,"3",9,"Sant Andreu",63,"Navas","Lloguer mitjà per superfície (Euros/m2 mes)",11.99
+2018,"3",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà per superfície (Euros/m2 mes)",12.92
+2018,"3",10,"Sant Martí",65,"el Clot","Lloguer mitjà per superfície (Euros/m2 mes)",12.85
+2018,"3",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",13.78
+2018,"3",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",16.39
+2018,"3",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.68
+2018,"3",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",12.99
+2018,"3",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà per superfície (Euros/m2 mes)",11.11
+2018,"3",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",13.88
+2018,"3",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà per superfície (Euros/m2 mes)",11.75
+2018,"3",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà per superfície (Euros/m2 mes)",11.42
+2018,"4",1,"Ciutat Vella",1,"el Raval","Lloguer mitjà per superfície (Euros/m2 mes)",14.07
+2018,"4",1,"Ciutat Vella",2,"el Barri Gòtic","Lloguer mitjà per superfície (Euros/m2 mes)",14.1
+2018,"4",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjà per superfície (Euros/m2 mes)",17.41
+2018,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjà per superfície (Euros/m2 mes)",15.2
+2018,"4",2,"Eixample",5,"el Fort Pienc","Lloguer mitjà per superfície (Euros/m2 mes)",13.61
+2018,"4",2,"Eixample",6,"la Sagrada Família","Lloguer mitjà per superfície (Euros/m2 mes)",14.05
+2018,"4",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.44
+2018,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.37
+2018,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjà per superfície (Euros/m2 mes)",14.12
+2018,"4",2,"Eixample",10,"Sant Antoni","Lloguer mitjà per superfície (Euros/m2 mes)",13.49
+2018,"4",3,"Sants-Montjuïc",11,"el Poble Sec","Lloguer mitjà per superfície (Euros/m2 mes)",14.02
+2018,"4",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"4",3,"Sants-Montjuïc",13,"la Marina de Port","Lloguer mitjà per superfície (Euros/m2 mes)",11.1
+2018,"4",3,"Sants-Montjuïc",14,"la Font de la Guatlla","Lloguer mitjà per superfície (Euros/m2 mes)",12.13
+2018,"4",3,"Sants-Montjuïc",15,"Hostafrancs","Lloguer mitjà per superfície (Euros/m2 mes)",13.89
+2018,"4",3,"Sants-Montjuïc",16,"la Bordeta","Lloguer mitjà per superfície (Euros/m2 mes)",12.32
+2018,"4",3,"Sants-Montjuïc",17,"Sants - Badal","Lloguer mitjà per superfície (Euros/m2 mes)",13.31
+2018,"4",3,"Sants-Montjuïc",18,"Sants","Lloguer mitjà per superfície (Euros/m2 mes)",13.4
+2018,"4",4,"Les Corts",19,"les Corts","Lloguer mitjà per superfície (Euros/m2 mes)",15.05
+2018,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjà per superfície (Euros/m2 mes)",13.53
+2018,"4",4,"Les Corts",21,"Pedralbes","Lloguer mitjà per superfície (Euros/m2 mes)",15.37
+2018,"4",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjà per superfície (Euros/m2 mes)",14.25
+2018,"4",5,"Sarrià-Sant Gervasi",23,"Sarrià","Lloguer mitjà per superfície (Euros/m2 mes)",17.81
+2018,"4",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Lloguer mitjà per superfície (Euros/m2 mes)",16.43
+2018,"4",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjà per superfície (Euros/m2 mes)",16.27
+2018,"4",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjà per superfície (Euros/m2 mes)",15.27
+2018,"4",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Lloguer mitjà per superfície (Euros/m2 mes)",14.75
+2018,"4",6,"Gràcia",28,"Vallcarca i els Penitents","Lloguer mitjà per superfície (Euros/m2 mes)",14.34
+2018,"4",6,"Gràcia",29,"el Coll","Lloguer mitjà per superfície (Euros/m2 mes)",11.88
+2018,"4",6,"Gràcia",30,"la Salut","Lloguer mitjà per superfície (Euros/m2 mes)",13.33
+2018,"4",6,"Gràcia",31,"la Vila de Gràcia","Lloguer mitjà per superfície (Euros/m2 mes)",14.76
+2018,"4",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Lloguer mitjà per superfície (Euros/m2 mes)",14.06
+2018,"4",7,"Horta-Guinardó",33,"el Baix Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",12.65
+2018,"4",7,"Horta-Guinardó",34,"Can Baró","Lloguer mitjà per superfície (Euros/m2 mes)",12.14
+2018,"4",7,"Horta-Guinardó",35,"el Guinardó","Lloguer mitjà per superfície (Euros/m2 mes)",12.38
+2018,"4",7,"Horta-Guinardó",36,"la Font d'en Fargues","Lloguer mitjà per superfície (Euros/m2 mes)",12.42
+2018,"4",7,"Horta-Guinardó",37,"el Carmel","Lloguer mitjà per superfície (Euros/m2 mes)",11.6
+2018,"4",7,"Horta-Guinardó",38,"la Teixonera","Lloguer mitjà per superfície (Euros/m2 mes)",12.17
+2018,"4",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Lloguer mitjà per superfície (Euros/m2 mes)",9.56
+2018,"4",7,"Horta-Guinardó",40,"Montbau","Lloguer mitjà per superfície (Euros/m2 mes)",11.59
+2018,"4",7,"Horta-Guinardó",41,"la Vall d'Hebron","Lloguer mitjà per superfície (Euros/m2 mes)",12.59
+2018,"4",7,"Horta-Guinardó",42,"la Clota","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"4",7,"Horta-Guinardó",43,"Horta","Lloguer mitjà per superfície (Euros/m2 mes)",11.76
+2018,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjà per superfície (Euros/m2 mes)",12.04
+2018,"4",8,"Nou Barris",45,"Porta","Lloguer mitjà per superfície (Euros/m2 mes)",11.94
+2018,"4",8,"Nou Barris",46,"el Turó de la Peira","Lloguer mitjà per superfície (Euros/m2 mes)",11.43
+2018,"4",8,"Nou Barris",47,"Can Peguera","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"4",8,"Nou Barris",48,"la Guineueta","Lloguer mitjà per superfície (Euros/m2 mes)",10.01
+2018,"4",8,"Nou Barris",49,"Canyelles","Lloguer mitjà per superfície (Euros/m2 mes)",10.09
+2018,"4",8,"Nou Barris",50,"les Roquetes","Lloguer mitjà per superfície (Euros/m2 mes)",10.89
+2018,"4",8,"Nou Barris",51,"Verdun","Lloguer mitjà per superfície (Euros/m2 mes)",11.92
+2018,"4",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjà per superfície (Euros/m2 mes)",12.41
+2018,"4",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjà per superfície (Euros/m2 mes)",11.7
+2018,"4",8,"Nou Barris",54,"Torre Baró","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"4",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjà per superfície (Euros/m2 mes)",8.7
+2018,"4",8,"Nou Barris",56,"Vallbona","Lloguer mitjà per superfície (Euros/m2 mes)",NA
+2018,"4",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjà per superfície (Euros/m2 mes)",9.4
+2018,"4",9,"Sant Andreu",58,"Baró de Viver","Lloguer mitjà per superfície (Euros/m2 mes)",7.6
+2018,"4",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjà per superfície (Euros/m2 mes)",10.68
+2018,"4",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjà per superfície (Euros/m2 mes)",12.24
+2018,"4",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjà per superfície (Euros/m2 mes)",12.23
+2018,"4",9,"Sant Andreu",62,"el Congrés i els Indians","Lloguer mitjà per superfície (Euros/m2 mes)",12.18
+2018,"4",9,"Sant Andreu",63,"Navas","Lloguer mitjà per superfície (Euros/m2 mes)",12.12
+2018,"4",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Lloguer mitjà per superfície (Euros/m2 mes)",13.58
+2018,"4",10,"Sant Martí",65,"el Clot","Lloguer mitjà per superfície (Euros/m2 mes)",12.47
+2018,"4",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.16
+2018,"4",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",16.65
+2018,"4",10,"Sant Martí",68,"el Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.76
+2018,"4",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",16.84
+2018,"4",10,"Sant Martí",70,"el Besòs i el Maresme","Lloguer mitjà per superfície (Euros/m2 mes)",11.54
+2018,"4",10,"Sant Martí",71,"Provençals del Poblenou","Lloguer mitjà per superfície (Euros/m2 mes)",14.27
+2018,"4",10,"Sant Martí",72,"Sant Martí de Provençals","Lloguer mitjà per superfície (Euros/m2 mes)",11.77
+2018,"4",10,"Sant Martí",73,"la Verneda i la Pau","Lloguer mitjà per superfície (Euros/m2 mes)",11.81

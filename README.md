@@ -81,6 +81,14 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 144: May 12 2019
+
+**Today's Progress**: Playing around with Pandas exploring Catalunya open data, not much so far, my pandas's skills are a bit rusty
+
+**Thoughts:** Was nice to find open datasources from Barcelona and Badalona, looking forward to make some data exploration in depht and see what insights I can find.
+
+**Links:** [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en/) | [Badalona Open Data](http://opendata.badalona.cat/od/) 
+
 ## Day 143: May 11 2019
 
 **Today's Progress**: Learning about classification_report and confussion matrix in sklearn to evaluate models, metrics such as accuracy, precission, recall and F1 score can be calculated from the confusion matrix.
