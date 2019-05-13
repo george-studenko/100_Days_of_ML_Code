@@ -81,6 +81,10 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 145: May 13 2019
+
+**Today's Progress**: Learning about Logistic Regression for classification problems in sklearn. For metrics learning about the ROC curve and AUC (area under curve), applying AUC with cross-validation (cross_val_score)
+
 ## Day 144: May 12 2019
 
 **Today's Progress**: Playing around with Pandas exploring Catalunya open data, not much so far, my pandas's skills are a bit rusty
