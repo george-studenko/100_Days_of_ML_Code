@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 147: May 15 2019
+
+**Today's Progress**: Learning aboud data preprocesing like dummy variables and how to obtain them with pandas and scikit learn, get_dummies() and OneHotEncoder() and how we can drop one of the columns, dealing with missing data functions. Experimenting around with #docker deep learning #containers.
+
+**Thoughts:** Had to install differnet docker images until I found one that seems to be fine for what I need, will keep experimenting with it, so far so good.
+
 ## Day 146: May 14 2019
 
 **Today's Progress**: Learning about GridSearchCv and RandomizedSearchCv to find and tune hyperparameters, applying them with cross-validation, accessing the best values with the best_score_ and best_params_ properties
