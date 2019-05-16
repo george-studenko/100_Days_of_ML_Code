@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 148: May 16 2019
+
+**Today's Progress**: Learning about data imputation with imputers, creating a simple pipelines in sklearn, data standarization by centering and scaling to improve model performance.
+
+**Links:** [Preprocessing in Data Science (Part 1): Centering, Scaling, and KNN](https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn)
+
 ## Day 147: May 15 2019
 
 **Today's Progress**: Learning aboud data preprocesing like dummy variables and how to obtain them with pandas and scikit learn, get_dummies() and OneHotEncoder() and how we can drop one of the columns, dealing with missing data functions. Experimenting around with #docker deep learning #containers.
