@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 150: May 18 2019
+
+**Today's Progress**: Started with the unsupervised learning with python course @DataCamp, experimenting with KMeans for clustering, plotting clusters and their corresponding centroids with pyplot scatter plots to visualize them
+
+**Thoughts:** I have always been working most of the time with supervised learning methods, although I did try doing some clustering in the past I'm learning new things with this
+
 ## Day 149: May 17 2019
 
 **Today's Progress**: Implementing pipelines for classification and regression models with that finished with the Supervised Learning with scikit-learning datacamp course, was a lot of fun, looking forward to continue with more ML courses @datacamp
