@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 151: May 19 2019
+
+**Today's Progress**: Learning how to evaluate a cluster with metrics such as inertia_ and and pandas crosstab, plotting inetia for models with different values of k to find the best k value for a kmeans model
+
+**Thoughts:** Having fun with clustering and kmeans
+
 ## Day 150: May 18 2019
 
 **Today's Progress**: Started with the unsupervised learning with python course @DataCamp, experimenting with KMeans for clustering, plotting clusters and their corresponding centroids with pyplot scatter plots to visualize them
