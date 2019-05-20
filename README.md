@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 152: May 20 2019
+
+**Today's Progress**: Creating pipelines with make_pipeline so include Scalers or Normalizers to the pipeline before training the kmeans model in order to improve results by scaling or normalizing values 
+
+**Thoughts:** the make_pipeline method is very simple to use making the use of pipelines a snap
+
 ## Day 151: May 19 2019
 
 **Today's Progress**: Learning how to evaluate a cluster with metrics such as inertia_ and and pandas crosstab, plotting inetia for models with different values of k to find the best k value for a kmeans model
