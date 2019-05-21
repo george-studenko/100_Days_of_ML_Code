@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 153: May 21 2019
+
+**Today's Progress**: Learning about hierarchical clustering for data visualization with linkage() and dendrogram to plot mergings  
+
+**Thoughts:** A bit hard to understand the mergings plot at first, but it is interensting how items in the same group do have things in common 
+
 ## Day 152: May 20 2019
 
 **Today's Progress**: Creating pipelines with make_pipeline so include Scalers or Normalizers to the pipeline before training the kmeans model in order to improve results by scaling or normalizing values 
