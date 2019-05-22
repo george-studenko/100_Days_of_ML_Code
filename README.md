@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 154: May 22 2019
+
+**Today's Progress**: Learning about t-SNE for high dimension data visualizations, plotting t-sne to see how they correlate and how the clusters look like, learning about the t-sne learning_rate and what happens when the lr is not correct  
+
+**Thoughts:** it is a lot easier to understand the visualizations with t-sne for me
+
 ## Day 153: May 21 2019
 
 **Today's Progress**: Learning about hierarchical clustering for data visualization with linkage() and dendrogram to plot mergings  
