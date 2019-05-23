@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 155: May 23 2019
+
+**Today's Progress**: Continued on the Unsupervised learning course, learning about PCA (Principal Component Analysis), to decorrelate features and reduce dimensions by checking the variance of each feature, also learning about intrinsic dimensions in data.  
+
+**Thoughts:** Not sure how it works in the background but PCA seems to be doing a great job
+
 ## Day 154: May 22 2019
 
 **Today's Progress**: Learning about t-SNE for high dimension data visualizations, plotting t-sne to see how they correlate and how the clusters look like, learning about the t-sne learning_rate and what happens when the lr is not correct  
