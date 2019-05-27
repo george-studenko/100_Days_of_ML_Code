@@ -81,6 +81,10 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 156: May 27 2019
+
+**Today's Progress**: Continued with the Usupervised learning datacamp course, finished the Decorrelating your data and dimension reduction chapter, learning about tf-idf for word frequency arrays   
+
 ## Day 155: May 23 2019
 
 **Today's Progress**: Continued on the Unsupervised learning course, learning about PCA (Principal Component Analysis), to decorrelate features and reduce dimensions by checking the variance of each feature, also learning about intrinsic dimensions in data.  
