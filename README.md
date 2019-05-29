@@ -81,6 +81,10 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 158: May 29 2019
+
+**Today's Progress**: Applying NMF Non-Negative Matrix Factorization to images to check how it learns about segments of the image, comparing to PCA which is not able to learn about those segments.
+
 ## Day 157: May 28 2019
 
 **Today's Progress**: Learning about NMF Non-Negative Matrix Factorization for matrix decomposition and applying it to cluster and find topics in wikipedia articles. It can also be used for images to recognize parts of images by flattening the grayscale image. 
