@@ -81,6 +81,10 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 159: May 30 2019
+
+**Today's Progress**: Completed the Generating Keywords for Google Ads project @datacamp, learning how to create recommendation systems using NMF with word arrays and cosine similarities. 
+
 ## Day 158: May 29 2019
 
 **Today's Progress**: Applying NMF Non-Negative Matrix Factorization to images to check how it learns about segments of the image, comparing to PCA which is not able to learn about those segments.
