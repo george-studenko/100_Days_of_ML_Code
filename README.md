@@ -81,6 +81,12 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [32.81TB of research data](http://academictorrents.com/)  
 [Amazon Machine Learning paths](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+## Day 160: May 31 2019
+
+**Today's Progress**: Applying cosine similarities to find recommended articles and recommended artists and completed the Unsupervised Learning with Python course @datacamp where I learned how to cluster, transform, visualize, and extract insights from unlabeled datasets.
+
+**Thoughts:** I know the basics now, about unsupervised learning but there is a long way to go, I will be practicing with datacamps project and should also go back to kaggle to grab some projects from there as well, busy days.
+
 ## Day 159: May 30 2019
 
 **Today's Progress**: Completed the Generating Keywords for Google Ads project @datacamp, learning how to create recommendation systems using NMF with word arrays and cosine similarities. 
