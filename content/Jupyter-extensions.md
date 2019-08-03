@@ -22,3 +22,12 @@ conda install -c conda-forge autopep8
 ```
 
 Official documentation [here](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) 
+
+## With pip
+You can do the same with pip
+```
+pip install jupyter_contrib_nbextensions  
+pip install jupyter_nbextensions_configurator  
+pip install jupyterthemes   
+jupyter contrib nbextension install   
+```
