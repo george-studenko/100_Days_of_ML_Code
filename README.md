@@ -74,8 +74,8 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 ### Repositories  
 [Detecting edges live with webcam repo](https://github.com/george-studenko/Live-Sketch-with-Computer-Vision)  
 [Facial Keypoints Detector Project](https://github.com/george-studenko/Facia-Keypoints-Detector)  
-[Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)
-[Hotdog Not Hotdog](https://github.com/george-studenko/Hotdog-not-Hotdog)
+[Landmard Detection and Tracking Project](https://github.com/george-studenko/landmark-detection-and-tracking)  
+[Hotdog Not Hotdog](https://github.com/george-studenko/Hotdog-not-Hotdog)  
 
 ### Resources 
 [32.81TB of research data](http://academictorrents.com/)  
