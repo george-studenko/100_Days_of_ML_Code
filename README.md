@@ -44,6 +44,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Momentum](content/Momentum.md)   
 [Machine Learning Concepts](content/Machine-learning-concepts.md)   
 [NLTK](content/NLTK.md)  
+[OpenCV](content/OpenCV.md)  
 [Probability](content/Probability.md)   
 [PyTorch Anatomy](https://freecontent.manning.com/pytorch-crash-course-part-1/)   
 [PyTorch notes](content/PyTorch.md)   
