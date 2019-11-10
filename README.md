@@ -36,6 +36,7 @@ And the always useful [Cheatsheets!](https://github.com/george-studenko/ds-cheat
 [Intro to Pandas Lab](code/Intro_to_pandas.ipynb)  
 [Jobs in Computer Vision](content/Jobs-in-Computer-Vision.md)  
 [Jupyter notebooks extensions](content/Jupyter-extensions.md)    
+[Jupyter notbook server](content/Jupyter-server.md)
 [KNN with Lodash](code/knn-lodash.js)  
 [Layer Shapes](content/Layer-shapes.md)  
 [Learning Rates](content/Learning-rate.md)   
