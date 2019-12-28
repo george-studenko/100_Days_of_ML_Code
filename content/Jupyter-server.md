@@ -1,4 +1,4 @@
-## Configur a Jupyter Notebook Server
+## Configure a Jupyter Notebook Server
 ### Configure the server
 1. On the server you first create the config with:  
 ```jupyter notebook --generate-config```  
