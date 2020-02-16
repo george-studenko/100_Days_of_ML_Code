@@ -5,7 +5,7 @@ Calculating the shape of layers have always been a hard thing for me, today I fo
 For any convolutional layer, the output feature maps will have the specified depth (a depth of 10 for 10 filters in a convolutional layer) and the dimensions of the produced feature maps (width/height) can be computed as the input image width/height, W, minus the filter size, F, divided by the stride, S, all + 1.  
   
 The equation looks like this:    
-```output_dim = (Width - Filter + 2Padding) / Stride + 1```.
+```output_dim = (Width - Filter + 2*Padding) / Stride + 1```.
 
 Where:  
  ```Filter```: can be also referred as the ```Kernel```.   
